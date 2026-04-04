@@ -3,6 +3,22 @@ import joblib
 import numpy as np
 import pandas as pd
 
+import streamlit as st
+
+st.write("App started... 🚀")
+
+
+import os
+
+MODEL_PATH = "career_recommender_model.joblib"
+
+if not os.path.exists(MODEL_PATH):
+    st.error("Model file NOT FOUND ❌")
+else:
+    st.write("Model found ✅")
+    pipeline = joblib.load(MODEL_PATH)
+
+
 # ---------------- LOAD MODEL ---------------- #
 @st.cache_resource
 def load_model():
