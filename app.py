@@ -3,20 +3,30 @@ import joblib
 import numpy as np
 import pandas as pd
 
-MODEL_PATH = "career_recommender_model.joblib"
-
+# ---------------- LOAD MODEL ---------------- #
 @st.cache_resource
 def load_model():
-    if not os.path.exists(MODEL_PATH):
-        st.write("Downloading model... ⏳")
-
-        url = "https://drive.google.com/uc?id=1PCGXon529D5bw0rgpQd1CPAQLYXXdVf1"
-        gdown.download(url, MODEL_PATH, quiet=False, fuzzy=True)
-
-    st.write("Loading model... ✅")
-    return joblib.load(MODEL_PATH)
+    return joblib.load("career_recommender_model.joblib")
 
 pipeline = load_model()
+
+# ---------------- PREDICTION FUNCTION ---------------- #
+def predict_top_3_careers(age, education, skills_list, interests_list):
+    combined_text = ";".join(skills_list) + ";" + ";".join(interests_list)
+
+    user_df = pd.DataFrame([{
+        "Age": age,
+        "Education": education,
+        "Combined_Text": combined_text
+    }])
+
+    proba = pipeline.predict_proba(user_df)[0]
+    classes = pipeline.classes_
+
+    top3_idx = np.argsort(proba)[-3:][::-1]
+
+    return [(classes[i], float(proba[i])) for i in top3_idx]
+
 
 # ---------------- PAGE CONFIG ---------------- #
 st.set_page_config(page_title="AI Career Recommender", page_icon="🎯")
