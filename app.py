@@ -2,21 +2,6 @@ import streamlit as st
 import joblib
 import numpy as np
 import pandas as pd
-import gdown
-import os
-
-# ---------------- DOWNLOAD MODEL ---------------- #
-MODEL_PATH = "career_recommender_model.joblib"
-
-@st.cache_resource
-def load_model():
-    if not os.path.exists(MODEL_PATH):
-        url = "https://drive.google.com/uc?id=1PCGXon529D5bw0rgpQd1CPAQLYXXdVf1"
-        gdown.download(url, MODEL_PATH, quiet=False)
-
-    return joblib.load(MODEL_PATH)
-
-pipeline = load_model()
 
 # ---------------- LOAD MODEL ---------------- #
 @st.cache_resource
