@@ -1,0 +1,1501 @@
+CandidateID,Name,Age,Education,Skills,Interests,Recommended_Career,Recommendation_Score
+CS1001,Anaya Kumar,26,B.Tech IT,JavaScript;CSS;Networking;Communication,Technology,Web Developer,0.8901
+CS1002,Karan Das,26,B.Tech CSE,Database Management;Linux;Python;Networking;Communication;Teamwork,Technology;Cloud Computing,Cloud Engineer,0.8869
+CS1003,Pooja Gupta,22,BCA,Testing;Project Management;Leadership,Automation,DevOps Engineer,0.8065
+CS1004,Aditi Kumar,23,BCA,Statistics;Algorithms,Artificial Intelligence,AI Engineer,0.7901
+CS1005,Karan Roy,29,MCA,Python;Machine Learning;Problem Solving;Research,Data Analytics;Research,Data Scientist,0.897
+CS1006,Vihaan Nair,26,B.Sc Computer Science,C++;Software Development;Programming,Programming,Software Developer,0.8039
+CS1007,Aryan Patel,28,B.Tech CSE,Database Management;Python;Linux;Networking;Teamwork;Leadership,Cloud Computing;Technology,Cybersecurity Analyst,0.9646
+CS1008,Diya Roy,23,B.Tech CSE,Linux;Cybersecurity;Testing;Risk Management,Research,Cybersecurity Analyst,0.7127
+CS1009,Priya Kumar,23,BCA,Design;Presentation;Creativity;Graphic Design;Problem Solving,Creativity,UI/UX Designer,0.8603
+CS1010,Pooja Gupta,21,B.Sc Computer Science,Programming;Debugging;Software Development;C++;Design;Critical Thinking,Programming,Software Developer,0.9359
+CS1011,Vihaan Nair,25,MCA,Presentation;Design;Graphic Design,Creativity,UI/UX Designer,0.7372
+CS1012,Pooja Das,27,B.Sc Computer Science,Java;Software Development;Debugging;Problem Solving,Programming;Technology,Software Developer,0.8112
+CS1013,Arjun Sharma,22,MCA,Programming;HTML,Creativity,Web Developer,0.7403
+CS1014,Ishita Kumar,20,BCA,Machine Learning;Statistics;Power BI,Data Analytics;Technology,Data Scientist,0.9604
+CS1015,Priya Nair,21,B.Sc Computer Science,Data Analysis;Statistics,Data Analytics,Web Developer,0.8813
+CS1016,Neha Reddy,25,B.Tech CSE,Design;Graphic Design;Presentation;Creativity;Leadership;Problem Solving,Design;Creativity,UI/UX Designer,0.8719
+CS1017,Ishita Kumar,20,B.Sc Computer Science,Data Analysis;Power BI;Python;Risk Management;Communication;Problem Solving,Research,Data Scientist,0.8799
+CS1018,Neha Kumar,27,BCA,Cybersecurity;Testing;Linux;Risk Management,Security;Research,Cybersecurity Analyst,0.861
+CS1019,Aditi Patel,28,B.Tech CSE,Power BI;Statistics;Problem Solving;Leadership,Technology;Research,Data Scientist,0.7085
+CS1020,Vihaan Gupta,28,MCA,Machine Learning;Algorithms;Python;Statistics,Research,AI Engineer,0.7512
+CS1021,Priya Singh,27,BCA,Networking;Research;Problem Solving,Networking,Network Engineer,0.9312
+CS1022,Neha Sharma,21,B.Sc Computer Science,Linux;Cybersecurity;Communication;Leadership,Research;Security,Cybersecurity Analyst,0.733
+CS1023,Rahul Gupta,29,BCA,,Programming;Technology,Software Developer,0.7002
+CS1024,Anaya Patel,29,B.Sc Computer Science,JavaScript;Programming;React;CSS,Creativity,Web Developer,0.792
+CS1025,Ishita Gupta,21,B.Tech IT,Cybersecurity;Risk Management;Debugging;Critical Thinking,Security,Cybersecurity Analyst,0.8717
+CS1026,Arjun Singh,22,B.Tech CSE,Cybersecurity;Presentation,Research;Security,Cybersecurity Analyst,0.7946
+CS1027,Karan Nair,28,MCA,CSS;Programming;JavaScript;Communication,Creativity;Technology,Web Developer,0.8941
+CS1028,Aditi Kumar,21,B.Tech IT,Database Management;Cybersecurity;Networking;Teamwork;Problem Solving,Networking,Network Engineer,0.7846
+CS1029,Anaya Sharma,29,MCA,Database Management;Cybersecurity;Critical Thinking;Research,Networking,Network Engineer,0.9005
+CS1030,Aarav Nair,25,MCA,Database Management;Networking,Cloud Computing;Technology,Cloud Engineer,0.8088
+CS1031,Diya Singh,27,BCA,Linux;Cybersecurity;Networking;Communication,Networking,Network Engineer,0.7586
+CS1032,Priya Sharma,29,B.Tech IT,Statistics;Machine Learning;Algorithms;Leadership,Artificial Intelligence,AI Engineer,0.9602
+CS1033,Neha Das,29,B.Tech CSE,Presentation;Graphic Design;Testing,Design,UI/UX Designer,0.7338
+CS1034,Diya Das,28,BCA,Testing;Linux;Cybersecurity;Risk Management,Security;Research,Cybersecurity Analyst,0.8036
+CS1035,Rahul Roy,29,B.Sc Computer Science,Statistics;Python;Power BI,Research,Data Scientist,0.8288
+CS1036,Diya Sharma,27,BCA,Python;Database Management;Networking;Leadership,Technology,Cloud Engineer,0.8685
+CS1037,Aryan Singh,27,MCA,Database Management;Cybersecurity,Technology;Networking,Software Developer,0.8212
+CS1038,Neha Roy,23,B.Tech CSE,Networking;Graphic Design,Technology;Cloud Computing,Cloud Engineer,0.8072
+CS1039,Neha Sharma,28,B.Tech IT,Design;Graphic Design;Presentation;Testing,Design;Creativity,UI/UX Designer,0.7771
+CS1040,Pooja Reddy,21,B.Tech CSE,Cybersecurity;Risk Management;Database Management;Critical Thinking,Research;Security,Cybersecurity Analyst,0.6935
+CS1041,Pooja Iyer,26,BCA,Java;Software Development;Debugging;Cybersecurity,Programming;Technology,Software Developer,0.8109
+CS1042,Anaya Roy,27,B.Tech CSE,,Technology;Research,Data Scientist,0.7481
+CS1043,Pooja Iyer,24,MCA,Creativity;Presentation;Design,Design,Cybersecurity Analyst,0.8526
+CS1044,Pooja Iyer,29,B.Tech CSE,,Creativity;Technology,UI/UX Designer,0.9607
+CS1045,Pooja Patel,25,MCA,Cybersecurity;Testing;Linux;Risk Management;Teamwork;Research,Research;Security,Cybersecurity Analyst,0.8705
+CS1046,Diya Iyer,27,MCA,Python;Database Management;Communication;Research,Technology,Cloud Engineer,0.7321
+CS1047,Rohan Roy,28,B.Tech CSE,Machine Learning;Data Analysis;Algorithms,Technology,Data Scientist,0.7455
+CS1048,Priya Reddy,28,B.Tech IT,Project Management;Testing;Research,Technology;Automation,DevOps Engineer,0.9556
+CS1049,Ishita Reddy,22,MCA,Software Development;C++;Leadership;Critical Thinking,Technology,Software Developer,0.917
+CS1050,Aryan Nair,26,B.Tech IT,Testing;Python;Project Management;Teamwork,Automation;Technology,Cloud Engineer,0.8803
+CS1051,Rohan Das,27,BCA,Networking;Database Management;Research,Cloud Computing;Technology,Cloud Engineer,0.8731
+CS1052,Rahul Roy,23,B.Tech CSE,Algorithms;Statistics;Python;Machine Learning,Research;Artificial Intelligence,AI Engineer,0.7536
+CS1053,Aryan Patel,22,B.Tech IT,Java;Debugging;Cybersecurity;Leadership,Programming;Technology,Software Developer,0.837
+CS1054,Ishita Roy,26,BCA,React;CSS;Programming;HTML;Algorithms;Research,Technology,Web Developer,0.7763
+CS1055,Anaya Sharma,29,MCA,,Technology;Cloud Computing,Cloud Engineer,0.881
+CS1056,Neha Reddy,20,B.Sc Computer Science,Risk Management;Cybersecurity,Security,Cybersecurity Analyst,0.8731
+CS1057,Sneha Roy,25,B.Tech CSE,Machine Learning;Python;Algorithms;Statistics;Critical Thinking,Research;Artificial Intelligence,AI Engineer,0.9182
+CS1058,Diya Roy,29,MCA,Networking;Linux,Cloud Computing;Technology,DevOps Engineer,0.7166
+CS1059,Neha Reddy,21,B.Tech CSE,Machine Learning;Algorithms;Software Development;Teamwork,Research;Artificial Intelligence,AI Engineer,0.9519
+CS1060,Ishita Nair,24,B.Tech CSE,Creativity;Presentation;Graphic Design;Design,Design;Creativity,UI/UX Designer,0.9237
+CS1061,Vihaan Reddy,21,B.Tech IT,Algorithms;Machine Learning,Research;Artificial Intelligence,AI Engineer,0.7407
+CS1062,Diya Patel,29,B.Tech CSE,Machine Learning;SQL,Technology,Data Scientist,0.9324
+CS1063,Diya Sharma,22,BCA,,Research,Cybersecurity Analyst,0.7475
+CS1064,Ishita Sharma,28,BCA,Power BI;Statistics,Technology;Data Analytics,Data Scientist,0.7426
+CS1065,Ishita Kumar,25,MCA,Python;Networking;Database Management;Communication;Teamwork,Cloud Computing,Cloud Engineer,0.8556
+CS1066,Arjun Das,25,MCA,Project Management;Testing;Python;Programming,Automation;Technology,DevOps Engineer,0.8109
+CS1067,Aryan Nair,20,BCA,,Artificial Intelligence;Research,AI Engineer,0.8742
+CS1068,Pooja Kumar,29,B.Sc Computer Science,Cybersecurity;Risk Management;Testing;Python,Security;Research,Cybersecurity Analyst,0.9068
+CS1069,Vihaan Kumar,23,MCA,Testing;Linux;Risk Management;Problem Solving,Automation;Technology,DevOps Engineer,0.9601
+CS1070,Sneha Iyer,27,MCA,Programming;C++;Debugging;Communication,Programming,Software Developer,0.8666
+CS1071,Aryan Patel,24,BCA,,Security;Research,Cybersecurity Analyst,0.954
+CS1072,Aarav Reddy,21,BCA,Python;Machine Learning;Critical Thinking;Problem Solving,Artificial Intelligence;Research,AI Engineer,0.688
+CS1073,Arjun Iyer,26,B.Sc Computer Science,Debugging;Software Development;C++;Java,Technology;Programming,Software Developer,0.7148
+CS1074,Priya Patel,29,B.Tech IT,JavaScript;Programming;HTML;Critical Thinking,Creativity;Technology,Web Developer,0.718
+CS1075,Rahul Roy,24,B.Sc Computer Science,React;Programming,Creativity;Technology,Web Developer,0.819
+CS1076,Ishita Kumar,20,MCA,Data Analysis;Python;Machine Learning;Leadership;Communication,Technology,Data Scientist,0.787
+CS1077,Sneha Kumar,28,B.Sc Computer Science,Presentation;Graphic Design;Design;Teamwork;Communication,Design,UI/UX Designer,0.8059
+CS1078,Anaya Iyer,22,BCA,Cybersecurity;Database Management;Teamwork,Networking,Software Developer,0.7638
+CS1079,Priya Gupta,27,B.Tech IT,CSS;JavaScript;Programming;React;Cybersecurity;Problem Solving;Critical Thinking,Creativity;Technology,Web Developer,0.7286
+CS1080,Ishita Nair,22,B.Tech IT,Creativity;Design;Programming,Creativity,UI/UX Designer,0.857
+CS1081,Aryan Reddy,23,BCA,Linux;Cybersecurity;Database Management;Networking,Networking;Technology,Network Engineer,0.7456
+CS1082,Karan Das,28,B.Tech CSE,Database Management;Networking;Python,Technology,Cloud Engineer,0.9257
+CS1083,Arjun Das,25,B.Tech IT,Linux;Testing;Communication;Problem Solving,Security;Research,DevOps Engineer,0.7873
+CS1084,Priya Patel,28,B.Sc Computer Science,Python;Machine Learning;SQL;Algorithms,Research;Data Analytics,Data Scientist,0.687
+CS1085,Karan Iyer,23,B.Tech IT,Linux;Python;Project Management;Teamwork;Critical Thinking,Technology,DevOps Engineer,0.683
+CS1086,Rahul Nair,25,BCA,Cybersecurity;Risk Management;Linux;Networking,Security;Research,Cybersecurity Analyst,0.818
+CS1087,Rahul Patel,27,MCA,Python;Machine Learning;SQL,Data Analytics;Technology,Data Scientist,0.7795
+CS1088,Pooja Kumar,27,BCA,Networking;Cybersecurity;Problem Solving;Communication,Networking,Network Engineer,0.8303
+CS1089,Rohan Reddy,27,BCA,SQL;Machine Learning;Data Analysis;Python;Leadership,Technology;Research,Data Scientist,0.7917
+CS1090,Sneha Sharma,25,B.Sc Computer Science,Testing;Python;Cybersecurity;Leadership,Technology;Automation,DevOps Engineer,0.8061
+CS1091,Ishita Sharma,29,B.Tech IT,Java;Software Development;Programming;Communication,Programming;Technology,AI Engineer,0.7856
+CS1092,Arjun Kumar,21,BCA,Database Management;Networking;Linux;Leadership;Teamwork,Cloud Computing,Cloud Engineer,0.8249
+CS1093,Anaya Patel,25,B.Sc Computer Science,Testing;Cybersecurity;Risk Management;Networking;Communication;Leadership,Research,Cybersecurity Analyst,0.9324
+CS1094,Anaya Reddy,28,MCA,Creativity;Design;Research;Critical Thinking,Design,UI/UX Designer,0.9686
+CS1095,Aarav Das,28,B.Tech IT,Java;C++;Debugging;Software Development,Programming,Software Developer,0.9405
+CS1096,Rahul Patel,29,B.Sc Computer Science,Testing;Communication;Leadership,Security;Research,Cybersecurity Analyst,0.7116
+CS1097,Rahul Roy,27,B.Tech IT,Cybersecurity;Database Management;Python;Teamwork;Problem Solving,Technology;Networking,Network Engineer,0.8382
+CS1098,Diya Kumar,28,B.Tech CSE,Debugging;Java;Programming;Project Management;Leadership,Technology;Programming,Software Developer,0.7196
+CS1099,Priya Patel,27,B.Sc Computer Science,Algorithms;Python;Creativity;Research;Critical Thinking,Research,AI Engineer,0.8924
+CS1100,Pooja Reddy,24,B.Sc Computer Science,Database Management;Networking;Linux;Software Development;Problem Solving,Cloud Computing,Cloud Engineer,0.852
+CS1101,Karan Roy,21,MCA,Statistics;SQL,Data Analytics;Research,DevOps Engineer,0.7374
+CS1102,Rohan Gupta,27,B.Sc Computer Science,Testing;Project Management;Linux;React;Critical Thinking;Leadership,Technology,DevOps Engineer,0.6929
+CS1103,Rahul Das,26,B.Sc Computer Science,Networking;Python;Critical Thinking;Leadership,Technology;Cloud Computing,Cloud Engineer,0.7883
+CS1104,Rahul Iyer,26,B.Tech IT,Cybersecurity;Risk Management;Linux;Testing,Security,Cybersecurity Analyst,0.7338
+CS1105,Rahul Reddy,28,MCA,Design;Presentation;Debugging;Research,Design;Creativity,UI/UX Designer,0.8363
+CS1106,Neha Roy,23,MCA,Algorithms;Statistics;Critical Thinking;Research,Research,AI Engineer,0.7506
+CS1107,Sneha Roy,27,B.Tech IT,Statistics;Algorithms;Machine Learning;Python,Research,Web Developer,0.7846
+CS1108,Rahul Patel,20,B.Sc Computer Science,Graphic Design;Presentation;Creativity;Design;Teamwork,Creativity,UI/UX Designer,0.821
+CS1109,Aditi Sharma,22,MCA,Database Management;Linux;Networking;Teamwork;Communication,Technology,Network Engineer,0.8861
+CS1110,Diya Patel,27,BCA,Database Management;Linux;Python;Leadership,Technology;Networking,Network Engineer,0.9091
+CS1111,Rohan Reddy,25,B.Tech IT,Cybersecurity,Networking;Technology,Web Developer,0.7311
+CS1112,Aarav Das,27,BCA,Statistics;SQL;Power BI,Research,Data Scientist,0.884
+CS1113,Sneha Iyer,25,MCA,Cybersecurity;Database Management;Networking,Technology,Network Engineer,0.8177
+CS1114,Sneha Das,23,B.Sc Computer Science,Python;Testing;Communication;Critical Thinking,Automation,DevOps Engineer,0.9266
+CS1115,Priya Iyer,21,B.Tech CSE,Python;Linux;Critical Thinking;Communication,Cloud Computing;Technology,Cloud Engineer,0.6792
+CS1116,Arjun Nair,21,B.Sc Computer Science,Java;Software Development;Debugging;Research;Problem Solving,Technology;Programming,Software Developer,0.9518
+CS1117,Anaya Kumar,26,B.Sc Computer Science,Cybersecurity;Networking;Database Management,Technology,Network Engineer,0.8143
+CS1118,Aarav Reddy,29,B.Tech CSE,C++;Debugging;Communication,Programming;Technology,Software Developer,0.7141
+CS1119,Ishita Gupta,29,B.Sc Computer Science,Design;Creativity;Graphic Design;Presentation,Creativity,UI/UX Designer,0.953
+CS1120,Diya Nair,28,BCA,,Research,AI Engineer,0.6853
+CS1121,Arjun Kumar,28,B.Tech IT,C++;Programming;Software Development;Python,Technology,Software Developer,0.8446
+CS1122,Ishita Sharma,21,B.Tech IT,Programming;C++;Leadership;Communication,Programming,Software Developer,0.8841
+CS1123,Anaya Singh,26,B.Tech IT,Project Management;Linux;Problem Solving,Technology,DevOps Engineer,0.8824
+CS1124,Priya Gupta,25,MCA,Testing;Python;Project Management;Leadership;Critical Thinking,Automation;Technology,DevOps Engineer,0.7747
+CS1125,Karan Gupta,24,MCA,SQL;Power BI;Python;Data Analysis;Leadership;Problem Solving,Research,Data Scientist,0.7488
+CS1126,Pooja Sharma,20,MCA,Networking;Database Management;Python,Cloud Computing,Cloud Engineer,0.7011
+CS1127,Neha Sharma,28,MCA,,Technology;Networking,Network Engineer,0.7553
+CS1128,Priya Singh,24,B.Tech CSE,Networking;Cybersecurity;Risk Management,Technology;Networking,Network Engineer,0.8139
+CS1129,Vihaan Kumar,20,B.Tech IT,Statistics;Power BI;Teamwork,Research;Technology,Data Scientist,0.9338
+CS1130,Anaya Nair,21,BCA,Presentation;Creativity;Design;Graphic Design;Problem Solving,Design;Creativity,UI/UX Designer,0.9034
+CS1131,Vihaan Gupta,29,B.Sc Computer Science,Cybersecurity;Database Management;Networking,Networking,Software Developer,0.7522
+CS1132,Vihaan Roy,22,MCA,Java;Programming;C++;Research;Problem Solving,Programming;Technology,Software Developer,0.8913
+CS1133,Vihaan Iyer,29,BCA,Database Management;Cybersecurity;Networking;Algorithms;Communication;Problem Solving,Networking;Technology,Web Developer,0.7767
+CS1134,Rohan Das,22,MCA,Programming;Debugging;Critical Thinking,Programming;Technology,Software Developer,0.7576
+CS1135,Arjun Gupta,29,MCA,Risk Management;Cybersecurity,Security;Research,Cybersecurity Analyst,0.6829
+CS1136,Neha Reddy,29,B.Tech IT,Statistics;Machine Learning;Python,Research;Artificial Intelligence,AI Engineer,0.9563
+CS1137,Vihaan Nair,27,B.Tech IT,Statistics;Machine Learning;Algorithms;Creativity,Artificial Intelligence;Research,AI Engineer,0.9203
+CS1138,Ishita Das,21,B.Tech IT,Risk Management;Testing;Python;Critical Thinking;Research,Security;Research,Cybersecurity Analyst,0.9192
+CS1139,Anaya Kumar,28,B.Sc Computer Science,Python;Statistics,Research;Artificial Intelligence,Cybersecurity Analyst,0.74
+CS1140,Vihaan Patel,25,BCA,Graphic Design;Creativity;Presentation;Leadership,Design;Creativity,UI/UX Designer,0.9563
+CS1141,Rahul Patel,23,B.Sc Computer Science,Machine Learning;Statistics;Algorithms;Leadership;Communication,Artificial Intelligence,AI Engineer,0.8718
+CS1142,Anaya Singh,23,BCA,Linux;Database Management;Cybersecurity;Networking;Research;Communication,Networking,Network Engineer,0.7913
+CS1143,Pooja Reddy,29,B.Tech IT,HTML;CSS;React;JavaScript;Cybersecurity,Creativity;Technology,Web Developer,0.78
+CS1144,Karan Patel,28,B.Tech IT,Cybersecurity;Risk Management;Testing;Linux;Python;Critical Thinking,Research,Cybersecurity Analyst,0.8242
+CS1145,Karan Kumar,27,MCA,Networking;Python,Technology,Cloud Engineer,0.919
+CS1146,Karan Gupta,28,B.Tech CSE,Python;Networking;SQL;Problem Solving;Critical Thinking,Technology;Cloud Computing,Cloud Engineer,0.7615
+CS1147,Anaya Gupta,29,MCA,Networking;Python;Linux;Database Management;Statistics;Research,Cloud Computing,Cloud Engineer,0.8888
+CS1148,Aditi Das,22,MCA,Linux;Networking;Cybersecurity;Database Management;Leadership,Networking;Technology,Network Engineer,0.8312
+CS1149,Vihaan Das,26,B.Sc Computer Science,Power BI;SQL;Data Analysis;C++,Data Analytics;Research,Data Scientist,0.7927
+CS1150,Pooja Das,28,MCA,Risk Management;Testing;Cybersecurity,Research,Cybersecurity Analyst,0.8845
+CS1151,Aditi Patel,27,MCA,Creativity;Presentation;Graphic Design;Critical Thinking,Design;Creativity,Cloud Engineer,0.6754
+CS1152,Aryan Singh,26,B.Tech CSE,SQL;Power BI;Machine Learning;Python,Technology;Data Analytics,Cybersecurity Analyst,0.887
+CS1153,Vihaan Das,25,BCA,CSS;React;Testing;Communication;Research,Technology;Creativity,Web Developer,0.8878
+CS1154,Rahul Patel,26,B.Sc Computer Science,,Security,Cybersecurity Analyst,0.8907
+CS1155,Priya Kumar,29,B.Sc Computer Science,Python;Programming,Technology;Cloud Computing,Cloud Engineer,0.8742
+CS1156,Rahul Iyer,21,B.Sc Computer Science,Cybersecurity;Risk Management;Testing;Leadership;Communication,Research,Cybersecurity Analyst,0.7459
+CS1157,Priya Sharma,20,MCA,Machine Learning;SQL;Statistics;Critical Thinking;Problem Solving,Data Analytics,Data Scientist,0.6751
+CS1158,Pooja Das,24,MCA,Project Management;Python;Testing;Cybersecurity;Critical Thinking,Technology,DevOps Engineer,0.8585
+CS1159,Rohan Reddy,25,B.Sc Computer Science,Creativity;Design;Leadership,Design,Network Engineer,0.8774
+CS1160,Karan Das,24,B.Sc Computer Science,Testing;Python;Project Management,Automation,DevOps Engineer,0.8016
+CS1161,Pooja Sharma,23,B.Tech CSE,React;JavaScript;HTML;Problem Solving;Leadership,Technology,Web Developer,0.6813
+CS1162,Diya Roy,21,B.Sc Computer Science,Python;Linux;Database Management,Cloud Computing;Technology,Cloud Engineer,0.9541
+CS1163,Neha Iyer,23,MCA,Python;Algorithms;Statistics;Leadership;Teamwork,Artificial Intelligence;Research,AI Engineer,0.8444
+CS1164,Vihaan Singh,28,B.Tech IT,Algorithms;Python;Statistics;Machine Learning;Teamwork;Communication,Research,AI Engineer,0.8885
+CS1165,Rahul Nair,21,B.Sc Computer Science,Java;C++;Programming;SQL,Technology;Programming,Software Developer,0.8264
+CS1166,Rohan Iyer,21,B.Tech IT,Power BI;SQL;Data Analysis;Debugging,Research;Technology,Data Scientist,0.9464
+CS1167,Pooja Iyer,20,B.Tech IT,React;Programming;Problem Solving;Research,Technology;Creativity,Web Developer,0.8812
+CS1168,Rohan Das,20,B.Tech CSE,,Research;Artificial Intelligence,Web Developer,0.9056
+CS1169,Rahul Reddy,22,B.Tech CSE,Creativity;Presentation,Design;Creativity,UI/UX Designer,0.7371
+CS1170,Rohan Sharma,29,B.Sc Computer Science,Python;Machine Learning;Teamwork;Research,Artificial Intelligence,AI Engineer,0.8065
+CS1171,Diya Reddy,28,MCA,Graphic Design;Creativity;Presentation;Design;Algorithms;Teamwork,Design,UI/UX Designer,0.9056
+CS1172,Priya Patel,21,B.Tech IT,Statistics;Machine Learning;Algorithms;Python;Design,Research,AI Engineer,0.9014
+CS1173,Anaya Gupta,29,B.Tech CSE,Design;Presentation;Creativity,Design,UI/UX Designer,0.9096
+CS1174,Aditi Iyer,23,B.Tech IT,,Artificial Intelligence,AI Engineer,0.6834
+CS1175,Ishita Das,25,BCA,Machine Learning;Algorithms;Python;Statistics;Networking,Research,AI Engineer,0.8706
+CS1176,Rohan Nair,24,BCA,Machine Learning;Statistics,Artificial Intelligence;Research,AI Engineer,0.8511
+CS1177,Anaya Das,23,BCA,Networking;Cybersecurity;Problem Solving,Technology,Network Engineer,0.7223
+CS1178,Diya Roy,21,B.Tech CSE,Python;Statistics,Research,AI Engineer,0.8776
+CS1179,Pooja Sharma,24,B.Tech CSE,Statistics;Power BI;SQL;Leadership;Critical Thinking,Technology;Data Analytics,Data Scientist,0.697
+CS1180,Sneha Sharma,26,B.Tech IT,Python;Algorithms;Machine Learning;Networking,Research,AI Engineer,0.8596
+CS1181,Ishita Kumar,27,B.Tech IT,Java;Software Development,Technology;Programming,Software Developer,0.6863
+CS1182,Arjun Reddy,27,BCA,Python;Statistics;Power BI;Problem Solving,Research,Data Scientist,0.7711
+CS1183,Anaya Das,21,BCA,Programming;React;HTML;CSS;Communication;Leadership,Technology;Creativity,Web Developer,0.716
+CS1184,Pooja Sharma,28,B.Sc Computer Science,Python;Testing;Linux,Automation;Technology,DevOps Engineer,0.7884
+CS1185,Rohan Iyer,24,BCA,Python;Linux;Project Management;Testing;Problem Solving,Automation;Technology,DevOps Engineer,0.9239
+CS1186,Ishita Iyer,21,B.Tech CSE,React;Programming,Creativity,Network Engineer,0.7231
+CS1187,Priya Sharma,27,BCA,Programming;JavaScript;CSS;Project Management;Research;Problem Solving,Technology;Creativity,Web Developer,0.7783
+CS1188,Sneha Gupta,24,MCA,Statistics;Machine Learning,Artificial Intelligence,AI Engineer,0.9649
+CS1189,Rohan Kumar,29,B.Tech CSE,React;CSS;Critical Thinking;Leadership,Technology,Web Developer,0.8338
+CS1190,Vihaan Sharma,23,BCA,Networking,Networking;Technology,Network Engineer,0.863
+CS1191,Ishita Singh,23,B.Tech IT,Python;Networking;Database Management,Technology,Data Scientist,0.7253
+CS1192,Neha Iyer,24,BCA,Presentation;Graphic Design;Design,Design;Creativity,UI/UX Designer,0.6842
+CS1193,Diya Roy,25,BCA,Programming;Debugging;C++;Testing;Critical Thinking,Technology;Programming,Software Developer,0.8241
+CS1194,Neha Roy,26,MCA,Risk Management;Cybersecurity;Testing,Research;Security,Cybersecurity Analyst,0.8744
+CS1195,Rohan Roy,21,MCA,Java;C++;Debugging;Software Development,Technology;Programming,Software Developer,0.929
+CS1196,Pooja Das,27,B.Tech CSE,Cybersecurity;Database Management;Networking;Teamwork,Networking;Technology,Network Engineer,0.773
+CS1197,Aditi Reddy,22,BCA,CSS;HTML;JavaScript;Problem Solving,Creativity,Web Developer,0.8455
+CS1198,Aryan Das,22,B.Sc Computer Science,Database Management;Linux;Communication,Technology,Network Engineer,0.7305
+CS1199,Aarav Sharma,23,B.Tech IT,Debugging;Software Development;C++;Programming;Teamwork,Technology,Software Developer,0.8268
+CS1200,Rohan Gupta,27,BCA,Machine Learning;Python;Algorithms;Communication,Research;Artificial Intelligence,AI Engineer,0.8843
+CS1201,Aarav Nair,24,B.Sc Computer Science,Presentation;Design,Design,UI/UX Designer,0.8669
+CS1202,Neha Nair,21,B.Sc Computer Science,Python;Power BI;Data Analysis;Statistics;Communication;Critical Thinking,Data Analytics,Data Scientist,0.8552
+CS1203,Aarav Kumar,27,B.Tech IT,Linux;Testing;Cybersecurity;Risk Management;React;Leadership,Research,Cybersecurity Analyst,0.7728
+CS1204,Anaya Das,24,B.Tech IT,Networking;Database Management,Cloud Computing;Technology,Cloud Engineer,0.7034
+CS1205,Rohan Patel,25,BCA,Database Management;Networking,Technology;Cloud Computing,Data Scientist,0.6838
+CS1206,Vihaan Patel,20,B.Tech IT,Database Management;Python;Linux;Networking;Research;Teamwork,Technology;Cloud Computing,Cloud Engineer,0.9077
+CS1207,Arjun Reddy,20,B.Tech CSE,,Creativity,Web Developer,0.7145
+CS1208,Arjun Patel,28,B.Sc Computer Science,Risk Management;Cybersecurity;Testing;Linux,Security;Research,Cybersecurity Analyst,0.879
+CS1209,Priya Kumar,26,MCA,Power BI;SQL;Problem Solving;Communication,Data Analytics;Research,Data Scientist,0.6947
+CS1210,Karan Sharma,21,B.Sc Computer Science,Presentation;Creativity;Research;Leadership,Design;Creativity,UI/UX Designer,0.6946
+CS1211,Diya Roy,28,B.Sc Computer Science,Risk Management;Testing;Cybersecurity;Research,Research;Security,UI/UX Designer,0.6755
+CS1212,Diya Das,26,B.Tech CSE,Python;Algorithms;Statistics;Machine Learning;Problem Solving,Artificial Intelligence;Research,AI Engineer,0.7408
+CS1213,Arjun Iyer,29,BCA,React;CSS;Programming;Data Analysis,Technology;Creativity,Web Developer,0.7176
+CS1214,Neha Gupta,22,B.Tech IT,Project Management;Testing;Linux;Statistics;Problem Solving,Technology;Automation,DevOps Engineer,0.8559
+CS1215,Aarav Singh,24,B.Tech IT,Testing;Project Management;Linux;Python;Teamwork;Critical Thinking,Automation;Technology,Network Engineer,0.7
+CS1216,Aryan Roy,20,MCA,Risk Management;Cybersecurity;Testing;Machine Learning,Research,Cybersecurity Analyst,0.9122
+CS1217,Rahul Das,22,B.Tech IT,Programming;Java;Debugging;Problem Solving;Leadership,Programming,Software Developer,0.73
+CS1218,Aarav Patel,25,B.Sc Computer Science,Project Management;Problem Solving,Automation;Technology,DevOps Engineer,0.9494
+CS1219,Arjun Das,25,B.Tech IT,Data Analysis;Machine Learning;Statistics;Power BI;Critical Thinking;Problem Solving,Technology,Data Scientist,0.8445
+CS1220,Aditi Das,26,BCA,Graphic Design;Creativity;Presentation;Design;Research;Problem Solving,Design,UI/UX Designer,0.7676
+CS1221,Karan Sharma,21,B.Tech IT,Testing;Python;Project Management;Leadership,Automation,DevOps Engineer,0.8954
+CS1222,Vihaan Das,20,B.Tech IT,Presentation;Design;Graphic Design;Creativity,Design,UI/UX Designer,0.7839
+CS1223,Aryan Iyer,20,B.Tech CSE,,Security,Cybersecurity Analyst,0.8583
+CS1224,Pooja Kumar,24,B.Tech IT,Python;Machine Learning;Statistics;Algorithms;Project Management;Research,Artificial Intelligence,AI Engineer,0.9133
+CS1225,Neha Singh,21,B.Tech IT,Risk Management;Cybersecurity;Testing;Linux;Problem Solving;Research,Security,Cybersecurity Analyst,0.8593
+CS1226,Neha Iyer,21,B.Tech IT,Statistics;Data Analysis;Python;SQL;Teamwork,Research;Data Analytics,Data Scientist,0.7464
+CS1227,Neha Gupta,22,BCA,Algorithms;Machine Learning;Statistics;Leadership;Research,Artificial Intelligence;Research,AI Engineer,0.8701
+CS1228,Vihaan Das,20,B.Sc Computer Science,Python;Networking;Database Management;Leadership,Cloud Computing,Cloud Engineer,0.9399
+CS1229,Sneha Kumar,28,B.Tech CSE,Data Analysis;Statistics;SQL;Python;Teamwork;Problem Solving,Technology,Data Scientist,0.7601
+CS1230,Aryan Reddy,23,B.Tech CSE,Software Development;Java;Programming;Critical Thinking,Technology,Software Developer,0.6901
+CS1231,Anaya Kumar,24,BCA,Cybersecurity;Risk Management,Security;Research,Cybersecurity Analyst,0.7722
+CS1232,Pooja Gupta,27,MCA,,Technology;Automation,DevOps Engineer,0.7788
+CS1233,Anaya Das,27,MCA,SQL;Statistics;Power BI;Python;Machine Learning;Leadership,Technology,Data Scientist,0.9193
+CS1234,Ishita Patel,20,B.Tech IT,Networking;Database Management;Problem Solving,Cloud Computing,Cloud Engineer,0.6947
+CS1235,Pooja Reddy,22,B.Tech IT,Testing;Risk Management,Security;Research,Cybersecurity Analyst,0.9747
+CS1236,Karan Nair,22,B.Sc Computer Science,C++;Software Development;Programming;Debugging;Algorithms;Problem Solving,Programming,DevOps Engineer,0.9312
+CS1237,Rahul Nair,28,MCA,React;HTML;Communication,Technology,Web Developer,0.8974
+CS1238,Priya Das,24,B.Sc Computer Science,Algorithms;Python;Leadership;Critical Thinking,Research,AI Engineer,0.8171
+CS1239,Aryan Gupta,26,BCA,Testing;Linux;Project Management,Automation,DevOps Engineer,0.7416
+CS1240,Rohan Gupta,28,B.Sc Computer Science,React;JavaScript;Database Management,Technology;Creativity,Web Developer,0.8356
+CS1241,Vihaan Singh,28,MCA,Database Management;Python;Networking;Teamwork,Technology,Cloud Engineer,0.9614
+CS1242,Ishita Sharma,26,MCA,Python;Algorithms;Machine Learning;Statistics,Artificial Intelligence;Research,AI Engineer,0.7938
+CS1243,Rahul Sharma,22,B.Tech CSE,Linux;Project Management;Python;Problem Solving;Communication,Automation,DevOps Engineer,0.7765
+CS1244,Ishita Gupta,25,BCA,Risk Management;Testing;Linux;Teamwork,Research,Cybersecurity Analyst,0.8409
+CS1245,Aryan Singh,25,MCA,Creativity;Presentation;Graphic Design;Design;Leadership;Communication,Creativity;Design,UI/UX Designer,0.8438
+CS1246,Rahul Gupta,21,B.Sc Computer Science,Networking;Python;Database Management;Creativity,Cloud Computing;Technology,Cloud Engineer,0.7148
+CS1247,Priya Singh,29,BCA,Cybersecurity;Networking;Research,Technology,Network Engineer,0.7429
+CS1248,Aditi Iyer,24,MCA,Networking;Database Management,Networking,Network Engineer,0.7736
+CS1249,Karan Reddy,25,B.Tech CSE,,Networking;Technology,Network Engineer,0.7105
+CS1250,Diya Patel,27,MCA,SQL;Statistics;Python;Power BI,Data Analytics;Research,Data Scientist,0.8552
+CS1251,Pooja Nair,23,B.Tech IT,Graphic Design;Creativity;Presentation,Creativity,UI/UX Designer,0.8378
+CS1252,Aarav Nair,21,B.Tech IT,Networking;Database Management,Networking;Technology,Network Engineer,0.9332
+CS1253,Rahul Iyer,23,B.Sc Computer Science,Machine Learning;Statistics;Leadership;Teamwork,Research;Data Analytics,Data Scientist,0.7778
+CS1254,Arjun Iyer,29,MCA,Testing;Python;Communication;Research,Automation;Technology,DevOps Engineer,0.9525
+CS1255,Anaya Iyer,28,MCA,CSS;JavaScript;Programming,Creativity;Technology,Web Developer,0.9539
+CS1256,Vihaan Reddy,28,B.Tech CSE,C++;Java;Graphic Design,Programming,Software Developer,0.7059
+CS1257,Rohan Patel,28,B.Tech IT,Data Analysis;Python;Power BI;Design,Data Analytics;Technology,Data Scientist,0.8108
+CS1258,Anaya Iyer,26,B.Sc Computer Science,Power BI;Machine Learning;Research;Critical Thinking,Data Analytics;Technology,Data Scientist,0.8053
+CS1259,Rohan Gupta,24,MCA,Testing;Python;Linux;Research;Leadership,Automation,DevOps Engineer,0.9001
+CS1260,Rahul Nair,26,B.Tech IT,Project Management;Python;Programming;Critical Thinking,Technology;Automation,DevOps Engineer,0.8871
+CS1261,Neha Das,27,B.Sc Computer Science,Testing;Risk Management;Statistics,Research;Security,Cybersecurity Analyst,0.7263
+CS1262,Diya Nair,24,MCA,Python;Networking;Data Analysis;Leadership,Cloud Computing;Technology,Data Scientist,0.8222
+CS1263,Neha Nair,20,B.Tech CSE,,Artificial Intelligence;Research,AI Engineer,0.9376
+CS1264,Anaya Kumar,28,B.Tech CSE,Presentation;Design;Graphic Design;Programming,Creativity;Design,UI/UX Designer,0.8948
+CS1265,Rohan Roy,29,B.Tech CSE,Risk Management;Cybersecurity,Security,Cybersecurity Analyst,0.7709
+CS1266,Sneha Das,29,BCA,Java;Software Development,Technology,Software Developer,0.7548
+CS1267,Aryan Gupta,27,B.Tech IT,Machine Learning;SQL,Research,Data Scientist,0.9083
+CS1268,Sneha Roy,29,B.Sc Computer Science,Statistics;Machine Learning;SQL;Power BI;Critical Thinking;Leadership,Data Analytics;Technology,Data Scientist,0.7675
+CS1269,Karan Nair,23,B.Sc Computer Science,Linux;Database Management;Statistics;Teamwork;Problem Solving,Technology;Networking,Network Engineer,0.8668
+CS1270,Vihaan Reddy,23,B.Tech CSE,Networking;Database Management;Python;Critical Thinking,Cloud Computing,Cloud Engineer,0.6921
+CS1271,Sneha Das,27,B.Tech CSE,Power BI;Statistics;Data Analysis;Machine Learning;Leadership,Data Analytics,Data Scientist,0.7379
+CS1272,Anaya Singh,28,MCA,Algorithms;Machine Learning;Python;Statistics,Artificial Intelligence,AI Engineer,0.7058
+CS1273,Rohan Kumar,26,B.Sc Computer Science,Creativity;Graphic Design;Teamwork;Communication,Creativity;Design,UI/UX Designer,0.7321
+CS1274,Aryan Kumar,24,BCA,Machine Learning;Statistics;Algorithms;Python;Leadership;Research,Research;Artificial Intelligence,AI Engineer,0.7363
+CS1275,Pooja Roy,28,B.Sc Computer Science,,Cloud Computing,Cloud Engineer,0.6896
+CS1276,Vihaan Gupta,27,B.Tech IT,Python;Linux;Testing;Project Management;Critical Thinking;Problem Solving,Automation;Technology,DevOps Engineer,0.7406
+CS1277,Pooja Singh,29,B.Tech CSE,Linux;Database Management;Networking;Python;Communication,Technology;Cloud Computing,Cloud Engineer,0.9256
+CS1278,Arjun Patel,22,BCA,Programming;Java;Critical Thinking;Problem Solving,Technology;Programming,Software Developer,0.7586
+CS1279,Karan Iyer,28,B.Tech IT,Programming;HTML;JavaScript;Teamwork;Problem Solving,Technology;Creativity,Web Developer,0.8481
+CS1280,Ishita Sharma,24,B.Tech IT,Graphic Design;Creativity,Creativity;Design,UI/UX Designer,0.7664
+CS1281,Ishita Patel,24,B.Tech CSE,Algorithms;Statistics;Python;Machine Learning;Creativity,Artificial Intelligence,AI Engineer,0.7474
+CS1282,Karan Sharma,24,B.Tech IT,Python;Machine Learning;Statistics;Algorithms;Creativity;Critical Thinking;Research,Artificial Intelligence,AI Engineer,0.9386
+CS1283,Priya Nair,28,B.Tech CSE,SQL;Data Analysis;Machine Learning;HTML;Teamwork;Leadership,Research,Data Scientist,0.866
+CS1284,Diya Gupta,25,BCA,Python;Algorithms;Statistics;Communication,Research;Artificial Intelligence,AI Engineer,0.7323
+CS1285,Rohan Das,26,B.Sc Computer Science,,Design;Creativity,UI/UX Designer,0.7897
+CS1286,Anaya Kumar,22,MCA,Creativity;Graphic Design;Design;Research;Critical Thinking,Design,UI/UX Designer,0.7714
+CS1287,Aditi Roy,22,B.Tech IT,Linux;Database Management;Networking;Cybersecurity;Design,Networking;Technology,Network Engineer,0.9531
+CS1288,Vihaan Reddy,22,B.Sc Computer Science,CSS;HTML,Technology,Web Developer,0.6883
+CS1289,Rahul Singh,23,B.Tech CSE,Database Management;Linux;Networking;Python;Communication,Technology,Cloud Engineer,0.7373
+CS1290,Anaya Iyer,29,B.Sc Computer Science,Database Management;Cybersecurity;Linux,Networking,Network Engineer,0.7915
+CS1291,Arjun Kumar,20,B.Tech IT,Testing;Project Management;Python,Technology,DevOps Engineer,0.689
+CS1292,Anaya Kumar,21,B.Tech IT,Testing;Risk Management;Teamwork,Research,Cybersecurity Analyst,0.8052
+CS1293,Anaya Patel,21,B.Tech CSE,Project Management;Python;Critical Thinking;Problem Solving,Technology,DevOps Engineer,0.8706
+CS1294,Rohan Gupta,29,B.Tech IT,React;JavaScript;HTML;CSS,Creativity,Web Developer,0.6936
+CS1295,Aarav Iyer,24,B.Tech CSE,Linux;Cybersecurity;Statistics,Technology;Networking,Network Engineer,0.9625
+CS1296,Karan Roy,29,B.Sc Computer Science,Python;Database Management;Critical Thinking,Technology;Cloud Computing,Data Scientist,0.7491
+CS1297,Rohan Roy,29,B.Sc Computer Science,Creativity;Design;Java;Teamwork,Creativity;Design,Software Developer,0.9712
+CS1298,Aryan Nair,28,B.Tech CSE,Project Management;Testing,Technology;Automation,DevOps Engineer,0.9224
+CS1299,Karan Das,27,B.Sc Computer Science,Cybersecurity;Testing;Teamwork,Security,Cybersecurity Analyst,0.9592
+CS1300,Neha Singh,20,B.Tech CSE,Risk Management;Linux;Testing,Research;Security,Cybersecurity Analyst,0.7529
+CS1301,Neha Das,24,BCA,Power BI;Python;SQL,Research;Data Analytics,UI/UX Designer,0.8788
+CS1302,Aditi Reddy,27,B.Tech CSE,Testing;Project Management;Python,Automation,DevOps Engineer,0.9216
+CS1303,Karan Kumar,20,B.Tech IT,Linux;Cybersecurity;Database Management;Research;Teamwork,Networking,Network Engineer,0.8809
+CS1304,Anaya Gupta,20,BCA,Python;Algorithms;Machine Learning;Teamwork;Critical Thinking,Artificial Intelligence;Research,AI Engineer,0.8967
+CS1305,Priya Das,27,B.Sc Computer Science,Debugging;C++,Programming;Technology,Software Developer,0.6927
+CS1306,Anaya Sharma,27,MCA,Data Analysis;SQL;Power BI;Leadership;Problem Solving,Technology,Data Scientist,0.7243
+CS1307,Karan Roy,20,B.Sc Computer Science,Linux;Python,Technology,DevOps Engineer,0.6903
+CS1308,Priya Kumar,25,B.Sc Computer Science,Linux;Testing;Cybersecurity;Risk Management;Debugging,Research,DevOps Engineer,0.8269
+CS1309,Aarav Das,26,MCA,Machine Learning;Statistics;Algorithms;Critical Thinking;Leadership,Artificial Intelligence,Data Scientist,0.7138
+CS1310,Anaya Reddy,27,B.Tech IT,Database Management;Cybersecurity;Linux;Networking;Research,Networking,Cybersecurity Analyst,0.8803
+CS1311,Sneha Reddy,22,BCA,Graphic Design;Creativity,Creativity;Design,Cloud Engineer,0.7067
+CS1312,Arjun Singh,29,B.Tech IT,Machine Learning;Statistics;Python;Algorithms,Research,AI Engineer,0.8004
+CS1313,Aditi Iyer,27,B.Tech CSE,Project Management;Python;Presentation,Automation;Technology,DevOps Engineer,0.6951
+CS1314,Priya Patel,29,B.Tech CSE,Networking;Python;Teamwork,Technology;Cloud Computing,Cloud Engineer,0.7026
+CS1315,Vihaan Iyer,20,B.Sc Computer Science,Database Management;Cybersecurity;Networking;Teamwork,Networking;Technology,Network Engineer,0.9503
+CS1316,Anaya Iyer,26,BCA,Python;Project Management;Linux;Communication,Automation;Technology,DevOps Engineer,0.7466
+CS1317,Aditi Reddy,26,B.Tech IT,Debugging;Software Development;Programming;Database Management;Leadership;Research,Programming,Data Scientist,0.7188
+CS1318,Sneha Nair,25,B.Tech IT,React;Programming,Creativity,Web Developer,0.8355
+CS1319,Vihaan Iyer,27,B.Tech CSE,Networking;Cybersecurity;Linux;Research;Critical Thinking,Technology,Network Engineer,0.8839
+CS1320,Sneha Kumar,27,B.Sc Computer Science,Cybersecurity;Networking;Database Management;Programming,Networking,Network Engineer,0.6801
+CS1321,Vihaan Roy,24,B.Tech IT,Statistics;Machine Learning;Algorithms;Risk Management;Critical Thinking;Problem Solving,Artificial Intelligence;Research,AI Engineer,0.7193
+CS1322,Sneha Patel,28,B.Tech CSE,Risk Management;Cybersecurity;Testing,Research;Security,Cybersecurity Analyst,0.8822
+CS1323,Aarav Roy,21,B.Tech CSE,Machine Learning;Statistics;Research;Teamwork,Artificial Intelligence;Research,AI Engineer,0.9218
+CS1324,Neha Patel,28,MCA,Database Management;Cybersecurity,Networking,Network Engineer,0.7933
+CS1325,Vihaan Roy,29,MCA,,Research;Technology,Data Scientist,0.7599
+CS1326,Vihaan Kumar,21,MCA,Networking;Database Management;Python,Cloud Computing,Cloud Engineer,0.6791
+CS1327,Rahul Iyer,22,B.Tech CSE,Statistics;Machine Learning;Data Analysis;Critical Thinking,Artificial Intelligence,AI Engineer,0.72
+CS1328,Aryan Sharma,26,MCA,Cybersecurity;Networking,Networking;Technology,Network Engineer,0.6953
+CS1329,Priya Iyer,21,MCA,Statistics;Machine Learning;React,Artificial Intelligence;Research,DevOps Engineer,0.9044
+CS1330,Ishita Sharma,28,MCA,Cybersecurity;Testing;Algorithms;Problem Solving;Communication,Research;Security,Cybersecurity Analyst,0.9378
+CS1331,Rahul Das,25,B.Sc Computer Science,Python;Database Management;Linux;Communication;Critical Thinking,Technology;Cloud Computing,Cloud Engineer,0.863
+CS1332,Vihaan Reddy,23,B.Tech IT,Algorithms;Machine Learning;Research,Research;Artificial Intelligence,AI Engineer,0.7772
+CS1333,Diya Sharma,25,B.Tech CSE,Python;Data Analysis,Technology;Research,Data Scientist,0.6846
+CS1334,Aarav Reddy,29,B.Tech CSE,C++;Debugging,Programming,Network Engineer,0.8223
+CS1335,Sneha Iyer,29,B.Tech IT,Creativity;Design;Graphic Design;Presentation,Design,UI/UX Designer,0.7107
+CS1336,Priya Sharma,29,B.Tech IT,React;JavaScript,Technology;Creativity,Web Developer,0.9632
+CS1337,Rahul Iyer,26,B.Tech IT,Python;Machine Learning;Networking,Artificial Intelligence;Research,AI Engineer,0.9098
+CS1338,Ishita Sharma,29,B.Tech IT,Python;Power BI;Data Analysis;Cybersecurity;Teamwork;Problem Solving,Technology;Research,Data Scientist,0.9465
+CS1339,Karan Singh,27,B.Tech IT,Database Management;Networking;Python;Communication,Technology,Cloud Engineer,0.9674
+CS1340,Aarav Gupta,24,B.Tech IT,Cybersecurity,Research;Security,Cybersecurity Analyst,0.9513
+CS1341,Diya Nair,23,BCA,Programming;Debugging;Java;Data Analysis;Research,Programming,Software Developer,0.8459
+CS1342,Sneha Patel,26,BCA,Graphic Design;Design;Networking;Communication,Design;Creativity,UI/UX Designer,0.9498
+CS1343,Sneha Nair,22,BCA,Linux;Cybersecurity;Database Management;Communication,Networking,Network Engineer,0.9339
+CS1344,Anaya Nair,23,B.Tech IT,Creativity;Graphic Design;Design;Communication,Design;Creativity,UI/UX Designer,0.7618
+CS1345,Karan Sharma,26,B.Sc Computer Science,Machine Learning;Statistics;Python,Artificial Intelligence,AI Engineer,0.892
+CS1346,Vihaan Sharma,27,BCA,Java;Debugging;C++;Power BI,Technology,Software Developer,0.871
+CS1347,Karan Sharma,24,MCA,Database Management;Cybersecurity;Networking;Linux;Problem Solving;Leadership,Technology,Network Engineer,0.8767
+CS1348,Anaya Das,28,B.Tech IT,Risk Management;Cybersecurity;Testing;Communication;Teamwork,Security;Research,Cybersecurity Analyst,0.87
+CS1349,Karan Nair,24,B.Tech CSE,Linux;Cybersecurity;Networking,Technology,Network Engineer,0.9412
+CS1350,Aryan Das,23,MCA,JavaScript;React;CSS,Creativity;Technology,Web Developer,0.9478
+CS1351,Neha Nair,28,B.Tech IT,React;CSS;Networking;Teamwork,Technology,Web Developer,0.862
+CS1352,Sneha Iyer,28,B.Sc Computer Science,Python;Networking;Linux;HTML,Technology;Cloud Computing,Cloud Engineer,0.9146
+CS1353,Rohan Iyer,22,B.Sc Computer Science,Database Management;Python;Problem Solving;Research,Cloud Computing;Technology,Cloud Engineer,0.806
+CS1354,Sneha Roy,25,B.Tech IT,Risk Management,Security,AI Engineer,0.8518
+CS1355,Anaya Kumar,28,BCA,Design;Graphic Design;Creativity;Presentation;Python;Communication,Design;Creativity,UI/UX Designer,0.732
+CS1356,Karan Das,24,B.Tech CSE,Risk Management;Testing;Cybersecurity,Security;Research,Cybersecurity Analyst,0.718
+CS1357,Pooja Reddy,21,B.Sc Computer Science,C++;Debugging;Software Development;Java,Technology,Software Developer,0.7003
+CS1358,Neha Gupta,25,BCA,Debugging;Programming;Teamwork,Technology,Software Developer,0.7918
+CS1359,Pooja Kumar,25,B.Tech CSE,Python;Networking;Database Management;Teamwork;Research,Cloud Computing,Cloud Engineer,0.8247
+CS1360,Karan Reddy,20,BCA,Java;Debugging;Critical Thinking,Programming,Software Developer,0.7866
+CS1361,Priya Sharma,21,BCA,Testing;Cybersecurity;Risk Management;Teamwork;Research,Research;Security,Cybersecurity Analyst,0.8794
+CS1362,Pooja Roy,22,B.Sc Computer Science,Database Management;Python;Teamwork;Research,Technology,Cloud Engineer,0.8526
+CS1363,Aditi Das,28,B.Tech IT,Machine Learning;Statistics;Communication,Technology;Research,Cybersecurity Analyst,0.8333
+CS1364,Aryan Reddy,26,BCA,Cybersecurity;Leadership;Teamwork,Technology;Networking,Network Engineer,0.7615
+CS1365,Pooja Patel,20,MCA,Linux;Networking,Networking,Network Engineer,0.7028
+CS1366,Anaya Singh,24,B.Tech IT,,Artificial Intelligence,AI Engineer,0.8812
+CS1367,Rahul Kumar,29,B.Tech CSE,,Creativity;Design,UI/UX Designer,0.6893
+CS1368,Vihaan Patel,24,B.Sc Computer Science,Database Management;Linux;Python,Cloud Computing,Cloud Engineer,0.7784
+CS1369,Aarav Das,23,B.Sc Computer Science,Machine Learning;Statistics;Python;Critical Thinking,Research,AI Engineer,0.8977
+CS1370,Diya Roy,28,B.Tech CSE,Networking;Python;Linux;Algorithms;Research,Cloud Computing;Technology,Network Engineer,0.8191
+CS1371,Aarav Reddy,21,MCA,React;HTML;CSS;Algorithms;Leadership;Research,Creativity,Web Developer,0.7928
+CS1372,Priya Iyer,26,B.Tech CSE,Linux;Python;Database Management;Networking;Teamwork,Cloud Computing,Cloud Engineer,0.7358
+CS1373,Rohan Reddy,21,B.Tech CSE,Presentation;Creativity;Graphic Design,Creativity;Design,UI/UX Designer,0.8286
+CS1374,Vihaan Kumar,27,MCA,Testing;Cybersecurity;Risk Management;Python;Problem Solving,Security;Research,Cybersecurity Analyst,0.7114
+CS1375,Vihaan Nair,27,BCA,Presentation;Creativity;Graphic Design,Design,UI/UX Designer,0.9381
+CS1376,Ishita Reddy,27,B.Sc Computer Science,Debugging;Java;Software Development;Leadership,Programming;Technology,Software Developer,0.8762
+CS1377,Anaya Iyer,20,BCA,,Technology,Network Engineer,0.7791
+CS1378,Vihaan Roy,21,BCA,Debugging;Programming;Teamwork,Technology,Software Developer,0.9403
+CS1379,Diya Nair,29,MCA,Cybersecurity;Networking,Networking;Technology,Network Engineer,0.8493
+CS1380,Vihaan Kumar,23,BCA,Python;Machine Learning;Algorithms;Statistics;Problem Solving;Critical Thinking,Artificial Intelligence;Research,AI Engineer,0.9643
+CS1381,Karan Reddy,26,B.Tech IT,Risk Management;Testing;Teamwork,Research,Cybersecurity Analyst,0.8352
+CS1382,Rohan Iyer,27,B.Tech IT,Statistics;Algorithms;Problem Solving;Research,Artificial Intelligence;Research,AI Engineer,0.833
+CS1383,Vihaan Singh,26,BCA,Python;Database Management;Problem Solving,Technology;Cloud Computing,Cloud Engineer,0.9206
+CS1384,Aarav Roy,24,B.Sc Computer Science,Testing;Cybersecurity;Risk Management;Research;Teamwork,Research;Security,Cybersecurity Analyst,0.7571
+CS1385,Pooja Patel,23,B.Tech CSE,Networking;Cybersecurity;Linux;Database Management;JavaScript,Networking;Technology,Network Engineer,0.9223
+CS1386,Priya Roy,27,MCA,Testing;Python;Leadership,Automation;Technology,DevOps Engineer,0.7131
+CS1387,Neha Sharma,29,B.Tech CSE,Cybersecurity;Linux;Risk Management;Testing;Leadership,Research,Cybersecurity Analyst,0.7857
+CS1388,Arjun Sharma,26,BCA,Power BI;SQL;Machine Learning;Statistics,Technology,Data Scientist,0.9262
+CS1389,Sneha Reddy,26,BCA,Testing;Database Management,Security;Research,Cybersecurity Analyst,0.9228
+CS1390,Arjun Singh,24,BCA,C++;Programming;Research;Communication,Technology,Software Developer,0.7233
+CS1391,Sneha Patel,24,B.Tech IT,CSS;Programming,Creativity,Web Developer,0.7659
+CS1392,Priya Roy,22,B.Tech CSE,,Artificial Intelligence,AI Engineer,0.9623
+CS1393,Pooja Roy,24,MCA,Debugging;Programming;Java;Software Development;Communication,Technology;Programming,UI/UX Designer,0.7407
+CS1394,Aarav Roy,24,B.Tech IT,Debugging;C++,Technology,Software Developer,0.9115
+CS1395,Anaya Iyer,24,B.Tech CSE,Database Management;Python;Research,Technology;Cloud Computing,Cloud Engineer,0.8866
+CS1396,Aditi Kumar,20,B.Sc Computer Science,HTML;Programming;CSS;React;Communication,Creativity;Technology,Web Developer,0.7241
+CS1397,Rohan Reddy,24,BCA,Cybersecurity;Database Management,Networking;Technology,Network Engineer,0.7665
+CS1398,Rohan Sharma,27,BCA,Programming;Software Development;Debugging,Programming;Technology,Network Engineer,0.7002
+CS1399,Rohan Kumar,24,B.Sc Computer Science,Database Management;Networking;Cybersecurity;Software Development;Communication;Problem Solving,Technology,Network Engineer,0.7325
+CS1400,Arjun Gupta,29,B.Tech CSE,Design;Graphic Design;Presentation;Creativity;Teamwork;Communication,Creativity,UI/UX Designer,0.8829
+CS1401,Sneha Gupta,29,B.Tech IT,Python;Algorithms,Artificial Intelligence;Research,AI Engineer,0.8672
+CS1402,Aryan Nair,21,B.Tech CSE,Graphic Design;Creativity,Design;Creativity,UI/UX Designer,0.7527
+CS1403,Karan Singh,27,MCA,Presentation;Creativity;Networking;Teamwork;Leadership,Creativity,UI/UX Designer,0.921
+CS1404,Rahul Singh,22,MCA,Programming;Debugging;Java,Technology;Programming,AI Engineer,0.9598
+CS1405,Vihaan Sharma,28,B.Tech CSE,Linux;Python;Testing;Project Management;Database Management;Teamwork,Technology,DevOps Engineer,0.6891
+CS1406,Aryan Patel,26,B.Tech CSE,Project Management;Linux;Python;Leadership;Teamwork,Automation,DevOps Engineer,0.8056
+CS1407,Ishita Roy,21,MCA,JavaScript;Programming;React,Creativity;Technology,Web Developer,0.7013
+CS1408,Rohan Sharma,23,B.Tech CSE,Python;Database Management;Teamwork;Critical Thinking,Technology;Automation,DevOps Engineer,0.7126
+CS1409,Sneha Nair,20,B.Tech CSE,SQL;Python;Power BI;Statistics,Data Analytics,Data Scientist,0.8094
+CS1410,Aarav Gupta,20,B.Tech CSE,Database Management;Linux,Networking,Network Engineer,0.9219
+CS1411,Aditi Reddy,21,MCA,Debugging;Programming;Java;Problem Solving;Communication,Technology;Programming,Software Developer,0.8745
+CS1412,Arjun Nair,25,MCA,Algorithms;Python;Statistics;Presentation;Critical Thinking,Research;Artificial Intelligence,AI Engineer,0.893
+CS1413,Aarav Gupta,24,BCA,Linux;Database Management;Networking;Cybersecurity,Networking;Technology,Network Engineer,0.8437
+CS1414,Aryan Kumar,24,B.Tech IT,Networking;Database Management;Communication,Networking;Technology,Network Engineer,0.9046
+CS1415,Vihaan Patel,21,B.Tech IT,Linux;Testing;Project Management;Python,Automation,DevOps Engineer,0.6878
+CS1416,Arjun Sharma,23,MCA,Statistics;Algorithms;Problem Solving,Artificial Intelligence;Research,AI Engineer,0.8129
+CS1417,Aryan Singh,22,MCA,Machine Learning;Python;Algorithms,Artificial Intelligence,AI Engineer,0.827
+CS1418,Aryan Patel,26,B.Tech CSE,Debugging;Programming;Java,Programming,Software Developer,0.798
+CS1419,Pooja Roy,25,BCA,C++;Java,Technology;Programming,Software Developer,0.8751
+CS1420,Arjun Singh,24,B.Tech CSE,Data Analysis;Power BI;SQL;Critical Thinking,Technology;Research,Data Scientist,0.9133
+CS1421,Priya Roy,26,B.Sc Computer Science,Machine Learning;Statistics;SQL;Power BI;Critical Thinking,Technology;Data Analytics,DevOps Engineer,0.8484
+CS1422,Aryan Iyer,22,MCA,HTML;JavaScript;CSS;React;Database Management;Research,Technology,Web Developer,0.7572
+CS1423,Sneha Das,25,B.Sc Computer Science,Python;Project Management;Testing;Problem Solving,Automation;Technology,Network Engineer,0.8224
+CS1424,Anaya Reddy,22,B.Sc Computer Science,Software Development;Debugging;C++;Programming,Technology;Programming,Software Developer,0.7188
+CS1425,Aarav Kumar,22,B.Tech CSE,Python;Project Management,Automation;Technology,AI Engineer,0.8537
+CS1426,Pooja Reddy,20,B.Tech CSE,Statistics;Machine Learning;Algorithms,Artificial Intelligence;Research,AI Engineer,0.739
+CS1427,Sneha Reddy,22,BCA,Project Management;Python;Leadership;Research,Automation,DevOps Engineer,0.8148
+CS1428,Aryan Roy,28,B.Tech CSE,Programming;React;CSS;HTML;Teamwork,Technology;Creativity,Web Developer,0.8499
+CS1429,Rahul Kumar,22,B.Tech CSE,Python;Testing,Technology,DevOps Engineer,0.6942
+CS1430,Arjun Patel,26,B.Tech CSE,Risk Management;Critical Thinking,Security;Research,Cybersecurity Analyst,0.6883
+CS1431,Rohan Sharma,29,BCA,Project Management;Python;Programming;Problem Solving,Automation,DevOps Engineer,0.7978
+CS1432,Ishita Singh,27,B.Sc Computer Science,Networking;Leadership;Teamwork,Technology,Network Engineer,0.9037
+CS1433,Rahul Das,23,B.Sc Computer Science,,Automation,DevOps Engineer,0.9585
+CS1434,Aditi Kumar,27,B.Tech CSE,Database Management;Linux;Networking;Leadership,Technology,Network Engineer,0.8008
+CS1435,Neha Das,26,B.Tech CSE,Data Analysis;Machine Learning;SQL;Testing;Leadership;Problem Solving,Data Analytics;Technology,Data Scientist,0.8438
+CS1436,Priya Reddy,29,BCA,Cybersecurity;Linux;Networking;Database Management,Networking;Technology,Network Engineer,0.7655
+CS1437,Vihaan Kumar,20,MCA,SQL;Python;Statistics;Data Analysis,Research;Data Analytics,Data Scientist,0.8738
+CS1438,Priya Das,29,BCA,,Creativity,Web Developer,0.8898
+CS1439,Rahul Iyer,29,B.Tech IT,Presentation;Creativity;Python;Communication;Leadership,Design;Creativity,UI/UX Designer,0.8377
+CS1440,Karan Iyer,24,B.Sc Computer Science,CSS;HTML;React;Programming,Technology;Creativity,Web Developer,0.8824
+CS1441,Sneha Reddy,25,B.Sc Computer Science,Python;Database Management,Technology;Cloud Computing,Cloud Engineer,0.8848
+CS1442,Vihaan Singh,23,B.Tech IT,SQL;Python;Machine Learning;Power BI;Problem Solving;Leadership,Technology,Data Scientist,0.8813
+CS1443,Karan Singh,21,B.Sc Computer Science,Python;Statistics;Algorithms;Leadership;Problem Solving,Research,AI Engineer,0.9165
+CS1444,Vihaan Sharma,28,B.Tech CSE,,Cloud Computing;Technology,Cloud Engineer,0.8064
+CS1445,Vihaan Das,20,B.Sc Computer Science,Testing;Cybersecurity;Statistics;Critical Thinking;Teamwork,Research,Cybersecurity Analyst,0.8513
+CS1446,Karan Gupta,24,B.Sc Computer Science,CSS;Programming;JavaScript;React;Problem Solving;Teamwork,Technology,Web Developer,0.8524
+CS1447,Karan Sharma,26,BCA,Python;Project Management;Communication;Critical Thinking,Automation,DevOps Engineer,0.919
+CS1448,Rohan Das,27,B.Tech CSE,Creativity;Design,Creativity;Design,UI/UX Designer,0.8019
+CS1449,Aarav Gupta,20,B.Tech CSE,Linux;Database Management;Presentation,Technology;Cloud Computing,Cloud Engineer,0.9229
+CS1450,Diya Kumar,23,B.Tech IT,Python;Algorithms;Graphic Design;Problem Solving,Artificial Intelligence,AI Engineer,0.8912
+CS1451,Priya Gupta,25,B.Tech IT,Creativity;Presentation;Research,Creativity,UI/UX Designer,0.7657
+CS1452,Pooja Kumar,24,B.Tech IT,Project Management;Testing;Linux;Python;Teamwork;Leadership,Automation;Technology,DevOps Engineer,0.851
+CS1453,Ishita Das,22,B.Sc Computer Science,Python;Statistics,Artificial Intelligence;Research,AI Engineer,0.9066
+CS1454,Sneha Singh,26,B.Tech IT,Software Development;Programming;C++;Debugging;Algorithms,Technology;Programming,Software Developer,0.9403
+CS1455,Karan Iyer,25,MCA,Testing;Risk Management;Cybersecurity;Problem Solving,Research;Security,Cybersecurity Analyst,0.6947
+CS1456,Karan Kumar,28,B.Tech CSE,Python;Networking;Database Management;Communication;Problem Solving,Cloud Computing;Technology,Cloud Engineer,0.7691
+CS1457,Pooja Kumar,24,B.Tech CSE,Cybersecurity;Testing;Data Analysis;Teamwork,Research;Security,Cybersecurity Analyst,0.9723
+CS1458,Priya Reddy,23,B.Sc Computer Science,,Research,Cybersecurity Analyst,0.8942
+CS1459,Neha Sharma,27,BCA,Project Management;Python;Linux;Problem Solving;Research,Technology,DevOps Engineer,0.9266
+CS1460,Diya Iyer,29,B.Sc Computer Science,,Artificial Intelligence,AI Engineer,0.96
+CS1461,Rohan Sharma,29,MCA,C++;Debugging;Java;Leadership,Technology;Programming,Software Developer,0.8823
+CS1462,Diya Nair,26,B.Tech IT,SQL;Python;Problem Solving,Research,DevOps Engineer,0.6768
+CS1463,Neha Iyer,23,B.Sc Computer Science,Programming;React;Problem Solving,Creativity;Technology,Web Developer,0.8459
+CS1464,Sneha Reddy,29,B.Tech CSE,Networking;Database Management,Technology,Cloud Engineer,0.9337
+CS1465,Anaya Nair,27,MCA,React;JavaScript;Programming,Creativity,Web Developer,0.9386
+CS1466,Vihaan Gupta,21,B.Tech CSE,Networking;Database Management;Cybersecurity;Teamwork;Communication,Networking,Network Engineer,0.8982
+CS1467,Aditi Patel,25,MCA,Project Management;Python;Linux;Statistics;Research;Leadership,Technology,Cybersecurity Analyst,0.7138
+CS1468,Anaya Nair,22,B.Tech CSE,Python;Database Management;Leadership;Problem Solving,Cloud Computing,Cloud Engineer,0.7228
+CS1469,Ishita Sharma,20,MCA,Machine Learning;SQL;Statistics;Data Analysis;Programming;Teamwork,Research,Data Scientist,0.8133
+CS1470,Pooja Patel,22,B.Tech CSE,Graphic Design;Design;Statistics;Leadership,Design,UI/UX Designer,0.7072
+CS1471,Rohan Sharma,26,BCA,Java;Programming;C++;Software Development,Programming;Technology,Software Developer,0.7775
+CS1472,Diya Nair,22,BCA,SQL;Statistics;Power BI;Research,Data Analytics;Technology,Data Scientist,0.7053
+CS1473,Aditi Das,24,B.Tech IT,Cybersecurity;Database Management;Linux;Networking,Technology;Networking,Network Engineer,0.86
+CS1474,Sneha Gupta,22,BCA,Software Development;Java;Algorithms;Research,Programming,Software Developer,0.8484
+CS1475,Priya Iyer,26,B.Sc Computer Science,Python;Statistics;Machine Learning;Algorithms;Leadership;Problem Solving,Artificial Intelligence,AI Engineer,0.8782
+CS1476,Karan Singh,23,B.Sc Computer Science,,Artificial Intelligence,AI Engineer,0.7265
+CS1477,Vihaan Gupta,26,MCA,React;JavaScript;HTML;Critical Thinking,Creativity;Technology,Web Developer,0.9141
+CS1478,Aditi Roy,29,B.Sc Computer Science,Database Management;Cybersecurity,Networking,Network Engineer,0.6989
+CS1479,Pooja Kumar,25,MCA,Database Management;Cybersecurity;Networking;Communication;Leadership,Technology;Networking,Network Engineer,0.6792
+CS1480,Priya Nair,24,BCA,Debugging;Programming;C++,Programming;Technology,Software Developer,0.8372
+CS1481,Rahul Sharma,22,BCA,Project Management;Testing;Python,Technology,AI Engineer,0.8611
+CS1482,Karan Nair,29,BCA,Networking;Python;Linux;Database Management;React;Critical Thinking,Cloud Computing;Technology,Cloud Engineer,0.769
+CS1483,Vihaan Nair,28,MCA,Java;Software Development;Programming;C++;Teamwork,Programming;Technology,Software Developer,0.6814
+CS1484,Aryan Singh,24,MCA,Testing;Cybersecurity;Risk Management;Linux;Research,Security,Cybersecurity Analyst,0.8977
+CS1485,Aryan Sharma,21,B.Tech IT,Database Management;Python;Networking;Java;Communication;Critical Thinking,Cloud Computing;Technology,Data Scientist,0.8724
+CS1486,Rahul Gupta,25,B.Tech IT,Project Management;Testing,Technology;Automation,DevOps Engineer,0.7751
+CS1487,Neha Singh,25,MCA,,Artificial Intelligence;Research,AI Engineer,0.9306
+CS1488,Anaya Gupta,27,B.Tech IT,Python;Database Management;Linux;Networking,Technology,Cloud Engineer,0.9627
+CS1489,Rohan Kumar,29,B.Sc Computer Science,Linux;Networking;Database Management,Technology,Cloud Engineer,0.7353
+CS1490,Karan Singh,23,B.Tech IT,Statistics;Python,Data Analytics;Research,Data Scientist,0.8198
+CS1491,Rahul Reddy,21,BCA,Networking;Database Management;Cybersecurity;Debugging,Networking;Technology,Network Engineer,0.9485
+CS1492,Vihaan Das,25,B.Sc Computer Science,Design;Graphic Design;Creativity;Presentation,Design;Creativity,UI/UX Designer,0.7616
+CS1493,Arjun Nair,25,BCA,Design;Graphic Design;Creativity;Presentation,Creativity,DevOps Engineer,0.7439
+CS1494,Rahul Sharma,29,BCA,Linux;Networking;Database Management;Cybersecurity;Leadership,Networking;Technology,Network Engineer,0.7219
+CS1495,Priya Sharma,22,MCA,Cybersecurity;Risk Management;Testing,Security;Research,Cybersecurity Analyst,0.9543
+CS1496,Vihaan Patel,25,B.Sc Computer Science,C++;Java;Programming;Leadership;Research,Technology;Programming,Software Developer,0.8411
+CS1497,Pooja Iyer,21,B.Tech IT,Machine Learning;Statistics;SQL;Power BI;Testing,Technology,Data Scientist,0.7857
+CS1498,Aarav Das,23,MCA,C++;Java;Debugging;Communication,Technology;Programming,Software Developer,0.7998
+CS1499,Neha Reddy,25,B.Tech CSE,Networking;Database Management;Python,Technology,Cloud Engineer,0.8687
+CS1500,Aryan Iyer,22,MCA,HTML;Programming,Creativity,Web Developer,0.8966
+CS1501,Karan Kumar,28,MCA,Python;Networking;Linux;Database Management,Technology,Cloud Engineer,0.6917
+CS1502,Aarav Das,21,B.Sc Computer Science,Programming;HTML;React;JavaScript;Design;Communication;Teamwork,Technology,Cybersecurity Analyst,0.9278
+CS1503,Diya Iyer,28,B.Sc Computer Science,Linux;Testing;Cybersecurity;Data Analysis,Security;Research,Cybersecurity Analyst,0.826
+CS1504,Anaya Iyer,26,B.Tech CSE,Design;Graphic Design;Presentation;Creativity;Cybersecurity,Design,UI/UX Designer,0.7581
+CS1505,Anaya Singh,25,B.Sc Computer Science,Testing;Python;Teamwork;Research,Automation,Cybersecurity Analyst,0.9728
+CS1506,Diya Das,25,BCA,Python;Project Management;Linux;Testing;Critical Thinking,Automation;Technology,DevOps Engineer,0.7984
+CS1507,Pooja Roy,28,BCA,Linux;Testing;Networking;Communication,Research;Security,Cybersecurity Analyst,0.8817
+CS1508,Anaya Patel,22,B.Tech IT,CSS;JavaScript;Teamwork;Critical Thinking,Creativity;Technology,Web Developer,0.8793
+CS1509,Anaya Singh,24,B.Tech CSE,Programming;Java;Software Development;C++;Teamwork;Research,Technology;Programming,Software Developer,0.7978
+CS1510,Rohan Reddy,27,B.Sc Computer Science,Risk Management;Cybersecurity;Testing;Design;Communication,Security;Research,Cybersecurity Analyst,0.9504
+CS1511,Rahul Kumar,23,B.Tech IT,Python;Project Management;Testing,Automation;Technology,DevOps Engineer,0.9602
+CS1512,Neha Singh,20,B.Sc Computer Science,CSS;JavaScript;HTML;Communication;Leadership,Technology,Web Developer,0.8217
+CS1513,Diya Das,20,BCA,Programming;Java,Technology,Cloud Engineer,0.7775
+CS1514,Sneha Nair,25,BCA,Cybersecurity;Networking;Database Management;Research,Technology;Networking,Network Engineer,0.7528
+CS1515,Arjun Nair,25,B.Tech CSE,,Artificial Intelligence,AI Engineer,0.6884
+CS1516,Rohan Patel,25,B.Sc Computer Science,Database Management;Cybersecurity;Networking;Leadership,Networking;Technology,Web Developer,0.9107
+CS1517,Rohan Kumar,22,B.Tech IT,SQL;Python;Machine Learning;Power BI,Research;Technology,Software Developer,0.7478
+CS1518,Rahul Patel,23,B.Tech CSE,Risk Management;Testing;Networking;Teamwork,Security,Cybersecurity Analyst,0.8495
+CS1519,Priya Gupta,26,MCA,Networking;Linux;Database Management;Communication,Networking;Technology,Network Engineer,0.9585
+CS1520,Diya Singh,24,MCA,Statistics;Python;Machine Learning;Data Analysis,Data Analytics,Data Scientist,0.8727
+CS1521,Anaya Iyer,28,B.Sc Computer Science,Cybersecurity;Linux;Testing;Risk Management;Communication;Teamwork,Research,Cybersecurity Analyst,0.9108
+CS1522,Rahul Singh,23,MCA,Statistics;Python;Problem Solving,Artificial Intelligence,AI Engineer,0.9355
+CS1523,Neha Kumar,25,BCA,Programming;JavaScript;Critical Thinking,Technology,Web Developer,0.8353
+CS1524,Rohan Roy,20,B.Sc Computer Science,Linux;Networking;Python;Database Management,Cloud Computing,Cloud Engineer,0.8783
+CS1525,Rohan Sharma,22,B.Sc Computer Science,SQL;Statistics;Data Analysis;Machine Learning;Problem Solving,Technology;Research,Data Scientist,0.7622
+CS1526,Aditi Roy,22,BCA,Design;Graphic Design;Creativity;Presentation;Critical Thinking;Communication,Design,UI/UX Designer,0.8677
+CS1527,Ishita Roy,25,B.Tech CSE,SQL;Power BI;Python;Statistics,Data Analytics;Research,Data Scientist,0.8029
+CS1528,Rahul Roy,29,B.Sc Computer Science,SQL;Machine Learning;Power BI;Programming,Technology,Data Scientist,0.7872
+CS1529,Pooja Patel,23,B.Sc Computer Science,Creativity;Presentation;Graphic Design;Networking;Leadership;Problem Solving,Creativity,UI/UX Designer,0.7333
+CS1530,Sneha Nair,21,B.Sc Computer Science,Networking;Database Management;Python,Cloud Computing,Cloud Engineer,0.7973
+CS1531,Rahul Iyer,20,B.Tech CSE,Networking;Cybersecurity;Database Management;Linux;Teamwork,Technology,Network Engineer,0.7626
+CS1532,Vihaan Sharma,20,B.Tech CSE,JavaScript;HTML;React;Programming;Problem Solving;Leadership,Technology,Cybersecurity Analyst,0.8604
+CS1533,Aditi Das,27,B.Tech IT,Linux;Testing;Python;Design;Problem Solving;Leadership,Technology,DevOps Engineer,0.8915
+CS1534,Karan Gupta,29,B.Tech IT,HTML;JavaScript,Technology,Web Developer,0.7261
+CS1535,Aryan Patel,25,B.Tech IT,Programming;Software Development;Teamwork;Leadership,Programming,Software Developer,0.9635
+CS1536,Arjun Gupta,25,MCA,Debugging;Java;Software Development,Technology,Software Developer,0.7329
+CS1537,Arjun Das,29,MCA,Debugging;Programming;Java,Technology;Programming,Software Developer,0.9168
+CS1538,Pooja Patel,24,MCA,Python;Testing;Project Management;Leadership,Automation,AI Engineer,0.7765
+CS1539,Rahul Iyer,21,MCA,Database Management;Networking;Cybersecurity;Design,Technology;Networking,Network Engineer,0.8751
+CS1540,Sneha Sharma,24,B.Tech CSE,Linux;Database Management;Cybersecurity;Problem Solving;Teamwork,Networking,Network Engineer,0.8908
+CS1541,Rohan Roy,21,B.Sc Computer Science,Networking;Cybersecurity;Research,Networking;Technology,Network Engineer,0.8026
+CS1542,Arjun Nair,22,B.Tech CSE,C++;Debugging;Teamwork,Technology,Software Developer,0.8735
+CS1543,Priya Iyer,20,BCA,Algorithms;Python;Machine Learning;Statistics;Software Development,Research,AI Engineer,0.7056
+CS1544,Diya Roy,26,B.Sc Computer Science,Creativity;Graphic Design;Design;Presentation;Data Analysis,Creativity,Cybersecurity Analyst,0.6791
+CS1545,Pooja Sharma,24,B.Tech IT,Presentation;Graphic Design;Creativity,Design;Creativity,Software Developer,0.8244
+CS1546,Neha Gupta,29,MCA,Database Management;Networking;Cybersecurity,Networking,Network Engineer,0.7175
+CS1547,Karan Das,27,B.Tech CSE,Power BI;Statistics;SQL;Python,Data Analytics;Technology,Data Scientist,0.9336
+CS1548,Aditi Patel,21,B.Sc Computer Science,Networking;Python;Statistics;Teamwork,Technology;Cloud Computing,Cloud Engineer,0.8085
+CS1549,Diya Gupta,21,MCA,Database Management;Networking,Technology,Cloud Engineer,0.9286
+CS1550,Arjun Patel,29,MCA,Testing;Project Management,Automation,DevOps Engineer,0.7096
+CS1551,Aditi Nair,26,B.Tech IT,React;Programming;Teamwork;Critical Thinking,Technology;Creativity,Web Developer,0.7063
+CS1552,Ishita Sharma,29,MCA,Java;Programming;C++;Communication;Leadership,Technology,Software Developer,0.7356
+CS1553,Pooja Nair,28,B.Tech IT,Statistics;Power BI;SQL;React;Communication,Research;Data Analytics,Data Scientist,0.8856
+CS1554,Anaya Nair,25,B.Sc Computer Science,Cybersecurity;Testing;Problem Solving;Teamwork,Research;Security,Cybersecurity Analyst,0.9063
+CS1555,Sneha Gupta,21,MCA,Software Development;C++;Cybersecurity,Programming;Technology,Software Developer,0.9484
+CS1556,Ishita Nair,23,BCA,Cybersecurity;Linux;Testing;Risk Management;Problem Solving,Research,Cybersecurity Analyst,0.8976
+CS1557,Arjun Kumar,25,B.Tech CSE,Design;Creativity;Critical Thinking;Communication,Creativity;Design,UI/UX Designer,0.9196
+CS1558,Vihaan Das,20,B.Sc Computer Science,Database Management;Linux;Networking;Research;Leadership,Networking;Technology,Network Engineer,0.9073
+CS1559,Vihaan Singh,27,B.Tech CSE,Debugging;Java;Teamwork,Programming;Technology,Software Developer,0.8379
+CS1560,Aarav Sharma,22,BCA,Algorithms;Statistics;Machine Learning;C++;Teamwork;Leadership,Artificial Intelligence;Research,AI Engineer,0.8045
+CS1561,Anaya Patel,26,BCA,Testing;Python;Linux;Project Management;C++,Technology,DevOps Engineer,0.8575
+CS1562,Arjun Sharma,29,B.Tech IT,Project Management;Networking,Automation;Technology,DevOps Engineer,0.7058
+CS1563,Priya Roy,23,B.Sc Computer Science,Power BI;Data Analysis;Python;Machine Learning,Technology;Research,Data Scientist,0.8739
+CS1564,Vihaan Patel,24,BCA,Presentation;Creativity;Design;Graphic Design;Networking,Design,UI/UX Designer,0.8477
+CS1565,Sneha Das,23,MCA,Networking,Networking,Network Engineer,0.8004
+CS1566,Vihaan Singh,29,B.Tech CSE,Debugging;C++;Java;Networking;Leadership;Research,Programming,Software Developer,0.7464
+CS1567,Neha Roy,27,B.Tech IT,Python;Communication,Automation,DevOps Engineer,0.9486
+CS1568,Neha Patel,23,MCA,Programming;JavaScript;CSS;Problem Solving;Leadership,Creativity;Technology,Web Developer,0.8987
+CS1569,Karan Roy,29,MCA,Debugging;Programming;C++,Technology;Programming,Software Developer,0.9445
+CS1570,Aryan Gupta,21,B.Tech CSE,Risk Management;Linux;Cybersecurity;Testing;Debugging,Security,Cybersecurity Analyst,0.7884
+CS1571,Priya Das,28,BCA,Python;Statistics;Machine Learning;Algorithms,Research,AI Engineer,0.7376
+CS1572,Aarav Roy,20,B.Sc Computer Science,React;Programming;CSS;JavaScript;Statistics;Research;Communication,Creativity,Web Developer,0.7473
+CS1573,Aryan Gupta,26,B.Tech CSE,,Research,Data Scientist,0.7577
+CS1574,Priya Sharma,20,B.Tech IT,Project Management;Testing;Linux,Technology,DevOps Engineer,0.7146
+CS1575,Aarav Roy,21,BCA,React;CSS;HTML;Software Development,Creativity,Web Developer,0.6913
+CS1576,Sneha Reddy,24,BCA,Algorithms;Machine Learning;Python;Statistics;Problem Solving;Critical Thinking,Research;Artificial Intelligence,AI Engineer,0.7481
+CS1577,Sneha Sharma,23,B.Tech CSE,Linux;Networking,Cloud Computing,Cloud Engineer,0.699
+CS1578,Diya Nair,27,B.Sc Computer Science,Presentation;Design;Creativity;Risk Management,Design;Creativity,UI/UX Designer,0.7383
+CS1579,Vihaan Singh,20,MCA,Project Management;Linux;C++,Automation,DevOps Engineer,0.7115
+CS1580,Aarav Reddy,24,BCA,Networking;Cybersecurity;Leadership,Networking,Network Engineer,0.8297
+CS1581,Priya Das,20,B.Tech CSE,React;Programming;Testing;Critical Thinking;Teamwork,Technology;Creativity,Web Developer,0.9612
+CS1582,Rahul Roy,29,BCA,Cybersecurity;Risk Management;Presentation;Problem Solving,Research;Security,Cybersecurity Analyst,0.7382
+CS1583,Rohan Gupta,27,B.Tech IT,SQL;Data Analysis,Data Analytics,Data Scientist,0.6974
+CS1584,Vihaan Sharma,20,B.Sc Computer Science,Statistics;Power BI;Machine Learning;Python;Critical Thinking,Technology;Data Analytics,Data Scientist,0.7465
+CS1585,Diya Roy,25,B.Sc Computer Science,Cybersecurity;Research;Teamwork,Research;Security,Cybersecurity Analyst,0.6787
+CS1586,Ishita Nair,25,B.Tech IT,Database Management;Python,Cloud Computing;Technology,Cloud Engineer,0.6888
+CS1587,Diya Nair,29,MCA,React;HTML,Technology;Creativity,Web Developer,0.7805
+CS1588,Rahul Patel,28,BCA,Linux;Cybersecurity;Testing;Critical Thinking;Leadership,Research,Cybersecurity Analyst,0.7233
+CS1589,Diya Sharma,20,BCA,Python;Project Management;Testing;Linux;Cybersecurity;Leadership,Automation,DevOps Engineer,0.6817
+CS1590,Priya Sharma,27,BCA,Cybersecurity;Database Management;Networking,Networking,Network Engineer,0.7008
+CS1591,Ishita Patel,23,BCA,Presentation;Creativity;Graphic Design;Design,Creativity,UI/UX Designer,0.7746
+CS1592,Arjun Reddy,20,B.Sc Computer Science,Linux;Database Management;Cybersecurity;Python;Communication;Problem Solving,Networking;Technology,Network Engineer,0.8185
+CS1593,Sneha Kumar,27,B.Tech CSE,Python;SQL;Machine Learning;Problem Solving;Critical Thinking,Data Analytics;Research,Data Scientist,0.8724
+CS1594,Anaya Sharma,23,B.Sc Computer Science,JavaScript;HTML;Critical Thinking;Research,Technology,Web Developer,0.8781
+CS1595,Vihaan Kumar,21,B.Tech IT,Database Management;Networking;Cybersecurity;Linux;Research,Technology,Network Engineer,0.8599
+CS1596,Pooja Iyer,27,B.Sc Computer Science,Presentation;Design;Communication,Design;Creativity,UI/UX Designer,0.8442
+CS1597,Arjun Das,27,MCA,CSS;HTML;React;Research,Technology;Creativity,Web Developer,0.7561
+CS1598,Anaya Reddy,24,B.Tech CSE,Java;Programming;Critical Thinking,Programming;Technology,Software Developer,0.8191
+CS1599,Neha Nair,21,MCA,Database Management;Cybersecurity;Leadership,Networking;Technology,Network Engineer,0.8955
+CS1600,Rahul Das,27,MCA,Software Development;C++;Programming;Problem Solving;Leadership,Technology;Programming,Network Engineer,0.7528
+CS1601,Aryan Gupta,29,B.Tech CSE,,Artificial Intelligence;Research,AI Engineer,0.704
+CS1602,Neha Singh,23,B.Tech IT,Networking;Cybersecurity;Linux,Technology,Network Engineer,0.8127
+CS1603,Karan Das,25,B.Tech IT,C++;Java;Programming;Debugging,Programming,Software Developer,0.7977
+CS1604,Vihaan Das,27,B.Tech IT,Python;Linux;Project Management;Communication,Automation;Technology,DevOps Engineer,0.8314
+CS1605,Aditi Iyer,28,BCA,,Research,UI/UX Designer,0.9327
+CS1606,Aditi Sharma,22,B.Tech IT,Java;Software Development;Programming;C++,Technology,Software Developer,0.7391
+CS1607,Ishita Iyer,21,B.Sc Computer Science,Testing;Project Management;Python,Technology,DevOps Engineer,0.9574
+CS1608,Aryan Singh,28,B.Sc Computer Science,Database Management;Python;Statistics;Research;Teamwork,Cloud Computing,Cloud Engineer,0.6924
+CS1609,Aditi Gupta,25,B.Tech IT,Java;Debugging;Software Development;C++,Programming;Technology,Software Developer,0.9415
+CS1610,Neha Sharma,25,BCA,Python;Algorithms;Statistics;SQL;Communication,Artificial Intelligence,Network Engineer,0.8145
+CS1611,Aditi Singh,27,BCA,Creativity;Graphic Design;Presentation;Communication,Creativity,UI/UX Designer,0.9181
+CS1612,Karan Singh,24,B.Sc Computer Science,Statistics;Algorithms;Python;Machine Learning;Communication,Research;Artificial Intelligence,Network Engineer,0.9151
+CS1613,Neha Iyer,26,BCA,Graphic Design;Presentation;Teamwork,Design;Creativity,UI/UX Designer,0.6853
+CS1614,Arjun Kumar,20,BCA,JavaScript;React,Technology,Web Developer,0.7261
+CS1615,Anaya Roy,28,MCA,Machine Learning;Python;Power BI;SQL;Leadership,Research;Data Analytics,Data Scientist,0.839
+CS1616,Vihaan Singh,28,BCA,Software Development;Programming;Java;C++,Technology,Software Developer,0.9609
+CS1617,Sneha Kumar,23,MCA,Algorithms;Python;Machine Learning;Statistics;Cybersecurity;Leadership;Problem Solving,Research,Data Scientist,0.9647
+CS1618,Priya Das,20,B.Tech IT,Python;Machine Learning;Data Analysis;Power BI;Leadership;Research,Data Analytics,Data Scientist,0.8713
+CS1619,Vihaan Singh,23,BCA,Testing;Linux;Project Management;Risk Management;Critical Thinking;Communication,Automation;Technology,DevOps Engineer,0.706
+CS1620,Aarav Patel,25,B.Tech CSE,Algorithms;Python;Machine Learning;Statistics;Software Development,Research;Artificial Intelligence,AI Engineer,0.7722
+CS1621,Anaya Patel,26,B.Tech CSE,Cybersecurity;Testing,Security;Research,Cybersecurity Analyst,0.6899
+CS1622,Aditi Singh,25,B.Tech IT,Programming;React;Critical Thinking,Creativity;Technology,Web Developer,0.8509
+CS1623,Aditi Gupta,27,B.Sc Computer Science,Algorithms;Machine Learning;Research,Research;Artificial Intelligence,AI Engineer,0.8322
+CS1624,Arjun Kumar,22,B.Sc Computer Science,Presentation;Design;Graphic Design;Teamwork;Critical Thinking,Creativity;Design,UI/UX Designer,0.703
+CS1625,Aarav Patel,21,B.Tech IT,Networking;Linux;Python;Database Management;Programming,Cloud Computing;Technology,Cloud Engineer,0.9219
+CS1626,Aditi Nair,27,MCA,Project Management;Python;Testing;Communication;Leadership,Automation;Technology,AI Engineer,0.9646
+CS1627,Anaya Iyer,24,B.Tech CSE,Risk Management;Cybersecurity;Problem Solving,Research;Security,Cybersecurity Analyst,0.7263
+CS1628,Rohan Sharma,23,MCA,Presentation;Creativity;Design,Creativity;Design,UI/UX Designer,0.8985
+CS1629,Priya Kumar,28,B.Tech IT,Testing;Python;JavaScript;Problem Solving;Teamwork,Automation;Technology,DevOps Engineer,0.7182
+CS1630,Pooja Reddy,24,B.Tech CSE,Python;Data Analysis;SQL;Power BI,Technology;Research,Data Scientist,0.8284
+CS1631,Karan Gupta,24,MCA,React;Programming;CSS;Graphic Design,Technology;Creativity,Web Developer,0.7655
+CS1632,Priya Patel,29,MCA,Linux;Testing;Python;Project Management,Automation;Technology,DevOps Engineer,0.8621
+CS1633,Ishita Singh,22,B.Tech CSE,Creativity;Presentation;Graphic Design;Design;Leadership;Problem Solving,Design,Web Developer,0.82
+CS1634,Diya Kumar,27,BCA,Programming;Debugging;Software Development;Java;Leadership,Technology;Programming,Software Developer,0.7879
+CS1635,Diya Nair,22,MCA,HTML;JavaScript;Teamwork,Creativity,Web Developer,0.8721
+CS1636,Sneha Singh,25,B.Tech CSE,Python;Database Management;Networking;Presentation;Leadership;Teamwork,Technology;Cloud Computing,Cloud Engineer,0.699
+CS1637,Arjun Das,25,BCA,Testing;Cybersecurity;Risk Management,Security;Research,Cybersecurity Analyst,0.6863
+CS1638,Diya Nair,23,B.Sc Computer Science,Linux;Testing;Creativity,Technology,DevOps Engineer,0.9353
+CS1639,Aarav Roy,21,MCA,Design;Presentation;Research;Communication,Design;Creativity,UI/UX Designer,0.8811
+CS1640,Anaya Sharma,24,BCA,Programming;Java;Communication,Programming;Technology,Software Developer,0.7989
+CS1641,Karan Singh,26,B.Tech CSE,Linux;Networking;Leadership;Research,Technology;Cloud Computing,Cloud Engineer,0.8753
+CS1642,Vihaan Das,28,B.Tech IT,Python;Networking;Linux;Database Management;Statistics,Cloud Computing;Technology,Cloud Engineer,0.9096
+CS1643,Neha Gupta,22,B.Tech CSE,Creativity;Design;Graphic Design,Design,UI/UX Designer,0.7511
+CS1644,Karan Das,21,MCA,Algorithms;Python;Machine Learning;Statistics,Artificial Intelligence;Research,AI Engineer,0.8154
+CS1645,Rahul Kumar,27,B.Tech IT,CSS;HTML;React;Research,Technology,Web Developer,0.8234
+CS1646,Sneha Singh,25,B.Tech IT,Project Management;Python;Risk Management;Critical Thinking;Problem Solving,Technology,DevOps Engineer,0.7525
+CS1647,Diya Das,20,B.Sc Computer Science,,Technology,Network Engineer,0.8394
+CS1648,Neha Kumar,28,B.Tech IT,Networking;Linux;Python;Database Management;Leadership,Technology;Cloud Computing,Cloud Engineer,0.7954
+CS1649,Priya Das,29,B.Tech IT,CSS;HTML;JavaScript;React;Python;Leadership;Critical Thinking,Creativity;Technology,Web Developer,0.9089
+CS1650,Vihaan Singh,28,MCA,,Networking;Technology,Network Engineer,0.8307
+CS1651,Karan Reddy,27,BCA,Debugging;Programming;C++;Critical Thinking,Technology,Software Developer,0.9214
+CS1652,Aditi Singh,26,BCA,React;JavaScript;HTML;Programming,Creativity;Technology,Web Developer,0.9307
+CS1653,Arjun Sharma,24,BCA,Networking;Database Management;Cybersecurity;Leadership;Communication,Technology;Networking,Cybersecurity Analyst,0.8699
+CS1654,Aarav Reddy,20,BCA,Python;Statistics;Data Analysis;SQL;Networking;Teamwork,Data Analytics,Data Scientist,0.9293
+CS1655,Arjun Nair,20,B.Tech CSE,JavaScript;CSS;Programming;HTML,Creativity,Web Developer,0.951
+CS1656,Vihaan Gupta,27,B.Sc Computer Science,Creativity;Graphic Design;Presentation;Design;Machine Learning,Design;Creativity,UI/UX Designer,0.8444
+CS1657,Priya Roy,23,B.Tech IT,React;HTML;Programming;JavaScript;Problem Solving,Creativity,Web Developer,0.9282
+CS1658,Sneha Roy,21,MCA,Testing;Risk Management;Machine Learning;Problem Solving;Teamwork,Security,Cybersecurity Analyst,0.7618
+CS1659,Pooja Roy,21,B.Sc Computer Science,Statistics;Machine Learning;Algorithms;Python;Networking;Teamwork,Artificial Intelligence;Research,AI Engineer,0.829
+CS1660,Arjun Iyer,20,BCA,Creativity;Presentation;Graphic Design;Programming,Creativity,UI/UX Designer,0.792
+CS1661,Sneha Iyer,27,B.Sc Computer Science,JavaScript;HTML;React;CSS;Problem Solving,Technology;Creativity,Web Developer,0.8962
+CS1662,Aryan Kumar,21,MCA,Debugging;Software Development;Java;C++,Technology;Programming,Software Developer,0.9329
+CS1663,Aarav Das,24,B.Tech IT,Software Development;Debugging;Programming;Cybersecurity,Programming,Software Developer,0.7808
+CS1664,Vihaan Singh,22,B.Sc Computer Science,Algorithms;Python;Machine Learning,Artificial Intelligence,AI Engineer,0.7427
+CS1665,Rohan Gupta,22,MCA,Algorithms;Python;Teamwork;Problem Solving,Research;Artificial Intelligence,AI Engineer,0.7116
+CS1666,Pooja Sharma,29,B.Sc Computer Science,Algorithms;Statistics;Machine Learning;Problem Solving,Artificial Intelligence,AI Engineer,0.7827
+CS1667,Rahul Reddy,20,BCA,C++;Software Development;Research;Communication,Technology,Software Developer,0.7741
+CS1668,Pooja Nair,20,B.Tech IT,C++;Debugging,Technology,Software Developer,0.7093
+CS1669,Anaya Gupta,28,BCA,Algorithms;Statistics;Research;Communication,Artificial Intelligence;Research,AI Engineer,0.909
+CS1670,Aarav Das,27,MCA,React;Programming;Leadership,Technology;Creativity,Web Developer,0.8075
+CS1671,Aarav Reddy,25,BCA,Statistics;Machine Learning,Research,AI Engineer,0.7849
+CS1672,Diya Reddy,29,B.Tech IT,Python;Machine Learning;Power BI;Data Analysis;Critical Thinking,Technology,Data Scientist,0.9428
+CS1673,Arjun Nair,20,B.Tech IT,Project Management;Testing;Python;Research,Technology,DevOps Engineer,0.8999
+CS1674,Aryan Nair,24,B.Tech IT,Cybersecurity;Linux;Testing;Risk Management,Security,Cybersecurity Analyst,0.8175
+CS1675,Rahul Gupta,21,B.Tech IT,Cybersecurity;Risk Management;Linux;Testing;Problem Solving;Communication,Research,Cybersecurity Analyst,0.8537
+CS1676,Sneha Patel,27,MCA,Graphic Design;Design;Algorithms;Critical Thinking;Research,Creativity,UI/UX Designer,0.7829
+CS1677,Priya Kumar,25,BCA,Creativity;Graphic Design;Presentation;Design,Creativity,UI/UX Designer,0.782
+CS1678,Ishita Das,21,MCA,Testing;Risk Management;Cybersecurity;Communication;Leadership,Security;Research,Cybersecurity Analyst,0.7209
+CS1679,Rahul Gupta,28,B.Sc Computer Science,Design;Graphic Design;Database Management;Problem Solving;Research,Creativity;Design,UI/UX Designer,0.8655
+CS1680,Rahul Das,26,B.Sc Computer Science,Python;Project Management;Testing;Problem Solving;Teamwork,Technology,DevOps Engineer,0.8657
+CS1681,Priya Patel,29,MCA,Debugging;C++;Programming;Creativity,Technology,Software Developer,0.7664
+CS1682,Priya Gupta,22,BCA,HTML;React;JavaScript;Research,Technology,Web Developer,0.8903
+CS1683,Vihaan Iyer,25,B.Tech IT,CSS;React,Technology,Web Developer,0.8272
+CS1684,Aarav Roy,26,B.Tech CSE,Design;Presentation;Graphic Design;Research;Communication,Design;Creativity,UI/UX Designer,0.9227
+CS1685,Vihaan Gupta,21,MCA,Algorithms;Machine Learning;Python;Cybersecurity,Artificial Intelligence;Research,AI Engineer,0.7446
+CS1686,Priya Gupta,29,BCA,Database Management;Networking;Testing,Cloud Computing;Technology,Cloud Engineer,0.7574
+CS1687,Priya Iyer,24,B.Tech IT,Risk Management;Testing;Problem Solving;Teamwork,Research;Security,Cybersecurity Analyst,0.6885
+CS1688,Diya Nair,27,B.Tech IT,Machine Learning;Data Analysis;Statistics,Technology,Data Scientist,0.7661
+CS1689,Aditi Sharma,28,B.Tech IT,Python;Project Management;Testing;JavaScript;Problem Solving,Automation,DevOps Engineer,0.807
+CS1690,Priya Roy,22,B.Tech IT,Design;Creativity;Presentation;Critical Thinking;Teamwork,Design,UI/UX Designer,0.8252
+CS1691,Priya Singh,29,B.Sc Computer Science,Presentation;Design;Graphic Design;Creativity;Teamwork,Design,UI/UX Designer,0.6978
+CS1692,Ishita Singh,29,MCA,Database Management;Python,Technology,UI/UX Designer,0.7056
+CS1693,Sneha Patel,25,B.Sc Computer Science,Cybersecurity;Risk Management;Linux;Testing;Critical Thinking,Security;Research,Cybersecurity Analyst,0.8497
+CS1694,Karan Reddy,27,B.Tech IT,Database Management;Python;Networking;Linux;Teamwork;Critical Thinking,Cloud Computing;Technology,Cloud Engineer,0.7735
+CS1695,Priya Roy,28,BCA,Database Management;Cybersecurity,Technology,Network Engineer,0.8967
+CS1696,Karan Reddy,29,MCA,Algorithms;Python;Machine Learning;Statistics;Problem Solving,Artificial Intelligence,AI Engineer,0.7313
+CS1697,Neha Nair,29,MCA,Risk Management;Linux,Research;Security,Cybersecurity Analyst,0.7747
+CS1698,Neha Gupta,20,BCA,Debugging;Java;Research,Programming,Software Developer,0.8873
+CS1699,Aryan Nair,27,B.Tech IT,Programming;C++;Java;Communication;Teamwork,Technology;Programming,Software Developer,0.9491
+CS1700,Arjun Patel,22,B.Sc Computer Science,Testing;Cybersecurity;Risk Management;Linux;Research;Leadership,Security,Cybersecurity Analyst,0.9017
+CS1701,Aryan Reddy,23,B.Tech IT,Risk Management;Cybersecurity;Testing;Statistics,Research,Cybersecurity Analyst,0.7773
+CS1702,Aryan Reddy,20,B.Sc Computer Science,Machine Learning;Algorithms;Statistics,Artificial Intelligence;Research,Software Developer,0.7998
+CS1703,Ishita Das,28,B.Tech CSE,Machine Learning;Python;Statistics;Data Analysis,Research;Technology,Data Scientist,0.8927
+CS1704,Aditi Patel,25,B.Tech CSE,Linux;Testing,Technology,DevOps Engineer,0.8207
+CS1705,Aryan Gupta,28,MCA,Cybersecurity;Database Management;Networking;Communication;Teamwork,Technology;Networking,Network Engineer,0.8494
+CS1706,Diya Gupta,23,B.Tech IT,,Design,UI/UX Designer,0.9631
+CS1707,Priya Nair,29,B.Tech CSE,,Creativity,Cloud Engineer,0.7957
+CS1708,Aryan Kumar,25,MCA,Programming;HTML;Cybersecurity,Creativity;Technology,Web Developer,0.9719
+CS1709,Priya Das,26,MCA,Cybersecurity;Linux;Testing;Risk Management;Leadership,Security;Research,Cybersecurity Analyst,0.8702
+CS1710,Anaya Roy,25,B.Sc Computer Science,Power BI;Machine Learning;Python;Critical Thinking,Data Analytics;Technology,Data Scientist,0.7353
+CS1711,Pooja Roy,29,BCA,,Technology,Software Developer,0.792
+CS1712,Aditi Singh,21,MCA,,Technology;Data Analytics,Data Scientist,0.6835
+CS1713,Aditi Roy,22,BCA,React;Programming,Technology,Web Developer,0.8238
+CS1714,Rahul Das,21,MCA,Python;Testing,Automation,DevOps Engineer,0.7152
+CS1715,Ishita Sharma,26,B.Tech CSE,Cybersecurity;Testing;Risk Management;Linux;Statistics,Security;Research,Cybersecurity Analyst,0.8656
+CS1716,Diya Singh,29,MCA,Design;Presentation,Creativity;Design,UI/UX Designer,0.8196
+CS1717,Sneha Kumar,27,B.Tech CSE,Python;Database Management;Linux,Technology;Cloud Computing,Cloud Engineer,0.9122
+CS1718,Anaya Roy,22,BCA,Statistics;Python;Machine Learning;Algorithms,Research,AI Engineer,0.713
+CS1719,Aarav Singh,25,B.Sc Computer Science,Testing;Risk Management;Cybersecurity,Security,Cybersecurity Analyst,0.7427
+CS1720,Pooja Iyer,23,B.Tech IT,Networking;Cybersecurity;Database Management,Technology,Network Engineer,0.8594
+CS1721,Neha Sharma,21,BCA,Project Management;Linux;Python;Testing,Technology;Automation,DevOps Engineer,0.8887
+CS1722,Pooja Gupta,21,B.Tech IT,Testing;Project Management;Python;Problem Solving;Teamwork,Technology,DevOps Engineer,0.7431
+CS1723,Karan Das,29,MCA,Testing;Cybersecurity;Problem Solving,Research;Security,Cybersecurity Analyst,0.8289
+CS1724,Anaya Reddy,24,B.Tech IT,,Design;Creativity,UI/UX Designer,0.7253
+CS1725,Neha Roy,24,B.Sc Computer Science,Testing;Problem Solving;Research,Technology;Automation,DevOps Engineer,0.9268
+CS1726,Arjun Iyer,28,MCA,Statistics;Machine Learning;Python;Critical Thinking,Artificial Intelligence;Research,AI Engineer,0.9234
+CS1727,Rahul Nair,20,B.Tech IT,Python;Data Analysis;Power BI;Machine Learning;Risk Management;Research;Communication,Research;Data Analytics,Data Scientist,0.9169
+CS1728,Neha Reddy,20,BCA,Cybersecurity;Networking;Linux,Networking;Technology,Network Engineer,0.9648
+CS1729,Ishita Kumar,23,BCA,Database Management;Linux;Python;Networking,Technology,Cloud Engineer,0.7792
+CS1730,Diya Reddy,25,B.Tech IT,Cybersecurity;Risk Management,Security;Research,Cybersecurity Analyst,0.8239
+CS1731,Vihaan Das,29,MCA,Networking;Database Management;Cybersecurity,Technology;Networking,Network Engineer,0.6997
+CS1732,Aarav Singh,28,B.Tech IT,Risk Management;Testing;Communication;Leadership,Research,Cybersecurity Analyst,0.8109
+CS1733,Aarav Roy,23,B.Tech CSE,Testing;Cybersecurity,Research,Cybersecurity Analyst,0.7377
+CS1734,Diya Gupta,23,BCA,Python;Database Management,Technology;Cloud Computing,Cloud Engineer,0.7627
+CS1735,Karan Reddy,28,BCA,Linux;Testing;Project Management,Automation,DevOps Engineer,0.9058
+CS1736,Karan Reddy,28,B.Tech CSE,CSS;JavaScript;React;HTML;Research,Creativity;Technology,Web Developer,0.7338
+CS1737,Sneha Roy,28,BCA,Machine Learning;Python;Algorithms;Risk Management,Research;Artificial Intelligence,AI Engineer,0.7436
+CS1738,Vihaan Das,29,B.Tech CSE,Algorithms;Python,Artificial Intelligence,AI Engineer,0.7802
+CS1739,Arjun Nair,26,MCA,Python;Testing;Linux;Teamwork;Communication,Technology,DevOps Engineer,0.9593
+CS1740,Diya Das,25,MCA,Linux;Networking;Database Management,Technology;Networking,Network Engineer,0.7408
+CS1741,Aryan Iyer,29,BCA,,Technology,Web Developer,0.766
+CS1742,Rohan Kumar,22,MCA,CSS;React;Risk Management;Critical Thinking,Creativity,Web Developer,0.9363
+CS1743,Ishita Gupta,27,B.Sc Computer Science,Python;Data Analysis;Power BI;SQL;Critical Thinking,Research,Data Scientist,0.7264
+CS1744,Aditi Iyer,21,B.Sc Computer Science,Java;Software Development;C++,Programming;Technology,Cloud Engineer,0.917
+CS1745,Sneha Das,25,B.Sc Computer Science,JavaScript;React;Programming;HTML;Presentation,Creativity;Technology,Web Developer,0.823
+CS1746,Ishita Iyer,28,B.Tech IT,Python;Networking;Database Management;Linux,Cloud Computing,Cloud Engineer,0.7658
+CS1747,Priya Das,27,B.Tech IT,Python;Statistics;Algorithms;Machine Learning;Critical Thinking;Communication,Artificial Intelligence;Research,AI Engineer,0.6912
+CS1748,Aditi Gupta,22,MCA,Graphic Design;Design;Presentation;Creativity;Python,Creativity,UI/UX Designer,0.8667
+CS1749,Pooja Nair,26,BCA,Presentation;Design;Graphic Design;Risk Management,Design;Creativity,UI/UX Designer,0.6836
+CS1750,Vihaan Patel,28,BCA,,Design,UI/UX Designer,0.913
+CS1751,Rohan Kumar,20,MCA,Cybersecurity;Database Management;Linux;Networking;Communication;Teamwork,Technology,Network Engineer,0.8159
+CS1752,Rahul Kumar,23,B.Tech IT,Python;C++;Problem Solving,Technology;Cloud Computing,Cloud Engineer,0.8962
+CS1753,Arjun Patel,24,B.Sc Computer Science,Python;Algorithms,Research;Artificial Intelligence,AI Engineer,0.6999
+CS1754,Rohan Patel,28,BCA,,Technology;Creativity,Web Developer,0.7614
+CS1755,Aarav Nair,20,B.Sc Computer Science,Power BI;Python;Teamwork,Data Analytics;Technology,Data Scientist,0.8807
+CS1756,Sneha Singh,27,B.Sc Computer Science,Data Analysis;Python;SQL;Communication,Technology;Research,Data Scientist,0.8647
+CS1757,Diya Sharma,26,BCA,Testing;Cybersecurity,Security;Research,Cybersecurity Analyst,0.9434
+CS1758,Anaya Reddy,27,MCA,Database Management;Research,Technology;Networking,Network Engineer,0.803
+CS1759,Arjun Patel,27,B.Tech CSE,Database Management;Networking;Python;Creativity;Critical Thinking,Technology;Cloud Computing,Cloud Engineer,0.7736
+CS1760,Rahul Patel,24,B.Sc Computer Science,Project Management;Python;Testing;Machine Learning,Automation;Technology,UI/UX Designer,0.789
+CS1761,Aarav Sharma,25,B.Tech CSE,Database Management;Cybersecurity;Networking;Research,Technology,Network Engineer,0.7025
+CS1762,Neha Das,28,B.Tech IT,Machine Learning;Statistics;Python;Leadership,Research;Artificial Intelligence,AI Engineer,0.7282
+CS1763,Rohan Reddy,21,B.Tech CSE,Database Management;Networking,Networking;Technology,Network Engineer,0.8745
+CS1764,Rahul Iyer,25,BCA,Database Management;Linux;Cybersecurity;Data Analysis,Technology;Networking,Network Engineer,0.9613
+CS1765,Anaya Das,25,B.Sc Computer Science,HTML;CSS;Programming,Technology,Web Developer,0.7678
+CS1766,Neha Reddy,26,BCA,Python;Critical Thinking;Communication,Cloud Computing,Cloud Engineer,0.8841
+CS1767,Aarav Roy,26,BCA,Power BI;Statistics;Python;Teamwork,Research;Data Analytics,Data Scientist,0.792
+CS1768,Vihaan Gupta,28,B.Tech CSE,Algorithms;Machine Learning;Statistics;Python,Research;Artificial Intelligence,Cloud Engineer,0.9469
+CS1769,Ishita Das,22,B.Sc Computer Science,Python;SQL;Java;Communication,Technology,AI Engineer,0.9318
+CS1770,Arjun Singh,23,B.Tech CSE,Database Management;Python;Networking,Cloud Computing,Cloud Engineer,0.7082
+CS1771,Pooja Sharma,27,B.Tech IT,JavaScript;CSS;React,Creativity,Web Developer,0.8779
+CS1772,Priya Patel,26,B.Sc Computer Science,Project Management;Teamwork,Automation,DevOps Engineer,0.7658
+CS1773,Aarav Das,27,BCA,Testing;Risk Management;Cybersecurity,Research,Cybersecurity Analyst,0.7302
+CS1774,Diya Reddy,25,MCA,Statistics;Python;Power BI;Data Analysis,Technology;Data Analytics,Data Scientist,0.8929
+CS1775,Aditi Reddy,25,MCA,Statistics;Machine Learning;Algorithms,Artificial Intelligence,AI Engineer,0.8018
+CS1776,Pooja Patel,22,B.Sc Computer Science,Python;Database Management;Problem Solving,Cloud Computing;Technology,Cloud Engineer,0.8116
+CS1777,Neha Singh,23,MCA,Networking;Database Management;Problem Solving;Communication,Networking,Network Engineer,0.9326
+CS1778,Aryan Singh,26,MCA,Python;Networking;Communication,Technology;Cloud Computing,Cloud Engineer,0.9519
+CS1779,Anaya Gupta,22,BCA,Power BI;SQL;Machine Learning,Technology,Data Scientist,0.7559
+CS1780,Diya Singh,22,BCA,Linux;Networking;Teamwork;Problem Solving,Technology;Cloud Computing,Cloud Engineer,0.8488
+CS1781,Anaya Roy,21,MCA,Creativity;Design;Presentation;Graphic Design;Research,Design;Creativity,UI/UX Designer,0.9395
+CS1782,Sneha Kumar,22,BCA,Programming;C++,Programming,Software Developer,0.9201
+CS1783,Priya Kumar,28,BCA,Statistics;Algorithms;Python,Research,AI Engineer,0.8853
+CS1784,Rohan Reddy,26,B.Sc Computer Science,Presentation;Graphic Design;Design;Teamwork,Design;Creativity,UI/UX Designer,0.9384
+CS1785,Diya Patel,25,MCA,Database Management;Networking;Cybersecurity;Leadership;Problem Solving,Technology;Networking,AI Engineer,0.8357
+CS1786,Sneha Das,21,B.Tech IT,Project Management;Testing;Teamwork,Automation,DevOps Engineer,0.8905
+CS1787,Rohan Kumar,21,B.Tech IT,Cybersecurity;Programming;Leadership;Communication,Networking,Network Engineer,0.7915
+CS1788,Rohan Patel,28,BCA,,Technology,UI/UX Designer,0.9004
+CS1789,Priya Iyer,27,B.Tech CSE,Algorithms;Python;Machine Learning,Artificial Intelligence,AI Engineer,0.6919
+CS1790,Priya Iyer,24,BCA,Python;Statistics;Machine Learning;Algorithms;Teamwork,Research;Artificial Intelligence,AI Engineer,0.7272
+CS1791,Anaya Singh,23,B.Sc Computer Science,Graphic Design;Creativity;Design;Critical Thinking;Teamwork,Design,Software Developer,0.9133
+CS1792,Rohan Gupta,23,MCA,Linux;Risk Management;Testing;Cybersecurity,Security;Research,Cybersecurity Analyst,0.7422
+CS1793,Pooja Sharma,24,B.Tech CSE,,Programming,Software Developer,0.8601
+CS1794,Aryan Sharma,21,BCA,Testing;Risk Management;Cybersecurity;C++,Security;Research,Cybersecurity Analyst,0.6927
+CS1795,Anaya Singh,27,B.Sc Computer Science,Database Management;Networking;Cybersecurity,Networking,Network Engineer,0.7104
+CS1796,Aarav Das,24,BCA,Testing;Python;Communication;Teamwork,Technology;Automation,DevOps Engineer,0.8539
+CS1797,Arjun Kumar,27,B.Tech IT,Database Management;Linux,Cloud Computing;Technology,Cloud Engineer,0.9235
+CS1798,Arjun Patel,29,MCA,Machine Learning;Python;Power BI;Leadership,Technology;Data Analytics,Data Scientist,0.8743
+CS1799,Diya Gupta,27,MCA,Statistics;Machine Learning;Python,Research;Artificial Intelligence,Cybersecurity Analyst,0.9376
+CS1800,Karan Kumar,20,B.Sc Computer Science,Python;Project Management;Testing;Critical Thinking,Technology,Software Developer,0.9417
+CS1801,Karan Nair,28,MCA,HTML;JavaScript;React;Programming,Technology;Creativity,Web Developer,0.9067
+CS1802,Aryan Das,27,B.Tech IT,Graphic Design;Presentation;Creativity;Design;Python,Design,UI/UX Designer,0.9644
+CS1803,Aryan Das,21,BCA,,Creativity,Web Developer,0.7277
+CS1804,Rahul Reddy,20,MCA,Python;Networking;Leadership;Research,Technology;Cloud Computing,Cloud Engineer,0.8502
+CS1805,Aryan Das,27,BCA,Python;Machine Learning;Statistics;Research,Research;Artificial Intelligence,AI Engineer,0.957
+CS1806,Aarav Gupta,24,B.Sc Computer Science,Project Management,Technology;Automation,DevOps Engineer,0.9683
+CS1807,Aryan Kumar,20,BCA,Python;Linux;Networking,Technology,Cloud Engineer,0.8447
+CS1808,Arjun Patel,26,B.Tech CSE,Programming;React;HTML;CSS;Design;Research;Communication,Technology,Web Developer,0.7539
+CS1809,Ishita Iyer,20,MCA,Testing;Problem Solving;Research,Security,Cybersecurity Analyst,0.7162
+CS1810,Karan Singh,22,B.Tech CSE,Python;Networking;Communication;Leadership,Cloud Computing;Technology,AI Engineer,0.8194
+CS1811,Ishita Nair,21,B.Sc Computer Science,Python;Data Analysis;Testing,Research;Data Analytics,Data Scientist,0.8704
+CS1812,Aarav Roy,22,BCA,SQL;Power BI,Data Analytics;Technology,Cybersecurity Analyst,0.854
+CS1813,Rohan Das,27,B.Sc Computer Science,Creativity;Design;Presentation;Research,Design,UI/UX Designer,0.9252
+CS1814,Rahul Gupta,26,MCA,CSS;Programming;JavaScript;React;Leadership,Technology;Creativity,Web Developer,0.6851
+CS1815,Aryan Patel,20,BCA,Creativity;Presentation;Graphic Design;Design;Algorithms,Creativity,Web Developer,0.8798
+CS1816,Diya Kumar,28,B.Sc Computer Science,Risk Management;Testing;Leadership;Research,Security;Research,Cybersecurity Analyst,0.8827
+CS1817,Neha Iyer,26,B.Tech IT,JavaScript;Programming;CSS;Problem Solving;Critical Thinking,Technology;Creativity,Web Developer,0.8041
+CS1818,Anaya Roy,29,MCA,Cybersecurity;Networking;Database Management;Python;Teamwork;Problem Solving,Technology;Networking,Network Engineer,0.7897
+CS1819,Karan Iyer,24,B.Sc Computer Science,,Technology,DevOps Engineer,0.8098
+CS1820,Rohan Patel,21,BCA,Programming;Java,Technology,Software Developer,0.7723
+CS1821,Aarav Das,25,B.Sc Computer Science,Python;Machine Learning,Data Analytics;Technology,Data Scientist,0.8352
+CS1822,Priya Kumar,29,B.Tech CSE,Testing;Cybersecurity;Risk Management;Statistics,Security;Research,Cybersecurity Analyst,0.9192
+CS1823,Arjun Iyer,29,MCA,Cybersecurity;Testing;Critical Thinking;Problem Solving,Networking,UI/UX Designer,0.8716
+CS1824,Aditi Reddy,26,B.Sc Computer Science,Networking;Linux;Research;Problem Solving,Technology;Cloud Computing,Cloud Engineer,0.7594
+CS1825,Priya Gupta,25,MCA,Python;Machine Learning;Statistics,Research,AI Engineer,0.8046
+CS1826,Arjun Iyer,25,BCA,Risk Management;Cybersecurity,Security,Cybersecurity Analyst,0.9074
+CS1827,Neha Reddy,22,B.Tech IT,Debugging;Software Development,Technology;Programming,Software Developer,0.9397
+CS1828,Neha Patel,26,BCA,Creativity;Design;Presentation;Graphic Design;Cybersecurity,Creativity,Cybersecurity Analyst,0.8065
+CS1829,Aditi Patel,23,B.Tech CSE,Database Management;CSS,Networking,Network Engineer,0.951
+CS1830,Aryan Sharma,25,B.Tech IT,Design;Presentation;Graphic Design;Creativity;Research,Design;Creativity,UI/UX Designer,0.7251
+CS1831,Vihaan Singh,22,B.Sc Computer Science,Cybersecurity;Risk Management;Testing;Statistics;Problem Solving,Research;Security,Cybersecurity Analyst,0.7292
+CS1832,Diya Iyer,29,MCA,Statistics;SQL;Project Management,Technology;Research,Data Scientist,0.9498
+CS1833,Sneha Singh,20,B.Tech IT,Testing;Cybersecurity;Linux;Risk Management;Leadership;Communication,Research;Security,Cybersecurity Analyst,0.6933
+CS1834,Anaya Reddy,25,B.Tech IT,,Technology,Software Developer,0.8013
+CS1835,Karan Kumar,27,B.Tech CSE,Python;Networking;Leadership,Technology;Cloud Computing,Cloud Engineer,0.7769
+CS1836,Diya Sharma,27,MCA,Database Management;Networking,Cloud Computing;Technology,Cloud Engineer,0.856
+CS1837,Aryan Kumar,29,B.Sc Computer Science,Algorithms;Machine Learning;Statistics;Python,Research;Artificial Intelligence,AI Engineer,0.6865
+CS1838,Priya Sharma,20,BCA,React;JavaScript;Problem Solving;Teamwork,Technology,Web Developer,0.7579
+CS1839,Aarav Roy,27,B.Tech CSE,SQL;Statistics;Research,Data Analytics;Technology,Data Scientist,0.7302
+CS1840,Rohan Iyer,28,BCA,Creativity;Graphic Design;Presentation;Testing,Creativity;Design,UI/UX Designer,0.7702
+CS1841,Pooja Singh,23,MCA,,Creativity;Design,UI/UX Designer,0.8406
+CS1842,Arjun Nair,22,MCA,Cybersecurity;Linux;Leadership;Communication,Technology;Networking,Network Engineer,0.7015
+CS1843,Priya Iyer,22,BCA,Database Management;Networking;Presentation,Cloud Computing;Technology,Cloud Engineer,0.7461
+CS1844,Neha Gupta,25,B.Sc Computer Science,Cybersecurity;Database Management;Linux;Networking;HTML;Research;Communication,Technology,Network Engineer,0.6889
+CS1845,Sneha Das,24,B.Sc Computer Science,CSS;JavaScript;Communication,Technology,Web Developer,0.9207
+CS1846,Aarav Nair,25,B.Tech IT,Cybersecurity;Risk Management;Testing;Machine Learning,Research,Cybersecurity Analyst,0.8755
+CS1847,Rohan Sharma,21,B.Tech CSE,Database Management;Python;Networking;Debugging,Technology;Cloud Computing,Cloud Engineer,0.7238
+CS1848,Rahul Kumar,29,BCA,HTML;React;Cybersecurity,Creativity,Web Developer,0.7217
+CS1849,Arjun Gupta,27,B.Tech IT,Design;Creativity;Presentation;Communication,Creativity;Design,UI/UX Designer,0.8089
+CS1850,Neha Singh,22,MCA,,Artificial Intelligence,AI Engineer,0.818
+CS1851,Karan Singh,23,B.Tech IT,Power BI;Machine Learning,Data Analytics,Data Scientist,0.9183
+CS1852,Ishita Das,27,MCA,Statistics;Algorithms;Machine Learning;Python,Research;Artificial Intelligence,AI Engineer,0.689
+CS1853,Pooja Reddy,23,MCA,Networking;Python;Linux;Database Management;SQL,Technology;Cloud Computing,Cloud Engineer,0.6911
+CS1854,Aryan Roy,29,B.Tech CSE,Python;Power BI;Machine Learning,Technology,Data Scientist,0.8897
+CS1855,Rahul Singh,27,B.Tech CSE,Networking;Database Management;Python,Cloud Computing;Technology,Software Developer,0.6962
+CS1856,Neha Roy,28,B.Sc Computer Science,JavaScript;CSS,Technology;Creativity,Web Developer,0.9011
+CS1857,Karan Kumar,27,B.Sc Computer Science,CSS;HTML;Communication,Technology;Creativity,Web Developer,0.779
+CS1858,Diya Patel,28,B.Sc Computer Science,Programming;JavaScript;HTML;Research,Technology;Creativity,Web Developer,0.7283
+CS1859,Aryan Iyer,21,B.Tech IT,Graphic Design;Design;Creativity,Design;Creativity,UI/UX Designer,0.864
+CS1860,Diya Reddy,21,B.Tech IT,Python;Networking;Database Management;Linux;Critical Thinking,Technology;Cloud Computing,Cloud Engineer,0.6825
+CS1861,Aarav Das,20,BCA,Programming;HTML;JavaScript;React;Communication;Critical Thinking,Technology;Creativity,Web Developer,0.8011
+CS1862,Neha Gupta,22,B.Tech CSE,Cybersecurity;Linux;Networking;Database Management;Critical Thinking,Networking;Technology,Network Engineer,0.6853
+CS1863,Vihaan Singh,20,BCA,Networking;Database Management;Cybersecurity,Technology,Network Engineer,0.8528
+CS1864,Sneha Sharma,27,BCA,Cybersecurity;Risk Management;Testing;Communication;Leadership,Security,Data Scientist,0.7076
+CS1865,Rohan Patel,28,B.Tech IT,Java;Programming;Software Development;Debugging,Programming,Software Developer,0.8929
+CS1866,Arjun Singh,28,BCA,Software Development;Programming,Programming;Technology,Software Developer,0.8554
+CS1867,Aarav Das,26,B.Sc Computer Science,Algorithms;Statistics;Problem Solving;Critical Thinking,Research,AI Engineer,0.8606
+CS1868,Rahul Nair,22,B.Tech IT,Graphic Design;Presentation;Design;Creativity;Problem Solving,Design,UI/UX Designer,0.8921
+CS1869,Rahul Kumar,24,MCA,Cybersecurity;Risk Management;HTML;Problem Solving;Research,Research,Cybersecurity Analyst,0.7999
+CS1870,Karan Roy,23,MCA,Creativity;Design;Presentation;Graphic Design;Testing;Research;Communication,Creativity;Design,Data Scientist,0.8953
+CS1871,Anaya Roy,27,MCA,CSS;JavaScript;Programming;Statistics,Creativity;Technology,Web Developer,0.808
+CS1872,Anaya Das,24,B.Sc Computer Science,Testing;Cybersecurity;Teamwork,Security,AI Engineer,0.8284
+CS1873,Aarav Gupta,28,MCA,Testing;Cybersecurity;Risk Management;Linux;Statistics,Research,Cybersecurity Analyst,0.6816
+CS1874,Priya Gupta,20,BCA,Algorithms;Python;Testing;Critical Thinking;Problem Solving,Artificial Intelligence;Research,AI Engineer,0.7362
+CS1875,Sneha Nair,28,B.Tech CSE,,Artificial Intelligence,AI Engineer,0.6945
+CS1876,Aditi Singh,21,BCA,,Technology;Creativity,Web Developer,0.9395
+CS1877,Arjun Gupta,21,B.Tech CSE,Design;Presentation;Creativity;Graphic Design;Machine Learning,Creativity,UI/UX Designer,0.7356
+CS1878,Rahul Roy,23,B.Tech IT,Python;Testing;Project Management;Research;Critical Thinking,Automation,DevOps Engineer,0.8505
+CS1879,Aryan Roy,26,B.Tech IT,Networking;Cybersecurity;Communication;Research,Technology,UI/UX Designer,0.7923
+CS1880,Priya Patel,24,B.Sc Computer Science,React;Programming;Java;Communication;Teamwork,Technology,Web Developer,0.7088
+CS1881,Aryan Kumar,27,B.Tech CSE,Testing;Python;Linux;Project Management;Leadership;Teamwork,Automation,DevOps Engineer,0.7707
+CS1882,Pooja Iyer,28,B.Tech CSE,CSS;HTML;React;JavaScript;Communication,Technology,Web Developer,0.6869
+CS1883,Vihaan Nair,28,B.Tech CSE,Design;Creativity;Presentation;Graphic Design;Problem Solving;Teamwork,Design,UI/UX Designer,0.8648
+CS1884,Aryan Iyer,21,B.Tech CSE,Machine Learning;Statistics;Algorithms;Communication,Artificial Intelligence,Network Engineer,0.8965
+CS1885,Rohan Iyer,29,B.Sc Computer Science,Design;Creativity;Graphic Design;Power BI;Leadership;Research,Creativity;Design,UI/UX Designer,0.8389
+CS1886,Neha Singh,26,BCA,Python;Database Management;Cybersecurity;Communication;Critical Thinking,Cloud Computing,Cloud Engineer,0.6845
+CS1887,Diya Sharma,25,BCA,Statistics;Algorithms;Research;Critical Thinking,Artificial Intelligence;Research,AI Engineer,0.9696
+CS1888,Pooja Kumar,22,B.Tech IT,Database Management;Cybersecurity;Networking;Problem Solving,Networking;Technology,Network Engineer,0.9068
+CS1889,Pooja Patel,28,MCA,JavaScript;HTML,Technology,Web Developer,0.8945
+CS1890,Rahul Roy,22,B.Sc Computer Science,Networking;Python;Research,Cloud Computing,Cloud Engineer,0.8041
+CS1891,Neha Nair,22,BCA,Risk Management;Cybersecurity;Testing;Networking;Problem Solving;Communication,Security;Research,Cybersecurity Analyst,0.9158
+CS1892,Anaya Sharma,21,MCA,Python;Algorithms;Machine Learning,Research,AI Engineer,0.9275
+CS1893,Karan Kumar,28,B.Tech IT,Debugging;Programming;C++,Programming,Software Developer,0.7939
+CS1894,Aryan Gupta,23,B.Sc Computer Science,Testing;Cybersecurity;Teamwork;Communication,Security;Research,Cybersecurity Analyst,0.7422
+CS1895,Sneha Das,28,B.Tech CSE,Risk Management;Testing;Cybersecurity,Security,Cybersecurity Analyst,0.8128
+CS1896,Anaya Das,21,B.Sc Computer Science,Design;Graphic Design;Research,Design,UI/UX Designer,0.9284
+CS1897,Aryan Sharma,29,B.Tech CSE,Testing;Python;Critical Thinking;Teamwork,Automation,DevOps Engineer,0.6868
+CS1898,Ishita Das,26,B.Tech CSE,Python;Statistics;Algorithms;Problem Solving,Research;Artificial Intelligence,AI Engineer,0.7629
+CS1899,Sneha Gupta,20,B.Sc Computer Science,Graphic Design;Presentation;Creativity;Python;Communication,Design;Creativity,UI/UX Designer,0.7965
+CS1900,Arjun Das,21,BCA,Linux;Networking;Cybersecurity,Technology,Network Engineer,0.7762
+CS1901,Sneha Nair,26,MCA,,Technology;Data Analytics,Data Scientist,0.7807
+CS1902,Arjun Iyer,21,B.Tech CSE,Power BI;Python;Data Analysis;Machine Learning;HTML,Technology,Data Scientist,0.7842
+CS1903,Aarav Nair,28,B.Sc Computer Science,Debugging;Java,Programming,Software Developer,0.7753
+CS1904,Aarav Kumar,27,B.Tech IT,Networking;Linux;Cybersecurity;Critical Thinking,Networking;Technology,Cybersecurity Analyst,0.942
+CS1905,Diya Iyer,29,B.Tech CSE,,Research;Artificial Intelligence,AI Engineer,0.6896
+CS1906,Aryan Iyer,27,B.Tech CSE,Linux;Cybersecurity;Testing;Research,Research;Security,Cybersecurity Analyst,0.8729
+CS1907,Aryan Kumar,24,B.Sc Computer Science,Python;Testing;Project Management,Technology,DevOps Engineer,0.7701
+CS1908,Karan Reddy,22,MCA,Creativity;Design;Risk Management,Creativity;Design,UI/UX Designer,0.8765
+CS1909,Aditi Gupta,23,B.Sc Computer Science,React;HTML;JavaScript,Technology,Web Developer,0.8734
+CS1910,Pooja Patel,26,B.Sc Computer Science,Networking;Linux;Database Management;Cybersecurity,Networking,Network Engineer,0.841
+CS1911,Vihaan Patel,23,B.Sc Computer Science,Machine Learning;Algorithms;Statistics;Python;Leadership;Research,Artificial Intelligence,AI Engineer,0.9071
+CS1912,Rohan Reddy,23,B.Tech CSE,Statistics;Python;Machine Learning;Algorithms;Problem Solving,Research;Artificial Intelligence,AI Engineer,0.9248
+CS1913,Diya Sharma,20,B.Tech CSE,Data Analysis;Statistics;Power BI;SQL;HTML,Data Analytics,UI/UX Designer,0.9204
+CS1914,Rahul Nair,22,B.Tech CSE,Java;Programming;Software Development;C++;Communication;Research,Programming,Software Developer,0.9625
+CS1915,Rohan Iyer,22,BCA,,Artificial Intelligence;Research,AI Engineer,0.8032
+CS1916,Neha Das,23,B.Tech IT,Python;Statistics;Data Analysis;SQL,Research,DevOps Engineer,0.877
+CS1917,Aarav Singh,22,B.Tech CSE,Creativity;Design;Graphic Design;Problem Solving,Design;Creativity,UI/UX Designer,0.7033
+CS1918,Diya Nair,21,B.Tech IT,CSS;HTML;Programming;React;Networking,Technology;Creativity,Web Developer,0.8514
+CS1919,Pooja Das,26,BCA,Design;Graphic Design;Creativity;Critical Thinking,Creativity,UI/UX Designer,0.6851
+CS1920,Aditi Reddy,29,B.Sc Computer Science,Linux;Testing;Python;Problem Solving,Security;Research,Network Engineer,0.8686
+CS1921,Pooja Singh,28,B.Tech IT,Linux;Database Management,Networking;Technology,Network Engineer,0.7974
+CS1922,Arjun Reddy,23,MCA,CSS;JavaScript;Programming;HTML;Teamwork;Communication,Creativity;Technology,Web Developer,0.883
+CS1923,Rahul Patel,21,MCA,Python;Communication,Automation,DevOps Engineer,0.7834
+CS1924,Rohan Das,29,B.Tech IT,Statistics;Algorithms,Artificial Intelligence;Research,AI Engineer,0.8998
+CS1925,Anaya Singh,28,MCA,Algorithms;Machine Learning;Python;Statistics;Cybersecurity,Research,AI Engineer,0.9584
+CS1926,Aarav Reddy,21,BCA,Risk Management;Testing;Cybersecurity;Teamwork,Research;Security,Cybersecurity Analyst,0.8976
+CS1927,Vihaan Reddy,27,B.Sc Computer Science,Database Management;Linux;Communication,Networking;Technology,Network Engineer,0.9607
+CS1928,Sneha Sharma,28,BCA,Project Management;Testing;Linux;Critical Thinking;Research,Automation,DevOps Engineer,0.8527
+CS1929,Aarav Das,22,BCA,Project Management;Testing;Graphic Design;Communication;Leadership,Technology;Automation,DevOps Engineer,0.852
+CS1930,Karan Iyer,24,MCA,Testing;Python;Database Management;Problem Solving;Teamwork,Automation;Technology,DevOps Engineer,0.7163
+CS1931,Rohan Nair,29,B.Tech IT,Design;Creativity;Problem Solving;Critical Thinking,Design;Creativity,UI/UX Designer,0.9637
+CS1932,Arjun Kumar,25,B.Tech CSE,Graphic Design;Design;Presentation,Creativity;Design,Cloud Engineer,0.8323
+CS1933,Rohan Sharma,23,B.Sc Computer Science,Statistics;Machine Learning;Python;Cybersecurity,Artificial Intelligence,AI Engineer,0.8481
+CS1934,Priya Patel,25,B.Sc Computer Science,Machine Learning;Algorithms;Python;Statistics;Communication;Leadership,Research,AI Engineer,0.744
+CS1935,Vihaan Sharma,25,B.Tech IT,,Design;Creativity,UI/UX Designer,0.9026
+CS1936,Karan Kumar,28,BCA,Linux;Database Management;Networking,Cloud Computing;Technology,Cloud Engineer,0.7466
+CS1937,Arjun Reddy,28,MCA,C++;Programming,Programming;Technology,Software Developer,0.8504
+CS1938,Neha Patel,28,B.Tech IT,Linux;Cybersecurity;Testing;Critical Thinking;Leadership,Research;Security,Cybersecurity Analyst,0.917
+CS1939,Aditi Das,25,BCA,Cybersecurity;Testing;Linux;Risk Management;Python;Leadership;Problem Solving,Security,Cybersecurity Analyst,0.7207
+CS1940,Karan Kumar,29,MCA,HTML;JavaScript;Teamwork,Technology,Web Developer,0.7587
+CS1941,Arjun Patel,20,B.Tech IT,Software Development;Debugging;Java;C++,Technology;Programming,Software Developer,0.7644
+CS1942,Priya Iyer,22,B.Tech CSE,Machine Learning;Algorithms;Statistics;Python;Problem Solving,Artificial Intelligence,AI Engineer,0.7008
+CS1943,Arjun Kumar,21,MCA,Cybersecurity;Testing;Linux;Risk Management;Leadership;Research,Research;Security,Cybersecurity Analyst,0.8998
+CS1944,Karan Reddy,26,B.Sc Computer Science,Cybersecurity;Linux;Critical Thinking;Leadership,Technology;Networking,Network Engineer,0.8608
+CS1945,Sneha Singh,29,B.Sc Computer Science,Design;Creativity;Presentation;Graphic Design,Design,UI/UX Designer,0.7442
+CS1946,Karan Patel,23,B.Tech IT,Cybersecurity;Networking;Testing,Networking;Technology,Network Engineer,0.7484
+CS1947,Anaya Reddy,23,B.Tech IT,Statistics;Algorithms;Python;Machine Learning,Research,AI Engineer,0.8125
+CS1948,Pooja Iyer,27,B.Tech CSE,C++;Java;Programming,Programming;Technology,Software Developer,0.861
+CS1949,Diya Patel,29,B.Sc Computer Science,Linux;Database Management;Networking;Cybersecurity;Testing,Technology,Network Engineer,0.9361
+CS1950,Neha Kumar,27,B.Sc Computer Science,Python;Linux;CSS,Automation,DevOps Engineer,0.9442
+CS1951,Neha Singh,26,B.Tech CSE,Python;Networking;Database Management;Teamwork,Cloud Computing,Cloud Engineer,0.7559
+CS1952,Rohan Iyer,25,B.Tech CSE,Algorithms;Python,Artificial Intelligence,AI Engineer,0.8699
+CS1953,Vihaan Singh,29,MCA,CSS;React;Programming,Technology,Web Developer,0.9654
+CS1954,Sneha Nair,27,B.Tech IT,HTML;CSS;React;Programming,Technology,Web Developer,0.9454
+CS1955,Anaya Kumar,27,B.Tech IT,Data Analysis;Python;Communication,Research,Data Scientist,0.7791
+CS1956,Vihaan Das,24,B.Tech CSE,Creativity;Design;Presentation;Graphic Design;Teamwork,Design;Creativity,UI/UX Designer,0.7595
+CS1957,Anaya Gupta,25,MCA,Project Management;Testing;Python;Problem Solving;Teamwork,Automation;Technology,DevOps Engineer,0.8457
+CS1958,Diya Kumar,25,B.Sc Computer Science,HTML;CSS;JavaScript;React,Technology;Creativity,Web Developer,0.8007
+CS1959,Arjun Das,25,B.Sc Computer Science,Statistics;Python;Algorithms;Teamwork,Artificial Intelligence,AI Engineer,0.9458
+CS1960,Neha Kumar,21,BCA,Cybersecurity;Database Management;Design;Research,Networking,Network Engineer,0.7176
+CS1961,Neha Iyer,21,BCA,Machine Learning;Statistics;Python;Cybersecurity;Communication,Research;Artificial Intelligence,AI Engineer,0.9442
+CS1962,Arjun Sharma,21,B.Tech CSE,Database Management;Networking;Python;Linux,Cloud Computing,Cloud Engineer,0.7488
+CS1963,Vihaan Reddy,22,MCA,Linux;Testing;Design,Automation;Technology,DevOps Engineer,0.7583
+CS1964,Sneha Das,23,B.Tech CSE,Linux;Testing;Algorithms;Teamwork,Automation;Technology,DevOps Engineer,0.6945
+CS1965,Ishita Nair,22,BCA,Networking;Python;Linux;Database Management;Research;Leadership,Cloud Computing;Technology,Cloud Engineer,0.6876
+CS1966,Aryan Reddy,24,MCA,Testing;Python;Project Management;Linux;Communication,Automation;Technology,DevOps Engineer,0.733
+CS1967,Arjun Das,24,BCA,C++;Java;Software Development;Teamwork,Programming,Cybersecurity Analyst,0.8026
+CS1968,Vihaan Iyer,24,B.Sc Computer Science,,Technology;Data Analytics,Data Scientist,0.9513
+CS1969,Priya Reddy,29,MCA,SQL;Python;Machine Learning;Critical Thinking,Research;Technology,Data Scientist,0.8709
+CS1970,Priya Patel,25,MCA,React;JavaScript;HTML;Problem Solving,Technology;Creativity,Web Developer,0.7571
+CS1971,Rohan Sharma,23,MCA,Cybersecurity;Database Management;Communication;Teamwork,Technology;Networking,Network Engineer,0.9595
+CS1972,Aryan Iyer,29,B.Sc Computer Science,Statistics;Data Analysis;SQL;Python;CSS,Data Analytics;Technology,Data Scientist,0.8806
+CS1973,Aditi Roy,24,B.Sc Computer Science,Project Management;Linux;Testing;Python,Automation;Technology,DevOps Engineer,0.9462
+CS1974,Aditi Sharma,28,B.Tech IT,Networking,Networking,Network Engineer,0.7906
+CS1975,Aryan Das,22,B.Sc Computer Science,Machine Learning;Data Analysis;Testing;Problem Solving,Technology;Data Analytics,Data Scientist,0.8026
+CS1976,Vihaan Roy,21,B.Sc Computer Science,Database Management;Networking;Python,Cloud Computing;Technology,AI Engineer,0.7491
+CS1977,Rahul Nair,22,BCA,Programming;Debugging;Creativity;Leadership,Programming;Technology,Software Developer,0.9297
+CS1978,Vihaan Reddy,20,B.Tech IT,Statistics;Machine Learning;Power BI;SQL,Data Analytics;Research,Data Scientist,0.7716
+CS1979,Aryan Singh,24,B.Sc Computer Science,Python;Project Management;Machine Learning,Automation,DevOps Engineer,0.8535
+CS1980,Vihaan Singh,21,B.Sc Computer Science,Software Development;C++;Programming;Java;Research;Teamwork,Programming;Technology,Web Developer,0.7052
+CS1981,Karan Das,26,BCA,Creativity;Design;Presentation;Testing,Design;Creativity,Cybersecurity Analyst,0.7678
+CS1982,Neha Sharma,29,MCA,Machine Learning;Power BI;Communication;Critical Thinking,Technology;Data Analytics,Data Scientist,0.8781
+CS1983,Karan Sharma,28,B.Sc Computer Science,,Technology,Software Developer,0.8543
+CS1984,Karan Nair,29,B.Sc Computer Science,Statistics;Data Analysis;SQL;Database Management;Problem Solving,Research,Data Scientist,0.9515
+CS1985,Rahul Patel,20,MCA,Presentation;Graphic Design;Creativity;Design;Teamwork;Communication,Creativity;Design,Network Engineer,0.8921
+CS1986,Anaya Patel,21,B.Sc Computer Science,Algorithms;Statistics;HTML;Teamwork;Communication,Artificial Intelligence;Research,AI Engineer,0.8009
+CS1987,Rohan Sharma,24,MCA,Risk Management;Testing;Cybersecurity;Critical Thinking,Security;Research,Cybersecurity Analyst,0.8521
+CS1988,Sneha Gupta,28,B.Tech CSE,,Technology;Programming,Software Developer,0.8217
+CS1989,Aryan Nair,26,B.Tech IT,,Cloud Computing,Cloud Engineer,0.7916
+CS1990,Rohan Patel,21,B.Tech IT,Cybersecurity;Database Management;Linux,Technology,Network Engineer,0.8774
+CS1991,Anaya Das,21,BCA,Database Management;Cybersecurity;Leadership;Research,Technology;Networking,Web Developer,0.7259
+CS1992,Rohan Singh,21,B.Tech IT,,Technology;Automation,DevOps Engineer,0.9726
+CS1993,Aarav Singh,28,BCA,Python;Machine Learning;Statistics;Database Management,Artificial Intelligence;Research,AI Engineer,0.9526
+CS1994,Rohan Roy,22,B.Tech CSE,Presentation;Creativity;Design;Graphic Design;Critical Thinking;Communication,Design;Creativity,UI/UX Designer,0.9455
+CS1995,Neha Gupta,24,MCA,Python;Testing;Project Management,Automation,DevOps Engineer,0.7973
+CS1996,Arjun Singh,23,BCA,Machine Learning;Python;Statistics;Algorithms;Creativity,Research;Artificial Intelligence,AI Engineer,0.9377
+CS1997,Pooja Das,29,MCA,Networking;Cybersecurity;Teamwork;Problem Solving,Networking;Technology,Network Engineer,0.7029
+CS1998,Pooja Singh,24,B.Tech CSE,Graphic Design;Creativity;Critical Thinking;Problem Solving,Creativity,UI/UX Designer,0.7524
+CS1999,Diya Roy,24,MCA,Power BI;Python;Data Analysis;Machine Learning;Critical Thinking;Communication,Data Analytics;Research,Data Scientist,0.9522
+CS2000,Aryan Gupta,23,B.Sc Computer Science,SQL;Data Analysis;Machine Learning;Statistics;Testing,Technology,Data Scientist,0.8995
+CS2001,Sneha Iyer,22,MCA,Programming;React;Critical Thinking;Research,Technology;Creativity,Web Developer,0.974
+CS2002,Pooja Kumar,23,B.Sc Computer Science,React;CSS;Programming;Teamwork,Creativity;Technology,Web Developer,0.9447
+CS2003,Aditi Iyer,23,B.Tech IT,Networking;Teamwork,Cloud Computing;Technology,Cloud Engineer,0.7339
+CS2004,Arjun Nair,21,B.Tech CSE,Linux;Testing;Project Management;Python;Problem Solving,Automation,DevOps Engineer,0.7877
+CS2005,Neha Gupta,23,B.Tech CSE,Power BI;Data Analysis;Statistics;Machine Learning;Leadership,Data Analytics;Research,UI/UX Designer,0.9436
+CS2006,Ishita Gupta,21,B.Tech CSE,Project Management;Python,Automation,DevOps Engineer,0.7962
+CS2007,Diya Iyer,26,MCA,Power BI;Python,Research,Data Scientist,0.7551
+CS2008,Neha Das,21,B.Tech IT,HTML;Programming;CSS,Technology;Creativity,Software Developer,0.9504
+CS2009,Arjun Nair,28,B.Tech IT,,Research,Cybersecurity Analyst,0.9039
+CS2010,Rahul Reddy,29,B.Tech CSE,Testing;Risk Management;Cybersecurity;Critical Thinking,Security;Research,Cybersecurity Analyst,0.8835
+CS2011,Rohan Nair,25,MCA,Statistics;Algorithms;Critical Thinking,Artificial Intelligence;Research,AI Engineer,0.9508
+CS2012,Karan Gupta,21,MCA,Python;Project Management;Testing;Critical Thinking,Automation,DevOps Engineer,0.782
+CS2013,Rahul Kumar,22,BCA,Database Management;Python;Research;Critical Thinking,Cloud Computing,Cloud Engineer,0.9147
+CS2014,Diya Roy,22,B.Tech CSE,Programming;React;HTML;CSS;Creativity,Creativity,Cybersecurity Analyst,0.8922
+CS2015,Pooja Sharma,29,B.Tech CSE,,Automation,DevOps Engineer,0.7872
+CS2016,Rohan Kumar,22,B.Sc Computer Science,Power BI;Statistics;Debugging;Research,Research,Data Scientist,0.8162
+CS2017,Priya Das,22,MCA,Statistics;Python;Algorithms;Machine Learning,Artificial Intelligence,AI Engineer,0.886
+CS2018,Vihaan Das,25,B.Tech IT,Programming;JavaScript;HTML;Critical Thinking;Communication,Technology;Creativity,Web Developer,0.9385
+CS2019,Ishita Gupta,20,B.Tech CSE,Java;Programming,Programming,Software Developer,0.9053
+CS2020,Rohan Iyer,24,BCA,Linux;Database Management;Networking;Problem Solving;Teamwork,Technology;Cloud Computing,Cloud Engineer,0.7984
+CS2021,Diya Kumar,29,MCA,Python;Database Management;Critical Thinking;Communication,Cloud Computing,Cloud Engineer,0.6879
+CS2022,Neha Kumar,26,B.Tech CSE,Creativity;Design;Presentation;Graphic Design;Debugging;Leadership,Creativity,UI/UX Designer,0.7998
+CS2023,Priya Nair,24,MCA,C++;Software Development;Programming,Technology,Software Developer,0.7696
+CS2024,Ishita Patel,20,B.Sc Computer Science,Networking;Cybersecurity;Database Management;Teamwork;Communication,Networking;Technology,Software Developer,0.7327
+CS2025,Sneha Kumar,26,B.Tech CSE,Machine Learning;Power BI;Python;Statistics,Data Analytics,Web Developer,0.9708
+CS2026,Priya Gupta,24,B.Tech CSE,Machine Learning;Power BI;Communication;Problem Solving,Research,Data Scientist,0.7943
+CS2027,Aryan Sharma,21,BCA,Networking;Cybersecurity;Testing,Technology;Networking,Network Engineer,0.8031
+CS2028,Pooja Reddy,21,MCA,CSS;Programming;React,Creativity;Technology,Cybersecurity Analyst,0.6921
+CS2029,Aarav Sharma,26,BCA,Presentation;Graphic Design,Design;Creativity,UI/UX Designer,0.918
+CS2030,Ishita Das,23,BCA,Design;Presentation;Graphic Design;C++,Design;Creativity,DevOps Engineer,0.7698
+CS2031,Ishita Sharma,20,MCA,Cybersecurity;Networking;Database Management;Leadership,Technology,Network Engineer,0.8233
+CS2032,Rahul Singh,29,BCA,Java;Software Development;Programming;C++;Teamwork,Technology;Programming,Software Developer,0.9561
+CS2033,Vihaan Reddy,23,MCA,Risk Management;Cybersecurity;Testing;Leadership,Security,Cybersecurity Analyst,0.9156
+CS2034,Pooja Das,21,B.Tech CSE,Machine Learning;Algorithms;Python;Testing;Teamwork,Artificial Intelligence,AI Engineer,0.7744
+CS2035,Aarav Roy,25,MCA,Python;Statistics;Power BI;SQL;Database Management;Communication,Research;Data Analytics,Data Scientist,0.8607
+CS2036,Aryan Sharma,22,MCA,Algorithms;Machine Learning;Python;Statistics;Database Management;Problem Solving,Research,AI Engineer,0.9389
+CS2037,Priya Kumar,20,B.Tech IT,Machine Learning;Python;Algorithms;Teamwork,Research,AI Engineer,0.9237
+CS2038,Priya Kumar,25,BCA,Creativity;Design;Graphic Design;Programming;Teamwork;Communication,Creativity,Web Developer,0.8286
+CS2039,Aditi Singh,27,B.Sc Computer Science,Testing;Python;Project Management;Research,Automation,DevOps Engineer,0.9017
+CS2040,Anaya Reddy,22,B.Tech CSE,Presentation;Graphic Design;Problem Solving;Critical Thinking,Design;Creativity,UI/UX Designer,0.7185
+CS2041,Sneha Roy,23,B.Tech IT,Data Analysis;SQL;Problem Solving,Data Analytics,Data Scientist,0.7584
+CS2042,Aarav Roy,22,B.Tech IT,Linux;Project Management;Python;Testing,Automation,DevOps Engineer,0.8566
+CS2043,Aditi Patel,28,B.Tech CSE,Database Management;Linux,Technology,Network Engineer,0.7406
+CS2044,Aditi Iyer,21,B.Sc Computer Science,Java;Debugging;C++;Leadership,Technology,Software Developer,0.7796
+CS2045,Anaya Das,27,BCA,Python;Linux,Technology,DevOps Engineer,0.9167
+CS2046,Priya Das,26,MCA,Java;C++;Programming;Software Development;Machine Learning;Communication;Critical Thinking,Programming,Software Developer,0.9118
+CS2047,Aditi Patel,21,B.Sc Computer Science,Python;Machine Learning;Statistics;Data Analysis,Research;Data Analytics,Data Scientist,0.8772
+CS2048,Priya Singh,29,MCA,Testing;Python;Leadership;Communication,Technology;Automation,DevOps Engineer,0.8601
+CS2049,Neha Patel,24,B.Tech IT,Statistics;Algorithms;Problem Solving,Artificial Intelligence;Research,AI Engineer,0.7077
+CS2050,Rahul Iyer,21,B.Sc Computer Science,C++;Programming;Debugging;Software Development;Networking,Technology,Software Developer,0.8548
+CS2051,Priya Patel,24,MCA,C++;Programming,Technology;Programming,Software Developer,0.7753
+CS2052,Karan Reddy,26,B.Tech CSE,,Technology,AI Engineer,0.9271
+CS2053,Priya Nair,25,B.Sc Computer Science,Statistics;Machine Learning;Algorithms;Python;Research;Leadership,Research;Artificial Intelligence,AI Engineer,0.7752
+CS2054,Anaya Sharma,29,BCA,Python;Networking;Database Management;Leadership,Technology,Cloud Engineer,0.6901
+CS2055,Sneha Roy,22,B.Tech IT,Cybersecurity;Linux;Testing;Risk Management;Critical Thinking;Research,Security;Research,Cybersecurity Analyst,0.7545
+CS2056,Arjun Das,24,BCA,Python;Machine Learning;Algorithms;Statistics;Cybersecurity,Artificial Intelligence,AI Engineer,0.7288
+CS2057,Vihaan Reddy,28,BCA,Cybersecurity;Problem Solving;Communication,Security,Cybersecurity Analyst,0.8835
+CS2058,Neha Patel,26,B.Sc Computer Science,Networking;Database Management;Critical Thinking,Technology,Network Engineer,0.9624
+CS2059,Pooja Patel,23,MCA,Database Management;Python;Networking,Technology,Cloud Engineer,0.9252
+CS2060,Aarav Gupta,22,MCA,Networking;Database Management;Python;Problem Solving,Technology,Cloud Engineer,0.8694
+CS2061,Rohan Das,24,B.Tech IT,,Technology,DevOps Engineer,0.7322
+CS2062,Rahul Das,27,B.Tech IT,Machine Learning;Python;Algorithms,Artificial Intelligence,AI Engineer,0.8322
+CS2063,Rahul Reddy,23,BCA,Python;SQL;Critical Thinking,Technology,Network Engineer,0.8469
+CS2064,Rohan Sharma,24,BCA,Cybersecurity;Database Management;Networking;Teamwork,Technology;Networking,Network Engineer,0.8536
+CS2065,Sneha Das,28,B.Tech IT,Networking;Python;Linux;Database Management;Java;Research,Technology,Network Engineer,0.7915
+CS2066,Sneha Nair,24,B.Sc Computer Science,Design;Presentation;Graphic Design;Leadership,Design,UI/UX Designer,0.9636
+CS2067,Anaya Kumar,20,B.Tech CSE,Testing;Cybersecurity;Linux;Problem Solving,Security,Cybersecurity Analyst,0.7258
+CS2068,Aarav Nair,22,B.Sc Computer Science,Testing;Cybersecurity,Security,Cybersecurity Analyst,0.7802
+CS2069,Aarav Roy,26,MCA,Statistics;Algorithms;Networking,Artificial Intelligence;Research,AI Engineer,0.7142
+CS2070,Arjun Sharma,28,BCA,Cybersecurity;Communication;Critical Thinking,Security,Cybersecurity Analyst,0.7928
+CS2071,Aryan Patel,21,BCA,Software Development;Debugging;Teamwork;Leadership,Technology,Software Developer,0.8398
+CS2072,Ishita Nair,29,B.Tech IT,JavaScript;HTML;React,Creativity;Technology,Web Developer,0.8712
+CS2073,Vihaan Patel,21,B.Tech IT,Algorithms;Machine Learning;Python;SQL;Research,Artificial Intelligence,AI Engineer,0.8736
+CS2074,Sneha Singh,21,B.Sc Computer Science,Risk Management;Python;Research;Communication,Security;Research,Cybersecurity Analyst,0.8238
+CS2075,Aditi Singh,29,BCA,Database Management;Cybersecurity,Networking;Technology,Network Engineer,0.9238
+CS2076,Vihaan Iyer,21,BCA,Design;Graphic Design;Communication,Design;Creativity,UI/UX Designer,0.6894
+CS2077,Sneha Nair,24,BCA,,Data Analytics,Data Scientist,0.9588
+CS2078,Pooja Gupta,20,B.Tech CSE,Project Management;Python;Testing;Communication;Research,Technology;Automation,DevOps Engineer,0.6855
+CS2079,Vihaan Iyer,25,B.Tech IT,Programming;Software Development;Critical Thinking,Technology;Programming,Software Developer,0.8115
+CS2080,Rahul Singh,26,BCA,Programming;C++;Algorithms,Programming;Technology,Software Developer,0.8107
+CS2081,Neha Das,24,B.Sc Computer Science,Graphic Design;Presentation;Software Development;Research;Teamwork,Creativity;Design,UI/UX Designer,0.7739
+CS2082,Rahul Kumar,22,B.Tech IT,Programming;CSS;JavaScript;Statistics;Problem Solving;Critical Thinking,Creativity;Technology,Web Developer,0.8791
+CS2083,Aarav Iyer,27,B.Tech IT,Graphic Design;Presentation,Creativity,Network Engineer,0.7088
+CS2084,Pooja Patel,20,B.Tech IT,SQL;Python;Statistics;Data Analysis;Problem Solving;Leadership,Research;Technology,Data Scientist,0.85
+CS2085,Aarav Sharma,22,BCA,Machine Learning;Power BI,Data Analytics,Data Scientist,0.7409
+CS2086,Pooja Reddy,20,B.Sc Computer Science,HTML;CSS;Leadership;Critical Thinking,Technology;Creativity,Web Developer,0.8637
+CS2087,Aditi Kumar,28,BCA,Software Development;C++;Critical Thinking;Leadership,Technology;Programming,Software Developer,0.703
+CS2088,Rohan Roy,26,B.Tech IT,Machine Learning;SQL;Networking,Data Analytics,Data Scientist,0.8141
+CS2089,Rahul Gupta,22,B.Sc Computer Science,JavaScript;CSS,Technology;Creativity,Web Developer,0.9358
+CS2090,Neha Singh,25,B.Tech CSE,Cybersecurity;Testing;Risk Management,Security;Research,Cybersecurity Analyst,0.9728
+CS2091,Rohan Iyer,23,B.Tech CSE,Cybersecurity;Networking;Algorithms;Research,Technology,Network Engineer,0.8256
+CS2092,Sneha Reddy,21,B.Tech CSE,Database Management,Technology,UI/UX Designer,0.7494
+CS2093,Priya Sharma,21,B.Tech IT,Programming;Java;C++;Critical Thinking;Teamwork,Programming;Technology,Software Developer,0.8674
+CS2094,Rohan Patel,24,B.Tech CSE,Graphic Design;Creativity;Design;Presentation;Machine Learning;Research;Communication,Design,UI/UX Designer,0.7286
+CS2095,Diya Roy,26,B.Tech CSE,Algorithms;Statistics,Artificial Intelligence;Research,AI Engineer,0.8764
+CS2096,Aryan Iyer,25,MCA,Networking;Linux;Cybersecurity;Problem Solving;Research,Technology;Networking,Network Engineer,0.851
+CS2097,Aarav Das,28,MCA,Programming;Software Development;Debugging;Java;Research,Programming,Web Developer,0.6968
+CS2098,Pooja Reddy,24,B.Tech CSE,Python;Testing,Automation,DevOps Engineer,0.6916
+CS2099,Arjun Roy,23,B.Tech IT,Creativity;Presentation;Design;Graphic Design;Teamwork;Communication,Design,UI/UX Designer,0.8154
+CS2100,Pooja Singh,23,B.Tech CSE,Python;Testing;Communication,Technology;Automation,DevOps Engineer,0.8704
+CS2101,Aarav Gupta,29,MCA,Python;Project Management;Linux;Critical Thinking;Teamwork,Automation;Technology,DevOps Engineer,0.9139
+CS2102,Diya Nair,23,BCA,Testing;Linux;Python;Project Management;Critical Thinking;Problem Solving,Automation,DevOps Engineer,0.8541
+CS2103,Aryan Iyer,22,B.Tech CSE,,Networking,Network Engineer,0.6979
+CS2104,Rahul Nair,22,B.Sc Computer Science,Machine Learning;Python;Algorithms;Statistics;Networking;Leadership;Critical Thinking,Artificial Intelligence;Research,AI Engineer,0.9167
+CS2105,Rahul Kumar,20,B.Tech CSE,Cybersecurity;Testing;Risk Management;Python,Security,Cybersecurity Analyst,0.707
+CS2106,Rahul Das,25,B.Sc Computer Science,Linux;Risk Management;Cybersecurity;Testing;Communication,Security,Cybersecurity Analyst,0.7743
+CS2107,Arjun Roy,24,B.Tech IT,Database Management;Cybersecurity;Linux;Communication,Networking,Network Engineer,0.8375
+CS2108,Rahul Nair,24,MCA,Statistics;SQL;Research;Critical Thinking,Technology;Research,Data Scientist,0.9628
+CS2109,Anaya Das,20,BCA,Cybersecurity;Risk Management;Testing;Networking,Security;Research,Network Engineer,0.6772
+CS2110,Anaya Kumar,20,B.Tech CSE,Cybersecurity;Database Management;Networking;Linux;Problem Solving;Research,Technology;Networking,Network Engineer,0.7409
+CS2111,Rohan Kumar,25,B.Tech IT,Presentation;Creativity;Design,Design,UI/UX Designer,0.7374
+CS2112,Rohan Nair,29,B.Tech IT,Python;Testing;Leadership,Automation,DevOps Engineer,0.8378
+CS2113,Pooja Kumar,29,MCA,Statistics;Power BI;Research;Problem Solving,Technology,Data Scientist,0.7353
+CS2114,Karan Roy,21,B.Tech CSE,Presentation;Creativity;Teamwork;Communication,Design;Creativity,UI/UX Designer,0.749
+CS2115,Anaya Sharma,26,MCA,CSS;Programming;Leadership,Technology;Creativity,Web Developer,0.952
+CS2116,Karan Das,24,B.Tech IT,Database Management;Python,Cloud Computing,Cloud Engineer,0.9454
+CS2117,Anaya Sharma,22,MCA,CSS;React;JavaScript;Programming;Leadership,Technology;Creativity,Web Developer,0.8234
+CS2118,Aditi Patel,25,BCA,Debugging;Software Development;Java;Problem Solving,Technology,Software Developer,0.8544
+CS2119,Aryan Iyer,26,MCA,Graphic Design;Presentation;Creativity;Design,Creativity,UI/UX Designer,0.8206
+CS2120,Ishita Iyer,24,MCA,Testing;Risk Management;Critical Thinking,Research;Security,Cybersecurity Analyst,0.7846
+CS2121,Rahul Gupta,23,MCA,Risk Management,Security;Research,Cybersecurity Analyst,0.832
+CS2122,Aditi Sharma,22,MCA,Python;Testing;Project Management,Automation;Technology,DevOps Engineer,0.7118
+CS2123,Aditi Kumar,29,B.Sc Computer Science,Networking;Linux;Cybersecurity;Python,Networking;Technology,Network Engineer,0.6751
+CS2124,Pooja Singh,20,B.Tech IT,Design;Creativity;Graphic Design;Presentation;Critical Thinking,Creativity;Design,UI/UX Designer,0.8011
+CS2125,Arjun Roy,21,B.Sc Computer Science,Linux;Python;Database Management;Algorithms,Cloud Computing;Technology,Cloud Engineer,0.9615
+CS2126,Aarav Das,23,MCA,Testing;Risk Management;Cybersecurity;Teamwork;Communication,Security;Research,Cybersecurity Analyst,0.907
+CS2127,Arjun Kumar,26,BCA,Python;Algorithms;Statistics;Machine Learning;Problem Solving;Critical Thinking,Research,AI Engineer,0.8694
+CS2128,Rohan Patel,21,B.Sc Computer Science,Networking;Database Management;Leadership;Critical Thinking,Technology;Networking,Network Engineer,0.9037
+CS2129,Ishita Singh,29,MCA,SQL;Power BI;Machine Learning;Leadership;Research,Technology;Research,Data Scientist,0.7683
+CS2130,Aditi Iyer,20,B.Tech CSE,Python;Algorithms;Communication;Problem Solving,Artificial Intelligence;Research,AI Engineer,0.9165
+CS2131,Rohan Nair,24,B.Sc Computer Science,,Design;Creativity,UI/UX Designer,0.8081
+CS2132,Vihaan Nair,21,B.Sc Computer Science,Python;Testing;Project Management;Linux;Problem Solving;Teamwork,Automation;Technology,DevOps Engineer,0.9264
+CS2133,Sneha Reddy,24,BCA,Statistics;Algorithms;Python;Critical Thinking,Research,AI Engineer,0.7085
+CS2134,Ishita Singh,20,BCA,Database Management;Python;Cybersecurity;Communication;Research,Technology;Cloud Computing,Cloud Engineer,0.9298
+CS2135,Karan Kumar,22,B.Sc Computer Science,Design;Presentation;Graphic Design;Testing;Teamwork,Creativity,UI/UX Designer,0.8333
+CS2136,Diya Singh,25,B.Tech IT,CSS;React;JavaScript;Problem Solving;Leadership,Technology;Creativity,Web Developer,0.7654
+CS2137,Arjun Iyer,21,BCA,Linux;Python;Database Management;Networking;Leadership;Research,Technology;Cloud Computing,Cloud Engineer,0.8488
+CS2138,Karan Iyer,28,BCA,Presentation;Design;Teamwork;Research,Design;Creativity,UI/UX Designer,0.7143
+CS2139,Arjun Kumar,24,BCA,Linux;Database Management,Cloud Computing;Technology,Cloud Engineer,0.8376
+CS2140,Diya Reddy,25,B.Sc Computer Science,Cybersecurity;Linux;Database Management;Networking,Networking;Technology,Network Engineer,0.9438
+CS2141,Rahul Iyer,27,B.Tech CSE,Machine Learning;Statistics;Python;Algorithms;React,Artificial Intelligence,AI Engineer,0.8405
+CS2142,Sneha Patel,28,MCA,Database Management;Python,Cloud Computing;Technology,Cloud Engineer,0.7379
+CS2143,Ishita Reddy,28,B.Tech CSE,Project Management,Technology;Automation,DevOps Engineer,0.8498
+CS2144,Vihaan Gupta,28,B.Sc Computer Science,Cybersecurity;Testing;Risk Management;Leadership,Research;Security,Cybersecurity Analyst,0.9144
+CS2145,Karan Patel,29,MCA,Statistics;Python;Machine Learning;Data Analysis,Technology,UI/UX Designer,0.9575
+CS2146,Rohan Roy,23,MCA,Risk Management;Critical Thinking;Communication,Security,Cybersecurity Analyst,0.6962
+CS2147,Ishita Sharma,20,BCA,,Creativity;Design,UI/UX Designer,0.7508
+CS2148,Diya Gupta,21,B.Tech CSE,Project Management;Linux;Python;Communication,Technology;Automation,DevOps Engineer,0.8425
+CS2149,Pooja Patel,28,B.Sc Computer Science,C++;Debugging;Programming,Technology,Software Developer,0.8129
+CS2150,Anaya Reddy,25,B.Tech IT,Debugging;Software Development;Java;C++;Research,Programming;Technology,Web Developer,0.8628
+CS2151,Neha Patel,27,MCA,,Artificial Intelligence,AI Engineer,0.7376
+CS2152,Aarav Nair,27,MCA,Creativity;Graphic Design;Design;Statistics;Critical Thinking,Design,UI/UX Designer,0.8486
+CS2153,Pooja Singh,25,B.Sc Computer Science,Cybersecurity;Risk Management;Testing;Linux,Research;Security,Cybersecurity Analyst,0.7845
+CS2154,Pooja Roy,20,B.Tech IT,,Cloud Computing;Technology,Cloud Engineer,0.924
+CS2155,Sneha Reddy,20,BCA,Cybersecurity;Risk Management;Teamwork;Leadership,Security,Cybersecurity Analyst,0.7603
+CS2156,Diya Roy,22,B.Tech CSE,HTML;Programming;Problem Solving;Critical Thinking,Technology;Creativity,Web Developer,0.7852
+CS2157,Neha Das,20,B.Tech CSE,Cybersecurity,Research;Security,Cybersecurity Analyst,0.7575
+CS2158,Sneha Sharma,29,B.Sc Computer Science,Database Management;Python;Networking;Design;Teamwork;Critical Thinking,Cloud Computing,Cloud Engineer,0.8395
+CS2159,Rohan Roy,20,BCA,Python;Networking;Problem Solving,Technology,Cloud Engineer,0.9125
+CS2160,Arjun Reddy,22,B.Tech CSE,Presentation;Design;Python;Critical Thinking;Research,Design;Creativity,UI/UX Designer,0.7181
+CS2161,Karan Iyer,20,B.Tech CSE,Networking;Cybersecurity,Technology;Networking,Network Engineer,0.7364
+CS2162,Rohan Patel,21,B.Tech CSE,,Artificial Intelligence;Research,Data Scientist,0.8684
+CS2163,Aditi Roy,26,B.Tech CSE,Presentation;Graphic Design;Design;Creativity,Design,Cybersecurity Analyst,0.7654
+CS2164,Aarav Patel,23,BCA,Networking;Database Management,Technology,Cloud Engineer,0.7506
+CS2165,Rahul Sharma,29,BCA,Testing;Problem Solving,Security;Research,Cybersecurity Analyst,0.9546
+CS2166,Arjun Das,27,B.Sc Computer Science,Testing;Cybersecurity;Risk Management;Research,Research;Security,Cybersecurity Analyst,0.7193
+CS2167,Rahul Das,25,B.Sc Computer Science,Cybersecurity;Risk Management;Testing,Security;Research,Web Developer,0.7103
+CS2168,Aditi Kumar,26,B.Tech IT,React;Programming,Creativity;Technology,Web Developer,0.9145
+CS2169,Vihaan Iyer,21,B.Sc Computer Science,Presentation;Design;Graphic Design;Leadership;Communication,Creativity,UI/UX Designer,0.8404
+CS2170,Neha Kumar,24,B.Sc Computer Science,Machine Learning;Data Analysis;SQL;Python;Research,Data Analytics,Data Scientist,0.9554
+CS2171,Anaya Reddy,22,B.Tech CSE,Debugging;Java;Programming;Presentation;Problem Solving;Teamwork,Programming,Network Engineer,0.7369
+CS2172,Aarav Kumar,28,B.Sc Computer Science,Python;Algorithms;Statistics;Problem Solving;Leadership,Research;Artificial Intelligence,AI Engineer,0.8573
+CS2173,Aditi Reddy,29,B.Sc Computer Science,JavaScript;HTML;Research,Technology,Web Developer,0.8209
+CS2174,Aarav Iyer,29,B.Sc Computer Science,Linux;Networking;Python;Database Management,Technology;Cloud Computing,Cloud Engineer,0.6864
+CS2175,Vihaan Iyer,28,BCA,Linux;Cybersecurity;Testing;Risk Management,Security;Research,Cybersecurity Analyst,0.6963
+CS2176,Priya Roy,26,MCA,Linux;Risk Management;Testing;SQL,Security,Cybersecurity Analyst,0.7738
+CS2177,Anaya Sharma,22,B.Sc Computer Science,,Technology,Data Scientist,0.9441
+CS2178,Vihaan Reddy,24,BCA,Programming;CSS;HTML;JavaScript;Communication;Problem Solving,Technology;Creativity,Web Developer,0.8254
+CS2179,Vihaan Kumar,22,B.Sc Computer Science,Database Management;Networking;Leadership,Technology,Network Engineer,0.7339
+CS2180,Vihaan Sharma,20,MCA,Python;Statistics;Teamwork,Artificial Intelligence;Research,AI Engineer,0.9412
+CS2181,Anaya Patel,23,B.Tech IT,Networking;Problem Solving,Networking,Web Developer,0.8921
+CS2182,Neha Patel,22,MCA,Programming;Java;Risk Management;Research;Leadership,Technology;Programming,Software Developer,0.9583
+CS2183,Pooja Patel,24,B.Tech IT,Programming;Debugging;Leadership,Technology;Programming,Software Developer,0.769
+CS2184,Arjun Nair,26,BCA,Algorithms;Python;Machine Learning;Statistics;Communication;Problem Solving,Research,AI Engineer,0.6792
+CS2185,Aryan Iyer,24,MCA,C++;Programming,Technology;Programming,Software Developer,0.9171
+CS2186,Neha Singh,24,B.Tech CSE,Networking;Database Management;Graphic Design;Communication;Critical Thinking,Technology;Cloud Computing,Cloud Engineer,0.7709
+CS2187,Aarav Nair,24,BCA,Testing;Risk Management;Linux;Cybersecurity;Teamwork;Research,Security;Research,Cybersecurity Analyst,0.9108
+CS2188,Neha Singh,25,B.Sc Computer Science,HTML;React;Critical Thinking,Technology,Web Developer,0.7964
+CS2189,Aarav Patel,21,B.Tech IT,Linux;Risk Management;Cybersecurity;Testing;Research,Research,Cybersecurity Analyst,0.923
+CS2190,Arjun Sharma,23,MCA,Machine Learning;Statistics;Algorithms,Artificial Intelligence;Research,AI Engineer,0.9606
+CS2191,Aarav Singh,24,MCA,Database Management;Networking;Teamwork,Technology;Networking,Cybersecurity Analyst,0.6927
+CS2192,Diya Iyer,20,B.Sc Computer Science,HTML;React;Teamwork;Critical Thinking,Creativity,Web Developer,0.7267
+CS2193,Vihaan Sharma,27,B.Tech IT,,Research;Security,Cybersecurity Analyst,0.7338
+CS2194,Ishita Reddy,22,B.Tech IT,Project Management;Testing;Linux;Python,Automation;Technology,DevOps Engineer,0.71
+CS2195,Aarav Kumar,25,BCA,,Design;Creativity,UI/UX Designer,0.7632
+CS2196,Ishita Sharma,26,B.Sc Computer Science,Linux;Python;Database Management;Networking;Problem Solving,Cloud Computing,Cloud Engineer,0.722
+CS2197,Aditi Gupta,22,B.Tech CSE,,Programming,Software Developer,0.9576
+CS2198,Diya Sharma,28,BCA,Python;Machine Learning,Research,AI Engineer,0.7366
+CS2199,Aditi Das,26,B.Sc Computer Science,Cybersecurity;Networking,Networking;Technology,Network Engineer,0.6781
+CS2200,Priya Iyer,25,B.Tech IT,JavaScript;CSS;Cybersecurity,Creativity;Technology,Web Developer,0.9087
+CS2201,Aryan Nair,21,BCA,Cybersecurity;Testing;Risk Management;JavaScript,Research,Cybersecurity Analyst,0.9091
+CS2202,Vihaan Patel,23,B.Sc Computer Science,Database Management;Networking,Technology,Cloud Engineer,0.7807
+CS2203,Neha Roy,26,BCA,Algorithms;Statistics;Python;Machine Learning;Teamwork,Artificial Intelligence;Research,AI Engineer,0.6862
+CS2204,Rahul Reddy,28,B.Tech IT,Testing;Cybersecurity;React;Problem Solving;Communication,Security;Research,Cybersecurity Analyst,0.7641
+CS2205,Neha Kumar,25,MCA,Linux;Python;Database Management;Networking,Technology,Cloud Engineer,0.7008
+CS2206,Neha Sharma,27,MCA,Networking;Database Management;Cybersecurity,Technology;Networking,Network Engineer,0.8281
+CS2207,Karan Nair,27,MCA,C++;Java;Software Development;Problem Solving,Programming,Software Developer,0.7362
+CS2208,Arjun Iyer,23,B.Tech IT,Linux;Networking;Database Management,Technology;Networking,Network Engineer,0.9452
+CS2209,Vihaan Gupta,29,MCA,Machine Learning;Power BI;SQL;Statistics;Programming,Research,Data Scientist,0.797
+CS2210,Sneha Gupta,25,BCA,Java;Programming;Software Development,Technology,Software Developer,0.9369
+CS2211,Anaya Patel,22,B.Tech IT,Networking;Cybersecurity;Database Management;Machine Learning,Technology;Networking,Network Engineer,0.7306
+CS2212,Rohan Sharma,24,B.Tech IT,Python,Technology;Cloud Computing,Cloud Engineer,0.7052
+CS2213,Ishita Patel,22,B.Tech CSE,Python;Testing;Communication,Technology,DevOps Engineer,0.6751
+CS2214,Karan Sharma,21,MCA,Database Management;Cybersecurity;Networking;Linux,Networking;Technology,Network Engineer,0.6983
+CS2215,Arjun Reddy,22,BCA,Networking;Linux;Leadership,Technology,Cloud Engineer,0.742
+CS2216,Diya Roy,20,B.Tech IT,,Security,Cybersecurity Analyst,0.8969
+CS2217,Neha Iyer,26,B.Tech CSE,Statistics;Python;Algorithms;Machine Learning;Database Management;Problem Solving,Research,AI Engineer,0.8699
+CS2218,Sneha Roy,29,B.Sc Computer Science,Database Management;Cybersecurity,Networking,Network Engineer,0.7384
+CS2219,Aarav Kumar,20,B.Tech CSE,Algorithms;Statistics;Database Management,Research;Artificial Intelligence,AI Engineer,0.6859
+CS2220,Aditi Sharma,29,B.Tech IT,Networking;Database Management;Cybersecurity,Technology,Network Engineer,0.8443
+CS2221,Rahul Gupta,25,B.Tech CSE,Cybersecurity;Networking;Design,Technology,Network Engineer,0.7865
+CS2222,Priya Singh,22,BCA,,Creativity;Technology,Web Developer,0.8967
+CS2223,Sneha Gupta,29,MCA,Creativity;Graphic Design;Presentation;Machine Learning;Communication,Creativity;Design,UI/UX Designer,0.852
+CS2224,Ishita Roy,21,B.Sc Computer Science,Machine Learning;Python;Statistics;Algorithms;Project Management;Research;Leadership,Artificial Intelligence;Research,AI Engineer,0.7925
+CS2225,Neha Reddy,25,B.Tech IT,Graphic Design;Presentation;Design;Communication;Problem Solving,Design;Creativity,UI/UX Designer,0.7959
+CS2226,Aditi Kumar,24,BCA,Project Management;Python;Testing;Critical Thinking,Automation;Technology,Network Engineer,0.8738
+CS2227,Vihaan Iyer,21,BCA,Networking;Database Management;Cybersecurity;Leadership,Technology;Networking,Network Engineer,0.8986
+CS2228,Rohan Patel,21,B.Sc Computer Science,Design;Graphic Design;Creativity;Presentation;Leadership,Creativity,UI/UX Designer,0.7487
+CS2229,Aarav Nair,27,MCA,Testing;Project Management;Critical Thinking,Technology,DevOps Engineer,0.8178
+CS2230,Rohan Gupta,27,B.Sc Computer Science,Creativity;Design,Creativity,UI/UX Designer,0.949
+CS2231,Arjun Reddy,22,MCA,Risk Management;Cybersecurity,Security,Cybersecurity Analyst,0.7703
+CS2232,Diya Gupta,21,B.Sc Computer Science,Cybersecurity,Networking;Technology,Network Engineer,0.8612
+CS2233,Sneha Patel,28,MCA,Software Development;C++;Python,Technology;Programming,Software Developer,0.9716
+CS2234,Aarav Sharma,29,MCA,Graphic Design;Design;Presentation;Creativity;Problem Solving,Creativity,UI/UX Designer,0.7319
+CS2235,Aarav Singh,29,B.Tech CSE,Debugging;Java;Linux;Communication;Critical Thinking,Programming,Cybersecurity Analyst,0.8656
+CS2236,Pooja Sharma,20,MCA,Python;Data Analysis;SQL;Power BI;Problem Solving,Data Analytics;Technology,Data Scientist,0.7438
+CS2237,Anaya Gupta,20,B.Tech CSE,SQL;Statistics;Data Analysis;Machine Learning;Database Management;Communication;Research,Research,Data Scientist,0.8891
+CS2238,Aryan Nair,21,B.Tech CSE,Algorithms;Python;Teamwork;Problem Solving,Artificial Intelligence,AI Engineer,0.9364
+CS2239,Aditi Nair,28,BCA,Cybersecurity;Linux;Risk Management;Design;Leadership;Communication,Research,Cybersecurity Analyst,0.8197
+CS2240,Sneha Gupta,25,B.Tech CSE,Linux;Networking;Python,Technology,Cloud Engineer,0.9115
+CS2241,Neha Roy,24,B.Tech CSE,Project Management;Testing;Python;Leadership,Automation,DevOps Engineer,0.7353
+CS2242,Rohan Gupta,24,B.Sc Computer Science,Networking;Python,Technology;Cloud Computing,Cloud Engineer,0.9661
+CS2243,Diya Singh,28,BCA,Machine Learning;Algorithms;Python;Statistics;Problem Solving;Teamwork,Artificial Intelligence;Research,AI Engineer,0.6768
+CS2244,Rahul Nair,20,BCA,,Artificial Intelligence,AI Engineer,0.7018
+CS2245,Diya Nair,24,MCA,Python;Database Management;Networking;Risk Management;Research,Technology,Cloud Engineer,0.9607
+CS2246,Vihaan Kumar,25,B.Sc Computer Science,Python,Technology,Cloud Engineer,0.9376
+CS2247,Aarav Reddy,28,MCA,SQL;Statistics,Data Analytics,Data Scientist,0.7668
+CS2248,Aarav Nair,27,MCA,SQL;Machine Learning;Statistics;Communication;Problem Solving,Research;Technology,Data Scientist,0.7456
+CS2249,Aditi Reddy,29,BCA,Presentation;Creativity,Design,UI/UX Designer,0.8036
+CS2250,Arjun Singh,24,B.Tech IT,HTML;React;JavaScript;CSS;Teamwork;Critical Thinking,Creativity,Web Developer,0.739
+CS2251,Aarav Roy,28,MCA,Project Management;Python;Linux;Testing,Automation;Technology,DevOps Engineer,0.8798
+CS2252,Ishita Iyer,22,B.Sc Computer Science,React;Programming;HTML;CSS;Communication,Technology,Web Developer,0.954
+CS2253,Neha Patel,26,B.Sc Computer Science,Programming;CSS;React;HTML;Problem Solving;Teamwork,Technology;Creativity,Web Developer,0.7684
+CS2254,Ishita Sharma,21,BCA,Cybersecurity;Testing;Communication,Research,Cybersecurity Analyst,0.9723
+CS2255,Karan Kumar,24,B.Tech IT,Algorithms;Machine Learning;Python;Statistics;Critical Thinking;Research,Research;Artificial Intelligence,AI Engineer,0.7642
+CS2256,Rahul Kumar,29,B.Tech CSE,SQL;Python;Statistics;Machine Learning;Research,Technology;Data Analytics,Data Scientist,0.783
+CS2257,Neha Sharma,27,B.Tech CSE,JavaScript;CSS;Programming;Research,Creativity,Network Engineer,0.7971
+CS2258,Arjun Kumar,22,BCA,Design;Graphic Design,Design;Creativity,UI/UX Designer,0.7307
+CS2259,Anaya Iyer,26,B.Tech CSE,Risk Management;Cybersecurity;Testing;Linux;Software Development;Teamwork;Leadership,Security;Research,Cybersecurity Analyst,0.8788
+CS2260,Rahul Roy,24,BCA,Database Management;Networking;Data Analysis;Problem Solving,Technology;Networking,Network Engineer,0.8044
+CS2261,Priya Nair,29,B.Tech CSE,Presentation;Graphic Design;Design;Communication;Teamwork,Design;Creativity,UI/UX Designer,0.9265
+CS2262,Sneha Sharma,22,BCA,CSS;React;Critical Thinking;Research,Technology,Web Developer,0.8674
+CS2263,Neha Sharma,23,MCA,Graphic Design;Design;Creativity;C++,Creativity,UI/UX Designer,0.9105
+CS2264,Arjun Reddy,29,B.Sc Computer Science,Linux;Cybersecurity;Testing;Risk Management;Leadership;Research,Security,Cybersecurity Analyst,0.689
+CS2265,Rohan Iyer,28,MCA,Testing;Project Management;Linux,Automation,DevOps Engineer,0.962
+CS2266,Ishita Iyer,22,B.Sc Computer Science,Database Management;Cybersecurity;Research;Communication,Technology;Networking,Network Engineer,0.7852
+CS2267,Aditi Nair,20,BCA,Python;Project Management,Technology;Automation,DevOps Engineer,0.7256
+CS2268,Aarav Sharma,20,B.Tech CSE,JavaScript;CSS;Machine Learning;Critical Thinking,Technology,Web Developer,0.716
+CS2269,Ishita Das,23,BCA,Cybersecurity;Risk Management;Linux;Leadership,Security,Cybersecurity Analyst,0.8876
+CS2270,Rahul Gupta,26,BCA,CSS;React,Technology;Creativity,Web Developer,0.8395
+CS2271,Ishita Reddy,26,MCA,Linux;Database Management;Networking;Cybersecurity,Technology,Network Engineer,0.7509
+CS2272,Aditi Sharma,27,B.Sc Computer Science,JavaScript;React;HTML;Programming,Technology,AI Engineer,0.7473
+CS2273,Priya Das,23,MCA,Java;Debugging;Programming;Communication;Leadership,Technology;Programming,Software Developer,0.729
+CS2274,Aryan Patel,20,B.Tech IT,Python;Algorithms;Statistics;Communication,Artificial Intelligence;Research,AI Engineer,0.8958
+CS2275,Aryan Roy,27,MCA,Python;Statistics;Algorithms;Machine Learning;Leadership,Research;Artificial Intelligence,AI Engineer,0.8624
+CS2276,Diya Das,29,B.Tech CSE,Power BI;Data Analysis;Statistics,Data Analytics,Data Scientist,0.8203
+CS2277,Neha Sharma,29,B.Tech CSE,Database Management;Networking;Python;Critical Thinking,Technology,Cloud Engineer,0.74
+CS2278,Rahul Gupta,23,B.Sc Computer Science,Linux;Python;Testing;Leadership,Technology;Automation,DevOps Engineer,0.8561
+CS2279,Priya Iyer,28,B.Tech IT,HTML;React;CSS;Python;Teamwork,Technology;Creativity,Web Developer,0.9713
+CS2280,Karan Kumar,26,BCA,Networking;Cybersecurity;Python,Technology,Network Engineer,0.9452
+CS2281,Diya Nair,22,B.Tech IT,Statistics;Data Analysis;Python;Power BI;Communication;Research,Technology;Data Analytics,Data Scientist,0.8887
+CS2282,Karan Reddy,20,B.Sc Computer Science,Data Analysis;Statistics;Programming,Research;Data Analytics,Data Scientist,0.9622
+CS2283,Karan Roy,28,BCA,Networking;Cybersecurity;Problem Solving;Communication,Networking,Network Engineer,0.7106
+CS2284,Rahul Patel,22,B.Tech CSE,Testing;Linux;Communication,Automation;Technology,DevOps Engineer,0.91
+CS2285,Vihaan Reddy,21,BCA,Algorithms;Statistics;Testing;Leadership;Research,Artificial Intelligence,AI Engineer,0.9447
+CS2286,Arjun Sharma,25,B.Tech IT,Java;Programming;Debugging;Software Development;Research;Teamwork,Programming;Technology,Software Developer,0.9047
+CS2287,Aarav Nair,26,B.Tech IT,,Technology;Research,Data Scientist,0.7917
+CS2288,Ishita Das,22,B.Tech CSE,Programming;Java;React;Critical Thinking,Programming,Software Developer,0.8454
+CS2289,Pooja Patel,26,B.Tech CSE,Design;Presentation;Creativity;Graphic Design;Statistics;Research,Creativity;Design,UI/UX Designer,0.8464
+CS2290,Rahul Iyer,22,B.Tech CSE,Power BI;Data Analysis;Statistics;Python;Testing,Technology;Research,Data Scientist,0.7558
+CS2291,Priya Roy,24,BCA,Statistics;Algorithms;Machine Learning;Communication,Research,AI Engineer,0.7764
+CS2292,Priya Nair,21,MCA,C++;Software Development;Programming;Research,Technology,Software Developer,0.7863
+CS2293,Vihaan Gupta,28,BCA,Database Management;Networking;Linux;Python,Technology;Networking,Network Engineer,0.9106
+CS2294,Arjun Sharma,25,B.Sc Computer Science,Machine Learning;SQL;Teamwork,Research,Data Scientist,0.7105
+CS2295,Diya Singh,21,BCA,Networking;Python;Database Management;CSS;Leadership;Research,Technology,Cloud Engineer,0.8922
+CS2296,Priya Nair,25,MCA,Networking;Database Management;Python,Technology;Cloud Computing,Cloud Engineer,0.7963
+CS2297,Anaya Reddy,27,B.Tech CSE,CSS;Programming;React;JavaScript;Project Management;Leadership,Technology,Web Developer,0.9673
+CS2298,Sneha Singh,22,B.Tech IT,Python;Linux;Testing;Research;Teamwork,Automation,DevOps Engineer,0.8566
+CS2299,Sneha Nair,29,B.Sc Computer Science,Programming;Java;Debugging,Technology,Software Developer,0.9406
+CS2300,Priya Patel,20,B.Sc Computer Science,Database Management;Cybersecurity,Networking,Network Engineer,0.6933
+CS2301,Vihaan Iyer,29,B.Sc Computer Science,HTML;Programming;CSS;Critical Thinking,Technology,Web Developer,0.8232
+CS2302,Aditi Reddy,25,MCA,Networking;Cybersecurity;Linux;Database Management,Networking;Technology,Network Engineer,0.7007
+CS2303,Aryan Nair,22,B.Tech IT,Programming;CSS;Power BI,Technology,Web Developer,0.7334
+CS2304,Sneha Sharma,27,B.Tech CSE,Python;Networking;Linux;React,Technology,Cloud Engineer,0.7725
+CS2305,Aryan Roy,20,B.Tech IT,Graphic Design;Design;Presentation;Creativity;Problem Solving;Critical Thinking,Design;Creativity,Data Scientist,0.8708
+CS2306,Aarav Nair,22,B.Tech CSE,Database Management;Networking,Technology;Cloud Computing,Cloud Engineer,0.8501
+CS2307,Diya Iyer,27,B.Sc Computer Science,Power BI;Statistics;Debugging,Technology;Data Analytics,Data Scientist,0.8109
+CS2308,Arjun Sharma,29,B.Sc Computer Science,Creativity;Graphic Design;Teamwork;Critical Thinking,Design;Creativity,UI/UX Designer,0.8761
+CS2309,Karan Iyer,28,B.Tech CSE,Python;Machine Learning;Algorithms;Problem Solving,Research;Artificial Intelligence,AI Engineer,0.7303
+CS2310,Aditi Patel,22,B.Tech IT,Programming;JavaScript;React;Communication,Creativity,Web Developer,0.8843
+CS2311,Karan Patel,22,B.Tech IT,Testing;Python;Project Management,Technology;Automation,DevOps Engineer,0.904
+CS2312,Neha Reddy,29,B.Sc Computer Science,Python;Networking;Database Management;Statistics,Technology,Cloud Engineer,0.7941
+CS2313,Pooja Reddy,22,B.Tech IT,Project Management;Python,Automation;Technology,DevOps Engineer,0.933
+CS2314,Diya Reddy,28,MCA,Java;Software Development;Research,Programming,Software Developer,0.7759
+CS2315,Sneha Nair,24,B.Tech CSE,Testing;Risk Management;Linux,Research;Security,Cybersecurity Analyst,0.7334
+CS2316,Diya Das,22,B.Tech IT,Statistics;Data Analysis;Critical Thinking;Problem Solving,Research,Software Developer,0.783
+CS2317,Pooja Sharma,21,MCA,Risk Management;Cybersecurity;Linux;Problem Solving,Security;Research,Cybersecurity Analyst,0.9214
+CS2318,Karan Iyer,28,B.Tech IT,Statistics;SQL;Critical Thinking,Data Analytics,AI Engineer,0.8859
+CS2319,Aditi Iyer,27,B.Tech IT,Machine Learning;Python;SQL;Statistics;Teamwork;Communication,Technology;Research,Data Scientist,0.951
+CS2320,Aryan Nair,27,BCA,Risk Management;Testing;Debugging,Research;Security,Cybersecurity Analyst,0.7846
+CS2321,Karan Sharma,22,MCA,Testing;Python,Technology,DevOps Engineer,0.864
+CS2322,Pooja Sharma,27,B.Tech IT,Power BI;Data Analysis;Design,Technology;Data Analytics,Data Scientist,0.7597
+CS2323,Aditi Kumar,22,B.Tech IT,Cybersecurity;Testing;Project Management;Research;Leadership,Research,Software Developer,0.8932
+CS2324,Aditi Nair,20,BCA,Data Analysis;SQL;Machine Learning;Statistics;Communication;Critical Thinking,Technology,Data Scientist,0.7296
+CS2325,Ishita Singh,21,BCA,Testing;Python;Communication,Automation;Technology,DevOps Engineer,0.7319
+CS2326,Priya Patel,27,B.Tech IT,HTML;React;JavaScript;Programming;Presentation,Creativity;Technology,Web Developer,0.9462
+CS2327,Arjun Gupta,24,B.Sc Computer Science,Presentation;Design;Creativity;Graphic Design,Design,UI/UX Designer,0.9129
+CS2328,Pooja Kumar,28,B.Sc Computer Science,Database Management;Networking;Communication;Research,Technology;Cloud Computing,Cloud Engineer,0.6981
+CS2329,Ishita Nair,22,MCA,Power BI;SQL;Statistics;Leadership,Technology,Data Scientist,0.7869
+CS2330,Rahul Das,22,B.Tech CSE,Testing;Project Management;Problem Solving,Technology;Automation,DevOps Engineer,0.8506
+CS2331,Aryan Sharma,27,B.Tech CSE,Machine Learning;Python;Data Analysis;Statistics,Technology;Data Analytics,Data Scientist,0.7197
+CS2332,Rahul Nair,24,B.Sc Computer Science,Software Development;Java;Debugging;Critical Thinking,Programming;Technology,Software Developer,0.8774
+CS2333,Aarav Reddy,27,B.Tech IT,Networking;Database Management;Research;Critical Thinking,Cloud Computing,Cloud Engineer,0.8791
+CS2334,Karan Reddy,29,B.Sc Computer Science,CSS;HTML;Teamwork,Creativity;Technology,Web Developer,0.8689
+CS2335,Aryan Patel,23,BCA,Graphic Design;Presentation;Creativity;Design;Software Development;Communication,Creativity;Design,UI/UX Designer,0.8785
+CS2336,Sneha Iyer,27,B.Sc Computer Science,,Technology,Data Scientist,0.9259
+CS2337,Neha Sharma,23,MCA,SQL;Machine Learning,Research;Technology,Data Scientist,0.8542
+CS2338,Ishita Patel,27,B.Tech IT,Java;Software Development;C++;Cybersecurity;Critical Thinking;Problem Solving,Technology;Programming,Software Developer,0.9474
+CS2339,Pooja Gupta,21,B.Sc Computer Science,React;CSS;JavaScript;HTML;Cybersecurity;Teamwork;Problem Solving,Technology,Web Developer,0.7058
+CS2340,Diya Iyer,25,B.Sc Computer Science,Statistics;Algorithms;Python;Machine Learning;Problem Solving;Leadership,Research;Artificial Intelligence,AI Engineer,0.888
+CS2341,Aditi Patel,21,B.Sc Computer Science,Cybersecurity;Risk Management;Testing,Security;Research,Data Scientist,0.9607
+CS2342,Anaya Iyer,24,B.Sc Computer Science,Programming;HTML;JavaScript;Problem Solving,Creativity;Technology,Web Developer,0.9447
+CS2343,Rohan Nair,25,B.Tech CSE,Presentation;Creativity;Graphic Design;Design;Critical Thinking,Design,UI/UX Designer,0.6929
+CS2344,Diya Nair,23,BCA,C++;Java;Programming;Debugging;Critical Thinking,Technology;Programming,Software Developer,0.6797
+CS2345,Karan Singh,26,MCA,Networking;Risk Management,Technology,Network Engineer,0.9595
+CS2346,Diya Das,27,BCA,Python;Algorithms;Machine Learning;Statistics;Leadership;Research,Artificial Intelligence;Research,AI Engineer,0.9125
+CS2347,Vihaan Iyer,29,BCA,Debugging;Programming;Java;Communication,Technology,Software Developer,0.7914
+CS2348,Aryan Kumar,25,B.Tech CSE,Programming;Software Development;Debugging;Java;Research;Leadership,Programming;Technology,Software Developer,0.932
+CS2349,Aditi Kumar,23,B.Sc Computer Science,Cybersecurity;Networking;Database Management,Networking;Technology,Network Engineer,0.7296
+CS2350,Neha Iyer,27,B.Sc Computer Science,Statistics;SQL;Data Analysis;Programming;Leadership,Technology;Data Analytics,Data Scientist,0.7068
+CS2351,Karan Gupta,28,B.Tech CSE,Testing;Project Management;Machine Learning;Leadership;Problem Solving,Technology;Automation,DevOps Engineer,0.7025
+CS2352,Karan Nair,22,B.Tech CSE,Power BI;Data Analysis;Problem Solving;Critical Thinking,Data Analytics,Data Scientist,0.808
+CS2353,Aarav Patel,26,B.Sc Computer Science,Data Analysis;Python;Statistics;Database Management;Leadership,Research,Data Scientist,0.8713
+CS2354,Karan Nair,25,BCA,Design;Creativity;Communication,Design,UI/UX Designer,0.727
+CS2355,Anaya Iyer,29,B.Tech IT,Machine Learning;SQL;Data Analysis;Statistics;Communication,Data Analytics;Technology,Data Scientist,0.7538
+CS2356,Ishita Patel,22,B.Tech IT,Statistics;Power BI;Problem Solving,Research,AI Engineer,0.7535
+CS2357,Rahul Patel,25,B.Tech IT,Statistics;SQL;Python;HTML;Leadership,Data Analytics,Data Scientist,0.7412
+CS2358,Arjun Roy,24,B.Sc Computer Science,Project Management;Testing;Risk Management,Technology;Automation,DevOps Engineer,0.7296
+CS2359,Rahul Reddy,23,BCA,Python;Networking;Leadership,Technology,Cloud Engineer,0.9
+CS2360,Pooja Gupta,29,B.Tech CSE,Testing;Linux;Python;Project Management,Technology,DevOps Engineer,0.801
+CS2361,Diya Singh,23,MCA,Testing;Cybersecurity,Research;Security,Cloud Engineer,0.9136
+CS2362,Karan Iyer,26,B.Tech IT,Statistics;Machine Learning,Research;Artificial Intelligence,AI Engineer,0.7786
+CS2363,Sneha Nair,23,B.Sc Computer Science,Python;Project Management;Debugging,Technology,DevOps Engineer,0.7262
+CS2364,Ishita Reddy,29,B.Tech IT,,Creativity,UI/UX Designer,0.724
+CS2365,Priya Reddy,21,B.Tech CSE,Python;Project Management;Testing,Technology,DevOps Engineer,0.8325
+CS2366,Pooja Reddy,28,B.Tech CSE,Presentation;Design;Teamwork;Problem Solving,Design,UI/UX Designer,0.8634
+CS2367,Rohan Gupta,24,B.Tech IT,Project Management;Testing;Design;Leadership,Technology,DevOps Engineer,0.8073
+CS2368,Aditi Nair,24,B.Sc Computer Science,Cybersecurity;Database Management;Communication;Problem Solving,Technology;Networking,Network Engineer,0.8002
+CS2369,Diya Iyer,20,B.Tech CSE,Python;Networking;Problem Solving,Cloud Computing,Software Developer,0.7117
+CS2370,Sneha Singh,24,B.Sc Computer Science,C++;Programming;Debugging;Java;Problem Solving,Programming;Technology,Software Developer,0.7955
+CS2371,Vihaan Das,26,B.Tech CSE,HTML;JavaScript;Programming,Technology;Creativity,Cybersecurity Analyst,0.9366
+CS2372,Arjun Nair,21,MCA,Cybersecurity;Testing;Risk Management,Security,Cybersecurity Analyst,0.9241
+CS2373,Diya Roy,28,BCA,Testing;Communication,Technology,DevOps Engineer,0.8956
+CS2374,Vihaan Singh,28,MCA,Database Management,Networking,Network Engineer,0.953
+CS2375,Pooja Sharma,22,B.Sc Computer Science,Machine Learning;Statistics;Database Management;Teamwork,Data Analytics;Technology,Data Scientist,0.8077
+CS2376,Sneha Nair,24,MCA,Python;Project Management;Testing;Database Management;Teamwork;Communication,Technology,DevOps Engineer,0.8303
+CS2377,Vihaan Gupta,24,B.Tech CSE,Design;Presentation;Graphic Design;Creativity;Teamwork,Creativity,UI/UX Designer,0.8653
+CS2378,Rohan Reddy,24,B.Tech CSE,CSS;HTML;Programming;React;Teamwork;Problem Solving,Creativity;Technology,Web Developer,0.968
+CS2379,Ishita Singh,20,B.Tech CSE,Power BI;Machine Learning;Database Management;Critical Thinking;Teamwork,Research;Technology,Data Scientist,0.828
+CS2380,Aditi Patel,22,MCA,Statistics;Machine Learning,Research,AI Engineer,0.8308
+CS2381,Aditi Roy,21,B.Tech IT,CSS;React;Programming;Debugging;Research;Communication,Technology,Web Developer,0.9692
+CS2382,Aryan Das,27,B.Tech IT,,Research;Data Analytics,Data Scientist,0.9656
+CS2383,Rohan Patel,28,B.Tech IT,Python;Communication,Automation,DevOps Engineer,0.8354
+CS2384,Aryan Kumar,24,MCA,Risk Management;Leadership,Security;Research,Cybersecurity Analyst,0.6856
+CS2385,Sneha Patel,22,B.Sc Computer Science,JavaScript;HTML,Creativity,Web Developer,0.9579
+CS2386,Pooja Das,20,BCA,Database Management;Debugging;Critical Thinking,Technology,Network Engineer,0.841
+CS2387,Aryan Reddy,24,B.Tech IT,JavaScript;Programming;HTML;CSS;C++,Creativity,Web Developer,0.8392
+CS2388,Sneha Kumar,20,B.Tech IT,Python;Linux,Automation,DevOps Engineer,0.8986
+CS2389,Diya Reddy,25,B.Sc Computer Science,Linux;Database Management;Python;Networking;Testing,Cloud Computing;Technology,Cloud Engineer,0.8373
+CS2390,Ishita Kumar,26,B.Tech CSE,Cybersecurity;Risk Management;Testing,Security;Research,Cybersecurity Analyst,0.7192
+CS2391,Arjun Das,23,MCA,Java;Debugging;Research,Technology;Programming,AI Engineer,0.7179
+CS2392,Rohan Iyer,26,BCA,Testing;Project Management;Problem Solving;Communication,Technology,DevOps Engineer,0.8567
+CS2393,Rohan Singh,24,B.Sc Computer Science,,Security;Research,Cybersecurity Analyst,0.9388
+CS2394,Diya Gupta,27,BCA,Machine Learning;Python;Teamwork,Research,Data Scientist,0.7827
+CS2395,Diya Iyer,24,BCA,SQL;Statistics;Data Analysis;Machine Learning;Problem Solving,Data Analytics,Data Scientist,0.8619
+CS2396,Rohan Iyer,26,MCA,Networking;Linux,Technology;Networking,Network Engineer,0.9365
+CS2397,Karan Patel,21,BCA,Networking;Linux;Database Management;Cybersecurity,Technology,Network Engineer,0.7987
+CS2398,Priya Das,23,B.Sc Computer Science,,Design,UI/UX Designer,0.9009
+CS2399,Ishita Reddy,21,B.Sc Computer Science,Networking;Cybersecurity;Database Management;Statistics;Communication,Technology,Network Engineer,0.7541
+CS2400,Anaya Gupta,25,B.Sc Computer Science,Python;Power BI;Debugging;Problem Solving,Technology;Research,Data Scientist,0.6973
+CS2401,Aryan Singh,22,B.Tech IT,Testing;Risk Management,Research,Cybersecurity Analyst,0.7828
+CS2402,Aryan Gupta,23,B.Sc Computer Science,React;Programming;JavaScript;Leadership;Research,Creativity,Web Developer,0.8574
+CS2403,Rohan Kumar,21,BCA,React;Programming;Leadership;Communication,Creativity;Technology,Web Developer,0.9109
+CS2404,Arjun Singh,25,B.Tech IT,Networking;Python;Database Management;Design,Cloud Computing;Technology,Cloud Engineer,0.8159
+CS2405,Vihaan Das,24,B.Tech IT,Linux;Cybersecurity;Communication,Networking;Technology,Network Engineer,0.9445
+CS2406,Vihaan Singh,22,BCA,Cybersecurity;Testing;Presentation,Security,Cybersecurity Analyst,0.8841
+CS2407,Aditi Gupta,23,B.Sc Computer Science,Software Development;Debugging;C++;Critical Thinking;Leadership,Technology,Software Developer,0.8513
+CS2408,Rohan Nair,27,B.Tech IT,,Networking;Technology,Network Engineer,0.7857
+CS2409,Arjun Gupta,26,B.Sc Computer Science,Machine Learning;Algorithms;Risk Management,Research,AI Engineer,0.7861
+CS2410,Diya Sharma,26,B.Sc Computer Science,Database Management;Python;Networking;Problem Solving,Technology;Cloud Computing,Software Developer,0.8584
+CS2411,Anaya Gupta,20,B.Sc Computer Science,Database Management;Linux;Cybersecurity;Networking;Research,Networking;Technology,Network Engineer,0.9497
+CS2412,Pooja Sharma,24,BCA,Networking;Python;Database Management;JavaScript;Communication;Problem Solving,Technology,Cloud Engineer,0.8062
+CS2413,Pooja Patel,23,B.Tech IT,,Cloud Computing,Cloud Engineer,0.8421
+CS2414,Priya Patel,28,MCA,Networking;Database Management;Python,Technology;Cloud Computing,Cloud Engineer,0.8025
+CS2415,Karan Roy,28,BCA,Design;Presentation,Design,UI/UX Designer,0.8869
+CS2416,Ishita Nair,27,B.Tech CSE,Cybersecurity;Database Management;Networking;Testing,Technology;Networking,Network Engineer,0.8769
+CS2417,Vihaan Singh,22,BCA,,Creativity;Design,UI/UX Designer,0.9181
+CS2418,Karan Iyer,20,BCA,Machine Learning;Algorithms;Python;Leadership;Research,Artificial Intelligence;Research,AI Engineer,0.8257
+CS2419,Sneha Roy,27,BCA,Cybersecurity;Testing;Risk Management;JavaScript;Communication;Problem Solving,Security,Cybersecurity Analyst,0.8699
+CS2420,Sneha Das,26,B.Sc Computer Science,Python;Algorithms;Statistics;Machine Learning;Database Management;Communication;Research,Research;Artificial Intelligence,Data Scientist,0.7236
+CS2421,Karan Singh,23,B.Tech IT,Python;Project Management;Testing;Algorithms;Communication;Teamwork,Technology;Automation,DevOps Engineer,0.8892
+CS2422,Karan Das,29,BCA,Debugging;Java,Technology,Software Developer,0.7846
+CS2423,Rohan Das,27,MCA,Debugging;C++;Programming;Problem Solving,Technology,Software Developer,0.7952
+CS2424,Priya Patel,27,B.Tech IT,,Artificial Intelligence,AI Engineer,0.8252
+CS2425,Neha Nair,21,B.Tech IT,Python;Database Management;Linux;JavaScript,Technology,Cloud Engineer,0.8257
+CS2426,Karan Patel,27,MCA,Statistics;SQL;Python;Machine Learning,Technology,Data Scientist,0.9177
+CS2427,Sneha Das,22,B.Tech CSE,Linux;Python;Networking;Database Management,Cloud Computing,Cloud Engineer,0.7041
+CS2428,Ishita Nair,21,B.Sc Computer Science,Power BI;Machine Learning;Statistics;Leadership,Technology;Research,Data Scientist,0.7129
+CS2429,Neha Roy,20,B.Tech CSE,Python;Networking;Research;Teamwork,Technology,Cloud Engineer,0.7472
+CS2430,Rohan Patel,21,B.Sc Computer Science,Machine Learning;Algorithms,Artificial Intelligence;Research,AI Engineer,0.9583
+CS2431,Vihaan Das,25,B.Tech CSE,CSS;HTML;Programming;Algorithms,Creativity,Web Developer,0.8703
+CS2432,Ishita Singh,24,MCA,HTML;React,Technology,Web Developer,0.7823
+CS2433,Vihaan Roy,26,B.Tech IT,Algorithms;Statistics;Python;Machine Learning;Leadership,Artificial Intelligence,Software Developer,0.8195
+CS2434,Karan Patel,24,MCA,Project Management;Python;Linux;Communication,Automation;Technology,DevOps Engineer,0.7181
+CS2435,Vihaan Roy,26,B.Tech CSE,,Automation,Software Developer,0.8666
+CS2436,Priya Singh,25,MCA,Python;Statistics;Research,Artificial Intelligence;Research,AI Engineer,0.8804
+CS2437,Anaya Sharma,24,B.Sc Computer Science,,Design,UI/UX Designer,0.8275
+CS2438,Priya Sharma,24,B.Tech IT,,Technology,Data Scientist,0.8629
+CS2439,Arjun Kumar,21,BCA,Python;Linux;Database Management;Critical Thinking,Cloud Computing,Cloud Engineer,0.8826
+CS2440,Priya Singh,20,B.Sc Computer Science,Risk Management;Cybersecurity,Security,Cybersecurity Analyst,0.8826
+CS2441,Priya Reddy,26,BCA,C++;Debugging;Programming,Technology,Software Developer,0.8011
+CS2442,Priya Nair,23,MCA,Python;Statistics;Data Analysis;SQL,Research;Data Analytics,Data Scientist,0.8418
+CS2443,Sneha Kumar,28,B.Tech CSE,Testing;Linux;Project Management;Python,Automation;Technology,DevOps Engineer,0.814
+CS2444,Aryan Gupta,29,B.Sc Computer Science,Presentation;Design;Creativity;Critical Thinking,Creativity,UI/UX Designer,0.8498
+CS2445,Diya Kumar,20,BCA,JavaScript;Programming;Research,Creativity;Technology,UI/UX Designer,0.9398
+CS2446,Rohan Iyer,25,MCA,Power BI;Machine Learning,Research;Data Analytics,Data Scientist,0.9643
+CS2447,Aarav Sharma,29,B.Tech IT,Algorithms;Python,Artificial Intelligence;Research,AI Engineer,0.7847
+CS2448,Ishita Singh,20,B.Tech CSE,Linux;Risk Management;Testing,Security;Research,Cybersecurity Analyst,0.8975
+CS2449,Rohan Patel,22,B.Tech IT,CSS;JavaScript;React;HTML;Critical Thinking,Creativity,Web Developer,0.8509
+CS2450,Aryan Patel,26,MCA,,Design;Creativity,UI/UX Designer,0.9228
+CS2451,Vihaan Roy,24,MCA,Database Management;Linux;Networking,Networking,Network Engineer,0.9067
+CS2452,Neha Nair,26,B.Sc Computer Science,Algorithms;Machine Learning;Python;Problem Solving;Leadership,Research;Artificial Intelligence,AI Engineer,0.8926
+CS2453,Rahul Patel,26,MCA,Project Management;Python;Linux;Testing,Technology,DevOps Engineer,0.9467
+CS2454,Rahul Nair,29,B.Sc Computer Science,Presentation;Creativity;Graphic Design;Power BI,Design;Creativity,UI/UX Designer,0.8981
+CS2455,Aarav Gupta,20,B.Sc Computer Science,Graphic Design;Creativity;Design;Presentation,Creativity,Cybersecurity Analyst,0.7722
+CS2456,Aditi Reddy,22,B.Sc Computer Science,Cybersecurity;Linux;Database Management;Networking;Problem Solving;Leadership,Technology,Network Engineer,0.8074
+CS2457,Neha Gupta,20,B.Tech IT,Statistics;Algorithms;Python;Critical Thinking;Leadership,Artificial Intelligence,AI Engineer,0.8583
+CS2458,Ishita Gupta,23,B.Tech CSE,Testing;Linux,Technology;Automation,DevOps Engineer,0.8955
+CS2459,Arjun Patel,25,B.Tech CSE,CSS;Programming;Problem Solving;Research,Creativity;Technology,Web Developer,0.9171
+CS2460,Vihaan Reddy,24,BCA,Machine Learning;Statistics;SQL;Power BI;Programming;Leadership,Data Analytics;Technology,Data Scientist,0.771
+CS2461,Sneha Roy,26,B.Tech CSE,Machine Learning;Statistics;Algorithms,Artificial Intelligence;Research,AI Engineer,0.7353
+CS2462,Neha Kumar,21,B.Sc Computer Science,Cybersecurity;Linux;Research,Technology,Network Engineer,0.6855
+CS2463,Sneha Sharma,24,BCA,Networking;Linux;Database Management;Problem Solving;Communication,Technology,Cloud Engineer,0.8146
+CS2464,Aryan Singh,24,B.Tech IT,Machine Learning;Data Analysis;SQL;Python,Technology,Data Scientist,0.9456
+CS2465,Rahul Patel,28,B.Tech IT,,Automation;Technology,DevOps Engineer,0.688
+CS2466,Neha Roy,23,B.Tech CSE,Creativity;Presentation;Programming;Problem Solving;Critical Thinking,Creativity,UI/UX Designer,0.6895
+CS2467,Rahul Iyer,27,MCA,Python;Testing;Project Management,Automation,DevOps Engineer,0.9258
+CS2468,Vihaan Nair,22,B.Sc Computer Science,HTML;JavaScript;Programming;CSS;Database Management,Technology;Creativity,Web Developer,0.7333
+CS2469,Ishita Kumar,27,MCA,HTML;React;Programming;JavaScript;Testing;Leadership,Creativity;Technology,Data Scientist,0.7782
+CS2470,Neha Gupta,20,B.Tech CSE,Power BI;Machine Learning;Data Analysis,Research,Data Scientist,0.6965
+CS2471,Diya Sharma,22,B.Sc Computer Science,Linux;Cybersecurity,Technology;Networking,Network Engineer,0.77
+CS2472,Anaya Patel,23,MCA,Algorithms;Machine Learning;Statistics;Python;Leadership,Research;Artificial Intelligence,AI Engineer,0.8375
+CS2473,Priya Singh,24,MCA,Linux;Project Management;Testing;Python,Automation,DevOps Engineer,0.7723
+CS2474,Rahul Das,26,B.Sc Computer Science,Data Analysis;Machine Learning;HTML;Leadership,Data Analytics,Data Scientist,0.8883
+CS2475,Neha Reddy,26,MCA,React;CSS;Programming;HTML;Database Management,Creativity,Web Developer,0.8476
+CS2476,Diya Sharma,28,B.Sc Computer Science,Networking;Database Management;Communication,Networking,UI/UX Designer,0.7643
+CS2477,Neha Gupta,26,B.Sc Computer Science,Machine Learning;Python;Communication,Research,AI Engineer,0.7721
+CS2478,Rahul Das,28,B.Sc Computer Science,Python;Networking,Technology;Cloud Computing,Cloud Engineer,0.8079
+CS2479,Sneha Singh,27,B.Tech CSE,Debugging;C++;Teamwork,Technology;Programming,Software Developer,0.7914
+CS2480,Aditi Nair,22,MCA,Presentation;Graphic Design;Creativity;Design,Creativity;Design,UI/UX Designer,0.9063
+CS2481,Diya Patel,24,B.Sc Computer Science,C++;Java;HTML,Technology,Software Developer,0.8712
+CS2482,Arjun Iyer,28,MCA,,Creativity;Design,UI/UX Designer,0.961
+CS2483,Rahul Singh,26,B.Tech IT,,Technology;Data Analytics,Data Scientist,0.8522
+CS2484,Diya Iyer,23,BCA,Programming;CSS;JavaScript,Technology,Web Developer,0.7024
+CS2485,Karan Patel,24,MCA,JavaScript;HTML,Technology,Web Developer,0.7323
+CS2486,Pooja Kumar,24,B.Sc Computer Science,CSS;HTML;React;JavaScript;Teamwork;Communication,Creativity;Technology,Web Developer,0.8894
+CS2487,Aryan Gupta,26,BCA,Python;Database Management,Cloud Computing;Technology,Cloud Engineer,0.9287
+CS2488,Diya Gupta,27,B.Tech IT,Testing;Project Management;Python;Research;Problem Solving,Automation;Technology,DevOps Engineer,0.8136
+CS2489,Rohan Sharma,21,B.Tech IT,Debugging;Programming;Communication,Programming,Software Developer,0.9644
+CS2490,Priya Nair,21,B.Tech IT,Python;Statistics;Data Analysis,Research,Data Scientist,0.9673
+CS2491,Diya Roy,25,B.Sc Computer Science,,Technology,Web Developer,0.727
+CS2492,Anaya Singh,29,B.Tech IT,Machine Learning;Algorithms;Statistics;Python,Artificial Intelligence,AI Engineer,0.7645
+CS2493,Aditi Patel,21,B.Tech IT,Cybersecurity;Networking;Leadership,Networking,Network Engineer,0.9318
+CS2494,Aarav Iyer,23,B.Tech CSE,Design;Presentation;Creativity;Statistics;Teamwork,Creativity;Design,Software Developer,0.739
+CS2495,Anaya Iyer,29,B.Tech IT,Python;Database Management;Networking;Leadership;Critical Thinking,Technology,Cloud Engineer,0.6853
+CS2496,Ishita Reddy,23,MCA,React;CSS;Programming,Technology;Creativity,Web Developer,0.7382
+CS2497,Rohan Roy,21,B.Sc Computer Science,Python;Database Management,Technology,Cloud Engineer,0.7272
+CS2498,Aryan Kumar,24,B.Tech IT,Python;Project Management;Testing;Presentation;Communication,Technology,DevOps Engineer,0.7327
+CS2499,Vihaan Gupta,26,BCA,Power BI;Machine Learning;Java,Research;Data Analytics,DevOps Engineer,0.8009
+CS2500,Vihaan Iyer,20,B.Sc Computer Science,Data Analysis;Machine Learning;Python;SQL;Problem Solving,Research;Data Analytics,Data Scientist,0.7669

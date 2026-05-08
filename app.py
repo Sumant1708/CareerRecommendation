@@ -4,20 +4,9 @@ import numpy as np
 import pandas as pd
 
 import streamlit as st
-
-st.write("App started... 🚀")
-
-
 import os
 
 MODEL_PATH = "career_recommender_model.joblib"
-
-if not os.path.exists(MODEL_PATH):
-    st.error("Model file NOT FOUND ❌")
-else:
-    st.write("Model found ✅")
-    pipeline = joblib.load(MODEL_PATH)
-
 
 # ---------------- LOAD MODEL ---------------- #
 @st.cache_resource
@@ -28,7 +17,7 @@ pipeline = load_model()
 
 # ---------------- PREDICTION FUNCTION ---------------- #
 def predict_top_3_careers(age, education, skills_list, interests_list):
-    combined_text = ";".join(skills_list) + ";" + ";".join(interests_list)
+    combined_text = ";".join(skills_list + interests_list)
 
     user_df = pd.DataFrame([{
         "Age": age,
@@ -45,7 +34,31 @@ def predict_top_3_careers(age, education, skills_list, interests_list):
 
 
 # ---------------- PAGE CONFIG ---------------- #
-st.set_page_config(page_title="AI Career Recommender", page_icon="🎯")
+st.set_page_config(page_title="AI Career Recommender",)
+import time
+
+# ---------------- WELCOME LOADING SCREEN ---------------- #
+loading_placeholder = st.empty()
+
+with loading_placeholder.container():
+
+    st.markdown(
+        """
+        <div style='text-align: center; padding-top: 120px;'>
+            <h1 style='font-size: 50px;'>🎯</h1>
+            <h1>Welcome to the Career Recommendation System</h1>
+            <p style='font-size:18px; color:gray;'>
+                Loading AI Model...
+            </p>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+
+    with st.spinner("Initializing System..."):
+        time.sleep(2)
+
+loading_placeholder.empty()
 
 # ---------------- SESSION STATE ---------------- #
 if "results" not in st.session_state:
@@ -75,11 +88,23 @@ age = st.number_input("Age", min_value=15, max_value=60, value=20)
 
 education = st.selectbox(
     "Education Level",
-    ["High School", "Diploma", "Undergraduate", "Postgraduate"]
+    [
+        "B.Tech CSE",
+        "B.Tech IT",
+        "BCA",
+        "MCA",
+        "B.Sc Computer Science"
+    ]
 )
 
-skills = st.text_input("Skills (comma separated)", placeholder="e.g. Python, Machine Learning, Communication")
-interests = st.text_input("Interests (comma separated)", placeholder="e.g. AI, Business, Design")
+skills = st.text_input(
+    "Skills (comma separated)",
+    placeholder="e.g. Python, Machine Learning, SQL"
+)
+interests = st.text_input(
+    "Interests (comma separated)",
+    placeholder="e.g. Artificial Intelligence, Technology"
+)
 
 st.divider()
 
@@ -105,18 +130,37 @@ if st.session_state.results:
 
     # Career descriptions (customize more if you want)
     career_info = {
-        "Data Scientist": "Works with data, machine learning and analytics.",
-        "Software Engineer": "Develops applications, systems and software.",
-        "Web Developer": "Builds and maintains websites.",
-        "Designer": "Focuses on UI/UX and creative design."
-    }
+    "Data Scientist": "Works with data, analytics, statistics and machine learning.",
+    
+    "Web Developer": "Builds websites and web applications using frontend/backend technologies.",
+    
+    "Network Engineer": "Manages computer networks, servers and connectivity infrastructure.",
+    
+    "UI/UX Designer": "Designs user interfaces and improves user experience for applications.",
+    
+    "Cybersecurity Analyst": "Protects systems and networks from cyber threats and attacks.",
+    
+    "AI Engineer": "Builds intelligent systems using AI and deep learning technologies.",
+    
+    "Software Developer": "Develops software applications, systems and business solutions.",
+    
+    "Cloud Engineer": "Works with cloud platforms, deployment and infrastructure systems.",
+    
+    "DevOps Engineer": "Automates deployment pipelines and manages software operations."
+}
 
     # Display results
     for career, prob in st.session_state.results:
         st.markdown(f"### {career}")
-        st.progress(int(prob * 100))
+        st.progress(float(prob))
         st.write(f"Match Score: **{round(prob * 100, 2)}%**")
 
+        if prob > 0.80:
+            st.success("High Match")
+        elif prob > 0.60:
+            st.info("Moderate Match")
+        else:
+            st.warning("Low Match")
         if career in career_info:
             st.write(career_info[career])
 
